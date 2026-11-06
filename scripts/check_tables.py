@@ -17,8 +17,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 
+# Some FAA tables use a font whose "fi" and "ff" ligatures come out of the PDF text
+# layer as stray characters ("short \u00ffeld takeo\u02dbs"). Map them back.
+LIGATURES = {"\u00ff": "fi", "\u02db": "ff"}
+
+
 def tokens(s):
-    s = s.replace("–", "-").replace("−", "-").replace("­", "-")
+    for k, v in LIGATURES.items():
+        s = s.replace(k, v)
+    s = s.replace("\u2013", "-").replace("\u2212", "-").replace("\u00ad", "-")
     return re.findall(r"[A-Za-z]+|[-+]?\d[\d,]*\.?\d*|[-+]", s)
 
 

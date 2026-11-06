@@ -18,7 +18,7 @@ The key discovery that "lift" could be created by passing air over the top of a 
 
 **Figure 1-1.** George Cayley, the father of aeronautics (top) and a flying replica of his 1853 glider (bottom).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two black-and-white images: a portrait of George Cayley (top) and a replica glider in flight, with a fabric wing above an open boat-shaped carriage holding a pilot, and a cruciform tail (bottom).
 
 Earlier, Cayley studied the center of gravity of flying machines, as well as the effects of wing dihedral. Furthermore, he pioneered directional control of aircraft by including the earliest form of a rudder on his gliders. [Figure 1-1]
 
@@ -32,7 +32,7 @@ Powered heavier-than-air aviation grew from the Wright design. Inventors and fle
 
 **Figure 1-2.** Master of gliding and wing study, Otto Lilienthal (top) and one of his more than 2,000 glider flights (bottom).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two black-and-white photographs: a portrait of Otto Lilienthal (top) and Lilienthal hanging beneath a glider in flight beside a hill, watched by a crowd (bottom).
 
 [Page 1-2]
 
@@ -40,15 +40,15 @@ More powerful engines were developed, and airframe structures changed to take ad
 
 **Figure 1-3.** Octave Chanute gathered and published all of the aeronautical knowledge known to date in the late 1890s. Many early aviators benefited from this knowledge.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Black-and-white portrait photograph of Octave Chanute, seated.
 
 **Figure 1-4.** The Wright Flyer was the first successful powered aircraft. It was made primarily of wood and fabric.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Black-and-white photograph of the Wright Flyer, a biplane made of wood and fabric, just above the ground, with a man standing to the right.
 
 **Figure 1-5.** The world's first mono-wing by Louis Bleriot.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Black-and-white photograph of the Bleriot monoplane in flight just above a field, with a single wing above an open-frame fuselage.
 
 Leading up to World War I (WWI), stronger engines also allowed designers to develop thicker wings with stronger spars. Wire wing bracing was no longer needed. Flatter, lower wing surfaces on high-camber wings created more lift. WWI expanded the need for large quantities of reliable aircraft. Used mostly for reconnaissance, stacked-wing tail draggers with wood and metal truss frames with mostly fabric skin dominated the wartime sky. [Figure 1-7] The Red Baron's Fokker DR-1 was typical.
 
@@ -60,27 +60,27 @@ Into the 1930s, all-metal aircraft accompanied new lighter and more powerful eng
 
 **Figure 1-6.** The Junker J-1 all metal construction in 1910.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Black-and-white photograph of the Junkers J-1 all-metal monoplane on the ground in front of a hangar, with a man standing beside it.
 
 After WWII, the development of turbine engines led to higher altitude flight. The need for pressurized aircraft pervaded aviation. Semimonocoque construction needed to be made even stronger as a result. Refinements to the all-metal semimonocoque fuselage structure were made to increase strength and combat metal fatigue caused by the pressurization-depressurization cycle. Rounded window and door openings were developed to avoid weak areas where cracks could form. Integrally machined copper alloy aluminum skin resisted cracking and allowed thicker skin and controlled tapering. Chemical milling of wing skin structures provided great strength and smooth high-performance surfaces. Variable contour wings became easier to construct. Increases in flight speed accompanying jet travel brought about the need for thinner wings. Wing loading also increased greatly. Multispar and box beam wing designs were developed in response.
 
 **Figure 1-7.** World War I aircraft were typically stacked-wing fabric-covered aircraft like this Breguet 14 (circa 1917).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Black-and-white photograph of a Breguet 14 biplane on the ground, with two stacked wings braced by struts and wires.
 
 **Figure 1-8.** The flying boat hull was an early semimonocoque design like this Curtiss HS-2L.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Black-and-white aerial photograph of a Curtiss HS-2L flying boat on the water, with a boat-shaped hull, a biplane wing and military star insignia.
 
 In the 1960s, ever larger aircraft were developed to carry passengers. As engine technology improved, the jumbo jet was engineered and built. Still primarily aluminum with a semimonocoque fuselage, the sheer size of the airliners of the day initiated a search for lighter and stronger materials from which to build them. The use of honeycomb constructed panels in Boeing's airline series saved weight while not compromising strength. Initially, aluminum core with aluminum or fiberglass skin sandwich panels were used on wing panels, flight control surfaces, cabin floor boards, and other applications.
 
 **Figure 1-11.** Examples of different categories of aircraft, clockwise from top left: lighter-than-air, glider, rotorcraft, and airplane.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Four photographs: a Goodyear blimp (lighter-than-air, top left), a glider in flight (top right), a helicopter (rotorcraft, bottom right) and a high-wing airplane (bottom left).
 
 **Figure 1-9.** The De Havilland Mosquito used a laminated wood construction with a balsa wood core in the fuselage.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a De Havilland Mosquito, a twin-engine propeller aircraft, parked on its main gear with wheel chocks.
 
 [Page 1-4]
 
@@ -88,7 +88,7 @@ A steady increase in the use of honeycomb and foam core sandwich components and 
 
 **Figure 1-10.** The nearly all composite Cessna Citation Mustang very light jet (VLJ).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a white Cessna Citation Mustang light business jet in flight, with two engines mounted on the rear fuselage.
 
 100 percent. The term "very light jet" (VLJ) has come to describe a new generation of jet aircraft made almost entirely of advanced composite materials. [Figure 1-10] It is possible that noncomposite aluminum aircraft structures will become obsolete as did the methods and materials of construction used by Cayley, Lilienthal, and the Wright Brothers.
 
@@ -114,7 +114,7 @@ Aircraft structural members are designed to carry a load or to resist stress. In
 
 **Figure 1-12.** A monoplane (top), biplane (middle), and tri-wing aircraft (bottom).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three photographs: a low-wing monoplane on a ramp (top), a blue and yellow biplane in flight (middle) and a black-and-white photo of a triplane with three stacked wings (bottom).
 
 A single member of the structure may be subjected to a combination of stresses. In most cases, the structural members are designed to carry end loads rather than side loads: that is, to be subjected to tension or compression rather than bending.
 
@@ -124,7 +124,7 @@ The term "stress" is often used interchangeably with the word "strain." While re
 
 **Figure 1-13.** Principal airframe units.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a high-wing airplane with its principal units: wings, powerplant, fuselage, stabilizers, flight controls (on the wings and tail) and landing gear.
 
 [Page 1-6]
 
@@ -150,7 +150,7 @@ Strength or resistance to the external loads imposed during operation may be the
 
 **Figure 1-14.** The five stresses that may act on an aircraft and its parts.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustrations of the five stresses: A. Tension (hands pulling a bar apart); B. Compression (hands pushing the ends of a bar together); C. Torsion (hands twisting a bar); D. Shear (two plates pulled in opposite directions across a single fastener); E. Bending (the combination stress), a bent structural member with tension outside of the bend, compression inside of the bend, and shear along an imaginary line (dotted).
 
 [Page 1-7]
 
@@ -170,7 +170,7 @@ The monocoque (single shell) fuselage relies largely on the strength of the skin
 
 **Figure 1-15.** A truss-type fuselage. A Warren truss uses mostly diagonal bracing.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a welded tube truss fuselage frame with longerons, vertical web members and diagonal web members.
 
 [Page 1-8]
 
@@ -190,13 +190,13 @@ Stringers are typically more numerous and lighter in weight than the longerons. 
 
 **Figure 1-16.** An airframe using monocoque construction.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a monocoque structure: a tube of skin over formers, closed at the end by a bulkhead.
 
 Other bracing between the longerons and stringers can also be used. Often referred to as web members, these additional support pieces may be installed vertically or diagonally. It must be noted that manufacturers use different nomenclature to describe structural members. For example, there is often little difference between some rings, frames, and formers. One manufacturer may call the same type of brace a ring or a frame. Manufacturer instructions and specifications for a specific aircraft are the best guides.
 
 **Figure 1-17.** The most common airframe construction is semimonocoque.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of semimonocoque construction: skin over a framework of bulkheads, longerons and stringers.
 
 [Page 1-9]
 
@@ -210,7 +210,7 @@ Fuselages are generally constructed in two or more sections. On small aircraft, 
 
 **Figure 1-18.** Gussets are used to increase strength.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a metal gusset plate (marked by an arrow) riveted across a joint between structural tubes.
 
 ##### Reinforced Shell Type
 
@@ -236,7 +236,7 @@ The wings of an aircraft are designed to lift it into the air. Their particular 
 
 **Figure 1-19.** Various wing design shapes yield different performance.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Top-view illustrations of six wing shapes: tapered leading edge with straight trailing edge; tapered leading and trailing edges; delta wing; sweptback wings; straight leading and trailing edges; straight leading edge with tapered trailing edge.
 
 [Page 1-10]
 
@@ -244,15 +244,15 @@ Often wings are of full cantilever design. This means they are built so that no 
 
 **Figure 1-20.** Wing attach points and wing dihedrals.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Front-view illustrations of six wing positions and shapes: low wing, dihedral (wings angled upward, with a dashed reference line), high wing, mid wing, gull wing and inverted gull.
 
 **Figure 1-21.** "Left" and "right" on an aircraft are oriented to the perspective of a pilot sitting in the flight deck.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Rear view of a twin-engine low-wing airplane in flight, with the left wing labeled on the left and the right wing on the right, as seen from the pilot's seat.
 
 **Figure 1-22.** Externally braced wings, also called semicantilever wings, have wires or struts to support the wing. Full cantilever wings have no external bracing and are supported internally.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Front-view illustrations of wing bracing: full cantilever wings (no external bracing, two examples); semicantilever wings with struts (two examples); a wire braced biplane; and a high wing with long struts braced with jury struts.
 
 [Page 1-11]
 
@@ -274,7 +274,7 @@ The multispar wing incorporates more than one main longitudinal member in its co
 
 **Figure 1-23.** Wing structure nomenclature.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled cutaway illustrations of a wing. Left: nose ribs and ribs between the front spar and rear spar. Right: skin over ribs and stringers.
 
 [Page 1-12]
 
@@ -286,7 +286,7 @@ Spars are the principal structural members of the wing. They correspond to the l
 
 **Figure 1-24.** Box beam construction.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cutaway illustration of a wing built as a box beam, with the skin cut away to show box-shaped compartments formed by spars and ribs.
 
 Spars may be made of metal, wood, or composite materials depending on the design criteria of a specific aircraft. Wooden spars are usually made from spruce. They can be generally classified into four different types by their cross-sectional configu ration. As shown in Figure 1-25, they may be (A) solid, (B) box-shaped, (C) partly hollow, or (D) in the form of an I-beam. Lamination of solid wood spars is often used to increase strength. Laminated wood can also be found in box-shaped spars. The spar in Figure 1-25E has had material removed to reduce weight but retains the strength of a rectangular spar. As can be seen, most wing spars are basically rectangular in shape with the long dimension of the cross-section oriented up and down in the wing.
 
@@ -294,7 +294,7 @@ Currently, most manufactured aircraft have wing spars made of solid extruded alu
 
 **Figure 1-25.** Typical wooden wing spar cross-sections.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustrations of five wooden spar cross-sections labeled A to E: A, solid rectangular; B, solid with routed sides; C, hollow box; D, I-shaped; E, solid with a laminated section.
 
 [Page 1-13]
 
@@ -304,7 +304,7 @@ It could also have no stiffeners but might contain flanged holes for reducing we
 
 **Figure 1-26.** Examples of metal wing spar shapes.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustrations of five metal spar shapes, including I-beams and channel sections, one with lightening holes in the web and one built from two channels back to back.
 
 Additionally, fail-safe spar web design exists. Fail-safe means that should one member of a complex structure fail, some other part of the structure assumes the load of the failed member and permits continued operation. A spar with fail-safe construction is shown in Figure 1-30. This spar is made in two sections. The top section consists of a cap riveted to the upper web plate. The lower section is a single extrusion consisting of the lower cap and web plate. These two sections are spliced together to form the spar. If either section of this type of spar breaks, the other section can still carry the load. This is the fail-safe feature.
 
@@ -314,15 +314,15 @@ False spars are commonly used in wing design. They are longitudinal members like
 
 **Figure 1-27.** A truss wing spar.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a truss spar: upper cap member and lower cap member joined by vertical tubes and diagonal tubes, with riveted gusset plates at the joints.
 
 **Figure 1-28.** A plate web wing spar with vertical stiffeners.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a plate web spar: upper spar cap, lower spar cap, a web with vertical stiffeners, and a rib attach angle.
 
 **Figure 1-29.** A sine wave wing spar can be made from aluminum or composite materials.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a spar with caps along the top and bottom and a sine wave web (a corrugated web) between them.
 
 [Page 1-14]
 
@@ -332,7 +332,7 @@ Ribs are the structural crosspieces that combine with spars and stringers to mak
 
 **Figure 1-30.** A fail-safe spar with a riveted spar web.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a fail-safe spar: an upper spar cap and lower spar cap, an upper spar web and a lower spar web joined by a riveted splice, and rows of rivets.
 
 Wing ribs are usually manufactured from either wood or metal. Aircraft with wood wing spars may have wood or metal ribs while most aircraft with metal spars have metal ribs. Wood ribs are usually manufactured from spruce. The three most common types of wooden ribs are the plywood web, the lightened plywood web, and the truss types. Of these three, the truss type is the most efficient because it is strong and lightweight, but it is also the most complex to construct.
 
@@ -342,7 +342,7 @@ A wing rib may also be referred to as a plain rib or a main rib. Wing ribs with 
 
 **Figure 1-31.** Examples of wing ribs constructed of wood.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three illustrations of wooden wing ribs, labeled A to C: A, a truss rib of cap strips and diagonal braces; B, a truss rib with plywood gussets and a lightened trailing section; C, a plywood web rib with round lightening holes.
 
 [Page 1-15]
 
@@ -350,7 +350,7 @@ Since the ribs are laterally weak, they are strengthened in some wings by tapes 
 
 **Figure 1-32.** Basic wood wing structure and components.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled plan view of a wood wing structure: wing tip, leading edge strip, nose rib or false rib, front spar, rear spar, anti-drag wire or tie rod, drag wire or tie rod, wing rib or plain rib, wing butt rib (or compression rib or bulkhead rib), wing attach fittings, false spar or aileron spar, aileron and aileron hinge.
 
 At the inboard end of the wing spars is some form of wing attach fitting as illustrated in Figure 1-32. These provide a strong and secure method for attaching the wing to the fuselage. The interface between the wing and fuselage is often covered with a fairing to achieve smooth airflow in this area. The fairing(s) can be removed for access to the wing attach fittings. [Figure 1-33]
 
@@ -358,11 +358,11 @@ The wing tip is often a removable unit, bolted to the outboard end of the wing p
 
 **Figure 1-33.** Wing root fairings smooth airflow and hide wing attach fittings.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of the side of a low-wing aircraft, with the wing root fairing between the wing and fuselage outlined in yellow.
 
 **Figure 1-34.** A removable metal wing tip.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a removable metal wing tip: upper skin, access panel, leading edge outer skin, corrugated inner skin, louver, heat duct, reflector rod, wing cap, wing tip navigation light, and points of attachment to front and rear spar fittings (2 upper, 2 lower).
 
 [Page 1-16]
 
@@ -376,11 +376,11 @@ The wing skin on an aircraft may be made from a wide variety of materials such a
 
 **Figure 1-35.** The skin is an integral load carrying part of a stressed skin design.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cutaway illustration of a stressed skin wing section, with the skin cut away to show closely spaced ribs and stringers that carry load with the skin.
 
 **Figure 1-36.** Fuel is often carried in the wings.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cutaway illustration of a wing with part of the upper skin removed to show a sealed structure fuel tank (wet wing) built into the wing, with a filler opening on top.
 
 [Page 1-17]
 
@@ -392,7 +392,7 @@ Nacelles (sometimes called "pods") are streamlined enclosures used primarily to 
 
 **Figure 1-37.** The honeycomb panel is a staple in aircraft construction. Cores can be either constant thickness (A) or tapered (B). Tapered core honeycomb panels are frequently used as flight control surfaces and wing trailing edges.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-sections of honeycomb panels: A, constant thickness, a core between two skins of equal spacing; B, tapered core, skins converging to a point at one end.
 
 [Page 1-18]
 
@@ -408,7 +408,7 @@ Cowling refers to the detachable panels covering those areas into which access m
 
 **Figure 1-38.** Honeycomb wing construction on a large jet transport aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of the trailing edge area of a large jet wing, showing where sandwich panels are used: trailing edge sandwich panels (constant-thickness core), spoiler sandwich panels (tapered core, solid wedge), aileron tab sandwich panels (tapered core, phenolic wedge, and constant-thickness core), and a trailing edge wedge sandwich panel (tapered core, cord wedge). Also labeled: wing leading edge, outboard flap and inboard flap.
 
 [Page 1-19]
 
@@ -418,7 +418,7 @@ An example of a turbojet engine nacelle can be seen in Figure 1-45. The cowl pan
 
 **Figure 1-45.** Cowling on a transport category turbine engine nacelle.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a turbofan engine nacelle on a transport aircraft with the cowling halves hinged open on each side of the engine, showing the fan at the front.
 
 ### Empennage
 
@@ -426,15 +426,15 @@ The empennage of an aircraft is also known as the tail section. Most empennage d
 
 **Figure 1-39.** A wing leading edge formed from honeycomb material bonded to the aluminum spar structure.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a wing leading edge: a honeycomb sandwich core between glass reinforced plastic skins, with wooden members spanwise and chordwise, and a metal member bonded to the sandwich and joined to the metal wing spar.
 
 **Figure 1-40.** Engine nacelle incorporating the landing gear with the wheel well extending into the wing root.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a twin-engine airplane taking off with its gear retracting into the engine nacelles, with an inset close-up of a main wheel retracting into a nacelle.
 
 **Figure 1-41.** An engine nacelle firewall.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of the firewall at the front of a yellow high-wing aircraft's fuselage with the engine removed, showing the metal firewall panel with fittings, above the nose gear.
 
 [Page 1-21]
 
@@ -446,11 +446,11 @@ The structure of the stabilizers is very similar to that which is used in wing c
 
 **Figure 1-42.** Various aircraft engine mounts.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a horizontally opposed engine with its cowling removed, mounted on a tubular engine mount, with exhaust pipes below.
 
 **Figure 1-43.** Typical cowling for a horizontally opposed reciprocating engine.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of the cowling for a horizontally opposed engine shown separated into its panels: top panels, side panels, the nose cowl around the propeller, and the spinner.
 
 The rudder and elevator are flight control surfaces that are also part of the empennage discussed in the next section of this chapter.
 
@@ -460,19 +460,19 @@ The directional control of a fixed-wing aircraft takes place around the lateral,
 
 **Figure 1-44.** Orange peel cowling for large radial reciprocating engine.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of orange peel cowling for a radial engine: four curved cowl panels hinged open around the engine opening, like the sections of a peeled orange.
 
 **Figure 1-46.** The fuselage terminates at the tail cone with similar but more lightweight construction.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a tail cone: frames, bulkheads, longerons, stringers and skin, tapering toward the tail.
 
 **Figure 1-47.** Components of a typical empennage.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of an empennage on the end of a fuselage: vertical stabilizer, rudder, horizontal stabilizer, elevator, and trim tabs on the rudder and elevator.
 
 **Figure 1-48.** Vertical stabilizer.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a vertical stabilizer structure: spars, ribs and stringers under the skin.
 
 [Page 1-23]
 
@@ -484,7 +484,13 @@ Primary control surfaces are usually similar in construction to one another and 
 
 **Figure 1-49.** Flight control surfaces move the aircraft around the three axes of flight.
 
-*Figure description:* (Description not yet written.)
+| Primary Control Surface | Airplane Movement | Axes of Rotation | Type of Stability |
+|---|---|---|---|
+| Aileron | Roll | Longitudinal | Lateral |
+| Elevator/Stabilator | Pitch | Lateral | Longitudinal |
+| Rudder | Yaw | Vertical | Directional |
+
+*Figure description:* Illustration of an airplane with its three axes of rotation: the elevator controls pitch around the lateral axis (longitudinal stability); the rudder controls yaw around the vertical axis (directional stability); the ailerons control roll around the longitudinal axis (lateral stability). A table below summarizes them.
 
 [Page 1-24]
 
@@ -492,7 +498,7 @@ Primary control surfaces constructed from composite materials are also commonly 
 
 **Figure 1-50.** Typical structure of an aluminum flight control surface.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled side-view illustration of an aluminum control surface rib: the spar at the front, an aileron hinge-pin fitting, an actuating horn, and lightening holes in the rib.
 
 Performed to manufacturer's instructions, balancing usually consists of assuring that the center of gravity of a particular device is at or forward of the hinge point. Failure to properly balance a control surface could lead to catastrophic failure. Figure 1-52 illustrates several aileron configurations with their hinge points well aft of the leading edge. This is a common design feature used to prevent flutter.
 
@@ -510,23 +516,23 @@ Simple, light aircraft usually do not have hydraulic or electric fly-by-wire ail
 
 **Figure 1-51.** Composite control surfaces and some of the many aircraft that utilize them.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three photographs of aircraft that use composite control surfaces: a red and white Coast Guard helicopter in flight, a Boeing 787 airliner in front of a hangar with a crowd, and a low-wing single-engine airplane on grass.
 
 **Figure 1-52.** Aileron hinge locations are very close to but aft of the center of gravity to prevent flutter.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Six cross-section illustrations of a wing trailing edge with an aileron (orange) behind it, each showing a different hinge point location close to the front of the aileron.
 
 **Figure 1-53.** Aileron location on various wings.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Four top-view illustrations of wing tips, each with the aileron (hatched) in a different position along the trailing edge near the tip.
 
 **Figure 1-54.** Differential aileron control movement. When one aileron is moved down, the aileron on the opposite wing is deflected upward.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a high-wing airplane with one aileron deflected down (labeled down aileron) and the other deflected up (labeled up aileron), above a control yoke turned to one side.
 
 **Figure 1-55.** Transferring control surface inputs from the flight deck.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a flight deck control linkage: control columns connected through torque tubes and bellcranks, with elevator cables, cables to the ailerons, stops, and a tether stop. A note reads: "Note pivots not on center of shaft".
 
 [Page 1-25]
 
@@ -548,7 +554,7 @@ As with the other primary flight controls, the transfer of the movement of the f
 
 **Figure 1-56.** Typical flight control surfaces on a transport category aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a transport aircraft wing from above, showing an inboard aileron, an outboard aileron and several flight spoilers on the upper surface.
 
 The ailerons, elevators, and rudder are considered conventional primary control surfaces. However, some aircraft are designed with a control surface that may serve a dual purpose. For example, elevons perform the combined functions of the ailerons and the elevator. [Figure 1-57]
 
@@ -558,7 +564,7 @@ A ruddervator combines the action of the rudder and elevator. [Figure 1-59] This
 
 **Figure 1-57.** Elevons.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a black flying-wing jet in flight, with the elevons along the trailing edges of both wings outlined and labeled.
 
 #### Secondary or Auxiliary Control Surfaces
 
@@ -570,11 +576,11 @@ Flaps are found on most aircraft. They are usually inboard on the wings' trailin
 
 **Figure 1-58.** A stabilizer and index marks on a transport category aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Close-up photograph of the root of a horizontal stabilizer on a transport aircraft, with index marks on the fuselage beside the stabilizer leading edge.
 
 **Figure 1-59.** Ruddervator.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a V-tail airplane from behind, with one of the two ruddervators outlined and labeled.
 
 [Page 1-27]
 
@@ -584,7 +590,7 @@ There are various kinds of flaps. Plain flaps form the trailing edge of the wing
 
 **Figure 1-60.** Flaperons.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a red high-wing airplane on grass, with the flaperons along the wing trailing edge outlined and labeled.
 
 A split flap is normally housed under the trailing edge of the wing. [Figure 1-63B] It is usually just a braced flat metal plate hinged at several places along its leading edge. The upper surface of the wing extends to the trailing edge of the flap. When deployed, the split flap trailing edge lowers away from the trailing edge of the wing. Airflow over the top of the wing remains the same. Airflow under the wing now follows the camber created by the lowered split flap, increasing lift.
 
@@ -596,27 +602,41 @@ Heavy aircraft often have leading edge flaps that are used in conjunction with t
 
 **Figure 1-61.** Secondary or auxiliary control surfaces and respective locations for larger aircraft.
 
-*Figure description:* (Description not yet written.)
+| Name | Location | Function |
+|---|---|---|
+| Flaps | Inboard trailing edge of wings | Extends the camber of the wing for greater lift and slower flight. Allows control at low speeds for short field takeoffs and landings. |
+| Trim tabs | Trailing edge of primary flight control surfaces | Reduces the force needed to move a primary control surface. |
+| Balance tabs | Trailing edge of primary flight control surfaces | Reduces the force needed to move a primary control surface. |
+| Anti-balance tabs | Trailing edge of primary flight control surfaces | Increases feel and effectiveness of primary control surface. |
+| Servo tabs | Trailing edge of primary flight control surfaces | Assists or provides the force for moving a primary flight control. |
+| Spoilers | Upper and/or trailing edge of wing | Decreases (spoils) lift. Can augment aileron function. |
+| Slats | Mid to outboard leading edge of wing | Extends the camber of the wing for greater lift and slower flight. Allows control at low speeds for short field takeoffs and landings. |
+| Slots | Outer leading edge of wing forward of ailerons | Directs air over upper surface of wing during high angle of attack. Lowers stall speed and provides control during slow flight. |
+| Leading edge flap | Inboard leading edge of wing | Extends the camber of the wing for greater lift and slower flight. Allows control at low speeds for short field takeoffs and landings. |
+
+NOTE: An aircraft may possess none, one, or a combination of the above control surfaces.
+
+*Figure description:* Table titled "Secondary/Auxiliary Flight Control Surfaces".
 
 **Figure 1-62.** Various aircraft with flaps in the extended position.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Five photographs of aircraft with flaps extended: a low-wing airplane approaching to land, the view along an airliner wing with flaps lowered, a close-up of an extended flap, an airliner seen from below with flaps down, and a high-wing airplane seen from below with flaps down.
 
 **Figure 1-63.** Various types of flaps.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section illustrations of three flap types: A, plain flap (the rear part of the wing hinges down); B, split flap (only the lower surface hinges down); C, Fowler flap (the flap slides back and down, leaving a gap).
 
 **Figure 1-66.** Side view (left) and front view (right) of a Krueger flap on a Boeing 737.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs of a Krueger flap on a Boeing 737: a side view of the extended flap under the wing leading edge (left) and a front view of the leading edge beside the engine (right).
 
 **Figure 1-64.** Triple-slotted flap.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section illustration of a triple-slotted flap, shown retracted under the wing trailing edge and extended as three separate sections labeled fore flap, mid flap and aft flap, with slots between them.
 
 **Figure 1-65.** Leading edge flaps.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a Krueger-type leading edge flap: shown flap retracted inside the wing leading edge and (dashed) flap extended down and forward, with a hinge point, an actuator and a retractable nose.
 
 [Page 1-29]
 
@@ -636,11 +656,11 @@ Spoilers are unique in that they may also be fully deployed on both wings to act
 
 **Figure 1-67.** Air passing through the slot aft of the slat promotes boundary layer airflow on the upper surface at high angles of attack.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph from below of a wing leading edge with a slat extended forward on its tracks, leaving a slot behind it.
 
 **Figure 1-68.** Spoilers deployed upon landing on a transport category aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a transport aircraft wing upper surface during landing, with the spoiler panels raised.
 
 [Page 1-30]
 
@@ -654,7 +674,7 @@ Occasionally, a simple light aircraft may have a stationary metal plate attached
 
 **Figure 1-70.** Example of a trim tab.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a vertical stabilizer and rudder with a small metal plate on the rudder trailing edge, labeled "Ground adjustable rudder trim".
 
 The aerodynamic phenomenon of moving a trim tab in one direction to cause the control surface to experience a force moving in the opposite direction is exactly what occurs with the use of balance tabs. [Figure 1-71] Often, it is difficult to move a primary control surface due to its surface area and the speed of the air rushing over it. Deflecting a balance tab hinged at the trailing edge of the control surface in the opposite direction of the desired control surface movement causes a force to position the surface in the proper direction with reduced force to do so. Balance tabs are usually linked directly to the control surface linkage so that they move automatically when there is an input for control surface movement. They also can double as trim tabs, if adjustable in the flight deck.
 
@@ -662,7 +682,15 @@ A servo tab is similar to a balance tab in location and effect, but it is design
 
 **Figure 1-69.** Various tabs and their uses.
 
-*Figure description:* (Description not yet written.)
+| Type | Direction of Motion (in relation to control surface) | Activation | Effect |
+|---|---|---|---|
+| Trim | Opposite | Set by pilot from cockpit. Uses independent linkage. | Statically balances the aircraft in flight. Allows "hands off" maintenance of flight condition. |
+| Balance | Opposite | Moves when pilot moves control surface. Coupled to control surface linkage. | Aids pilot in overcoming the force needed to move the control surface. |
+| Servo | Opposite | Directly linked to flight control input device. Can be primary or back-up means of control. | Aerodynamically positions control surfaces that require too much force to move manually. |
+| Anti-balance or Anti-servo | Same | Directly linked to flight control input device. | Increases force needed by pilot to change flight control position. De-sensitizes flight controls. |
+| Spring | Opposite | Located in line of direct linkage to servo tab. Spring assists when control forces become too high in high-speed flight. | Enables moving control surface when forces are high. Inactive during slow flight. |
+
+*Figure description:* Table titled "Flight Control Tabs".
 
 [Page 1-31]
 
@@ -670,7 +698,7 @@ On heavy aircraft, large control surfaces require too much force to be moved man
 
 **Figure 1-71.** Balance tabs assist with forces needed to position control surfaces.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a fixed surface, a control surface and a tab, with airflow lines. The control surface is deflected down and the tab up, labeled "Tab geared to deflect proportionally to the control deflection, but in the opposite direction", with an arrow marked Lift.
 
 A control surface may require excessive force to move only in the final stages of travel. When this is the case, a spring tab can be used. This is essentially a servo tab that does not activate until an effort is made to move the control surface beyond a certain point. When reached, a spring in line of the control linkage aids in moving the control surface through the remainder of its travel. [Figure 1-73]
 
@@ -680,11 +708,11 @@ Balance panels have been constructed typically of aluminum skin-covered frame as
 
 **Figure 1-74.** An aileron balance panel and linkage uses varying air pressure to assist in control surface positioning.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a wing and aileron with a balance panel: a hinged balance panel in a chamber ahead of the aileron, vent gaps above and below, a control tab on the aileron, and the hinge. Airflow lines show lower pressure under the wing acting through the vent gap on the balance panel.
 
 **Figure 1-72.** Servo tabs can be used to position flight control surfaces in case of hydraulic failure.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a servo tab: a control stick is connected by a rod to the tab, and a free link joins the control surface at its hinge line.
 
 [Page 1-32]
 
@@ -692,7 +720,7 @@ Antiservo tabs, as the name suggests, are like servo tabs but move in the same d
 
 **Figure 1-73.** Many tab linkages have a spring tab that kicks in as the forces needed to deflect a control increase with speed and the angle of desired deflection.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a spring tab: a control stick connected through a free link to the tab, with a spring in a parallel linkage to the control surface.
 
 #### Other Wing Features
 
@@ -704,11 +732,11 @@ Vortex generators are small airfoil sections usually attached to the upper surfa
 
 **Figure 1-75.** The trailing edge of the wing just forward of the leading edge of the aileron is sealed to allow controlled airflow in and out of the hinge area where the balance panel is located.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of a wing trailing edge and aileron, with the balance panel (red) inside a sealed chamber just ahead of the aileron hinge.
 
 **Figure 1-76.** An antiservo tab moves in the same direction as the control tab. Shown here on a stabilator, it desensitizes the pitch control.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of the tail of a light airplane with a stabilator. The stabilator pivot point and an antiservo tab on its trailing edge are labeled, with arrows showing the tab moving in the same direction as the stabilator.
 
 [Page 1-33]
 
@@ -716,15 +744,15 @@ A chordwise barrier on the upper surface of the wing, called a stall fence, is u
 
 **Figure 1-77.** A winglet reduces aerodynamic drag caused by air spilling off of the wing tip.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a Boeing 737 in flight, with an arrow pointing to the winglet turned upward at the wing tip.
 
 **Figure 1-78.** Vortex generators.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Close-up photograph of the upper surface of a wing with a small vortex generator, a thin blade standing up from the skin.
 
 **Figure 1-79.** The Symphony SA-160 has two unique vortex generators on its wing to ensure aileron effectiveness through the stall.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of the leading edge of a low wing with two unusual vortex generators, curved fins mounted on the upper surface.
 
 ### Landing Gear
 
@@ -732,11 +760,11 @@ The landing gear supports the aircraft during landing and while it is on the gro
 
 **Figure 1-81.** Gap seals promote the smooth flow of air over gaps between fixed and movable surfaces.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs from below of control surface gaps: an aileron gap seal along the wing (left) and a tab gap seal on a trailing edge surface (right).
 
 **Figure 1-80.** A stall fence aids in maintaining chordwise airflow over the wing.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a swept-wing jet fighter, with an enlarged view of the wing showing a stall fence (red), a thin vertical plate running chordwise across the wing.
 
 [Page 1-34]
 
@@ -750,7 +778,7 @@ Many aircraft originally designed for land use can be fitted with floats with re
 
 **Figure 1-82.** Landing gear can be fixed (top) or retractable (bottom).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs: a high-wing Cessna on a runway with fixed gear in wheel fairings (top), and a twin-engine airplane from below with its retractable gear extended (bottom).
 
 [Page 1-35]
 
@@ -760,17 +788,17 @@ There are two basic configurations of airplane landing gear: conventional gear o
 
 **Figure 1-83.** Aircraft landing gear without wheels.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Four photographs of aircraft without wheels: a helicopter on skids, a floatplane on water, a twin-engine airplane on skis on snow, and a red hot air balloon.
 
 **Figure 1-84.** An amphibious aircraft is sometimes called a flying boat because the fuselage doubles as a hull.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a yellow amphibious water bomber in flight, with a boat-hull fuselage, floats under the wings and its wheels extended.
 
 The use of tail wheel gear can pose another difficulty. When landing, tail wheel aircraft can easily ground loop. A ground loop is when the tail of the aircraft swings around and comes forward of the nose of the aircraft. The reason this happens is due to the two main wheels being forward of the aircraft's center of gravity. The tail wheel is aft of the center of gravity. If the aircraft swerves upon landing, the tail wheel can swing out to the side of the intended path of travel. If far enough to the side, the tail can pull the center of gravity out from its desired location slightly aft of but between the main gear. Once the center of gravity is no longer trailing the mains, the tail of the aircraft freely pivots around the main wheels causing the ground loop.
 
 **Figure 1-85.** Retractable wheels make this aircraft amphibious.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a high-wing airplane on amphibious floats in a hangar, with small wheels extended below the floats.
 
 [Page 1-36]
 
@@ -778,7 +806,7 @@ Conventional gear is useful and is still found on certain models of aircraft man
 
 **Figure 1-86.** An aircraft with tail wheel gear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a high-wing airplane on grass with two main wheels forward and a tail wheel at the rear.
 
 #### Tricycle Gear Configuration
 
@@ -796,7 +824,7 @@ Note that the use of the word "manual" is meant to include electronic as well as
 
 **Figure 1-87.** Tricycle landing gear is the most predominant landing gear configuration in aviation.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs of airplanes with tricycle gear: a high-wing airplane on a ramp (top) and a low-wing airplane in flight with gear extended (bottom).
 
 [Page 1-37]
 
@@ -823,7 +851,7 @@ The applicable manufacturer's numbering system and abbreviated designations or s
 
 **Figure 1-88.** The various fuselage stations relative to a single point of origin illustrated in inches or some other measurement (if of foreign development).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Side-view outline of a light airplane fuselage with vertical lines at fuselage stations, each labeled: FS –97.0, FS –85.20, FS –80.00, FS –59.06, FS –48.50, FS –31.00, FS –16.25, FS 0.00, FS 20.20, FS 37.50, FS 58.75, FS 69.203, FS 89.25, FS 109.375, FS 132.00, FS 154.75, FS 177.50, FS 189.10, FS 200.70, FS 214.00, FS 224.00, FS 234.00 and FS 273.52. A horizontal line at the tail is marked WL 0.00.
 
 [Page 1-38]
 
@@ -833,7 +861,7 @@ Another method is used to facilitate the location of aircraft components on air 
 
 **Figure 1-89.** Butt line diagram of a horizontal stabilizer.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Top view of a horizontal stabilizer with butt line stations on each side of the center: BL 16.00, BL 21.50, BL 23.25, BL 34.5, BL 47.27, BL 47.50, BL 61.50, BL 76.50, BL 86.56, BL 96.50 and BL 96.62.
 
 #### Access & Inspection Panels
 
@@ -841,11 +869,11 @@ Quick access to the accessories and other equipment carried in the fuselage is p
 
 **Figure 1-90.** Water line diagram.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Side view of a business jet with water lines marked: WL 7.55 and WL 9.55 near the ground line, WL 73.5, WL 79.5, WL 97.5 and WL 123.483.
 
 **Figure 1-91.** Wing stations are often referenced off the butt line, which bisects the center of the fuselage longitudinally. Horizontal stabilizer stations referenced to the butt line and engine nacelle stations are also shown.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Top-view diagram of a jet wing and nacelle with numbered stations: fuselage-wing station 0 at the centerline, wing stations from about 65.7 to 371 along the span, horizontal stabilizer stations from 15.2 to 122, nacelle stations (NAC centerline at BL 86.179, angled 2°), fuselage stations such as FS 625.30, FS 652.264 and FS 674.737, and winglet stations WGLTS 0.00 and WGLTS 49.89 (15° cant).
 
 [Page 1-39]
 
@@ -867,7 +895,7 @@ The airframe, or fundamental structure, of a helicopter can be made of either me
 
 **Figure 1-92.** Large aircraft are divided into zones and subzones for identifying the location of various components.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a transport aircraft divided into numbered zones: Zone 100 lower half of fuselage, Zone 200 upper half of fuselage, Zone 300 empennage, Zone 400 engine nacelles, Zone 500 left wing, Zone 600 right wing, Zone 700 landing gear and landing gear doors, Zone 800 doors. Insets show subzones numbered within each zone (for example 111 to 146 in the lower fuselage and 311 to 351 in the empennage).
 
 [Page 1-40]
 
@@ -889,7 +917,7 @@ Turbine engines are more powerful and are used in a wide variety of helicopters.
 
 **Figure 1-93.** The major components of a helicopter are the airframe, fuselage, landing gear, powerplant/transmission, main rotor system, and antitorque system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a helicopter's major components: main rotor blades, main rotor hub assembly, pylon, fuselage, airframe, tail boom, stabilizer, tail rotor, tail skid, powerplant, transmission, and landing gear or skid.
 
 [Page 1-41]
 
@@ -905,7 +933,7 @@ The transmission system transfers power from the engine to the main rotor, tail 
 
 **Figure 1-94.** Many helicopters use a turboshaft engine to drive the main transmission and rotor systems. The main difference between a turboshaft and a turbojet engine is that most of the energy produced by the expanding gases is used to drive a turbine rather than producing thrust through the expulsion of exhaust gases.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cutaway diagram of a turboshaft engine, color-coded for inlet air, compressor discharge air, combustion gases and exhaust gases. Sections from left: compression section (air inlet, compressor rotor), gearbox section (gear, output shaft, exhaust air outlet), turbine section (N2 rotor, stator, N1 rotor) and combustion section (combustion liner, fuel nozzle, igniter plug).
 
 [Page 1-42]
 
@@ -931,19 +959,19 @@ One or more horizontal hinges provide for flapping on a fully articulated rotor 
 
 **Figure 1-95.** Four-blade hingeless (rigid) main rotor. The hub is a single piece of forged rigid titanium.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled photograph of a four-blade hingeless main rotor head: main rotor hub, main rotor blades, blade pitch horns, pitch change links and main rotor mast.
 
 **Figure 1-96.** The semirigid rotor system of the Robinson R22.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a two-blade semirigid rotor head: blade grips, coning hinges, teetering hinge, blade pitch change horn, pitch link and swash plate.
 
 **Figure 1-97.** The blade tip speed of this helicopter is approximately 300 knots. If the helicopter is moving forward at 100 knots, the relative windspeed on the advancing side is 400 knots. On the retreating side, it is only 200 knots. This difference in speed causes a dissymmetry of lift.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Diagram of a rotor disk seen from above during forward flight at 100 knots. On the advancing side, blade tip speed plus helicopter speed gives a relative wind of 400 knots; on the retreating side, blade tip speed minus helicopter speed gives 200 knots. Arrows show blade rotation and the direction of flight.
 
 **Figure 1-98.** Fully articulated rotor system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a fully articulated rotor head: pitch change axis (feathering), pitch horn, flap hinge, drag hinge and damper, with one blade attached.
 
 [Page 1-44]
 
@@ -957,7 +985,7 @@ Ordinarily, helicopters have between two and seven main rotor blades. These roto
 
 **Figure 1-99.** Five-blade articulated main rotor with elastomeric bearings.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a five-blade articulated main rotor head on top of a helicopter, viewed from the fuselage roof.
 
 Similar to a vertical stabilizer on the empennage of an airplane, a fin or pylon is also a common feature on rotorcraft. Normally, it supports the tail rotor assembly, although some tail rotors are mounted on the tail cone of the boom. Additionally, a horizontal member called a stabilizer is often constructed at the tail cone or on the pylon.
 
@@ -969,15 +997,15 @@ A NOTAR® antitorque system has no visible rotor mounted on the tail boom. Inste
 
 **Figure 1-100.** A tail rotor is designed to produce thrust in a direction opposite to that of the torque produced by the rotation of the main rotor blades. It is sometimes called an antitorque rotor.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Top-view diagram of a helicopter: blade rotation produces torque in the opposite direction on the fuselage, shown as "Resultant torque from main rotor blades" pushing the tail one way, while tail rotor thrust pushes it the other way.
 
 **Figure 1-101.** A Fenestron or "fan-in-tail" antitorque system. This design provides an improved margin of safety during ground operations.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of the tail of a helicopter with a Fenestron, a fan enclosed in a round duct in the vertical fin.
 
 **Figure 1-102.** While in a hover, Coanda Effect supplies approximately two-thirds of the lift necessary to maintain directional control. The rest is created by directing the thrust from the controllable rotating nozzle.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a NOTAR helicopter: an air intake feeds a fan in the tail boom; air exits through slots along the boom and through a rotating nozzle at the tail. An inset shows the main rotor wake (downwash) and the air jet from the boom creating a sideways force labeled Lift.
 
 [Page 1-45]
 
@@ -987,8 +1015,8 @@ The controls of a helicopter differ slightly from those found in an aircraft. Th
 
 **Figure 1-103.** The collective changes the pitch of all of the rotor blades simultaneously and by the same amount, thereby increasing or decreasing lift.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of collective control: raising the collective lever (with a throttle control on its end) moves linkages that raise the swash plate evenly, changing the pitch of all the rotor blades by the same amount.
 
 **Figure 1-104.** The cyclic changes the angle of the swash plate which changes the plane of rotation of the rotor blades. This moves the aircraft horizontally in any direction depending on the positioning of the cyclic.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of cyclic control: moving the cyclic stick tilts the swash plate, which changes blade pitch around the disk. Insets show the rotor disk tilting for sideways flight (cyclic control stick moved sideways) and forward flight (cyclic control stick moved forward).
