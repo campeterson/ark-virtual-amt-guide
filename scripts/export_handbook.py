@@ -46,9 +46,26 @@ def load_notes(book_id: str, chapter: int) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def render_figure(b, notes, warnings):
+def load_corrections(book_id: str, chapter: int) -> dict:
+    path = ROOT / "corrections" / book_id / f"ch{chapter:02d}.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def fix_hyphens(text: str, corr: dict) -> str:
+    """Restore hyphens the app dropped where the PDF breaks a compound at a line end."""
+    for word in corr.get("hyphen_fixes", []):
+        joined = word.replace("-", "")
+        text = re.sub(rf"\b{re.escape(joined)}\b", word, text)
+        text = re.sub(rf"\b{re.escape(joined.capitalize())}\b", word[0].upper() + word[1:], text)
+    return text
+
+
+def render_figure(b, notes, warnings, corr=None):
     note = notes.get(b["number"], {})
-    out = [f"**Figure {b['number']}.** {b['caption']}", ""]
+    caption = (corr or {}).get("captions", {}).get(b["number"], b["caption"])
+    out = [f"**Figure {b['number']}.** {fix_hyphens(caption, corr or {})}", ""]
     if note.get("table"):
         out += [note["table"].rstrip(), ""]
     desc = note.get("description")
@@ -85,7 +102,11 @@ def export(atk: Path, book: str, chapter: int):
         f"Original PDF of this chapter: `{slug_name(chapter, title)}.pdf`.",
         "",
     ]
-    level_prefix = {2: "###", 3: "####", 4: "#####"}
+    level_prefix = {2: "###", 3: "####", 4: "#####", 5: "######"}
+    corr = load_corrections(book_id, chapter)
+    if corr:
+        lines[-2] += f" Text fixes from `corrections/{book_id}/ch{chapter:02d}.json` are applied."
+    used = set()
     page = None
 
     def mark(p):
@@ -94,27 +115,64 @@ def export(atk: Path, book: str, chapter: int):
             page = p
             lines.extend([f"[Page {p}]", ""])
 
+    def heading(title, level, printed_page):
+        mark(printed_page)
+        lines.extend([f"{level_prefix.get(level, '######')} {title}", ""])
+
+    def text_block(b):
+        mark(b.get("printedPage"))
+        if b["kind"] == "paragraph":
+            lines.extend([fix_hyphens(b["md"], corr), ""])
+        else:
+            start = b.get("start") or corr.get("list_start", {}).get(b.get("id"), 1)
+            for i, item in enumerate(b["items"], start):
+                item = fix_hyphens(item, corr)
+                lines.append(f"{i}. {item}" if b.get("ordered") else f"- {item}")
+            lines.append("")
+
     for s in ch["sections"]:
         if s["title"] and s["id"] != "intro":
-            mark(s["printedPage"])
-            lines += [f"{level_prefix.get(s['level'], '#####')} {s['title']}", ""]
+            level = corr.get("section_levels", {}).get(s["id"], s["level"])
+            heading(s["title"], level, s["printedPage"])
         for b in s["blocks"]:
-            mark(b.get("printedPage"))
-            kind = b["kind"]
-            if kind == "paragraph":
-                lines += [b["md"], ""]
-            elif kind == "list":
-                for i, item in enumerate(b["items"], 1):
-                    lines.append(f"{i}. {item}" if b.get("ordered") else f"- {item}")
-                lines.append("")
+            bid = b.get("id")
+            if bid in corr.get("insert_heading_before", {}):
+                h = corr["insert_heading_before"][bid]
+                heading(h["title"], h["level"], h["printedPage"])
+                used.add(("insert_heading_before", bid))
+            for nb in corr.get("insert_before", {}).get(bid, []):
+                text_block(nb)
+                used.add(("insert_before", bid))
+            if bid in corr.get("replace", {}):
+                for nb in corr["replace"][bid]:
+                    text_block(nb)
+                used.add(("replace", bid))
+                kind = None
+            else:
+                kind = b["kind"]
+            if kind in ("paragraph", "list"):
+                text_block(b)
             elif kind == "figure":
-                lines += render_figure(b, notes, warnings)
+                lines += render_figure(b, notes, warnings, corr)
             elif kind == "equation":
                 # In this data these are in-text figure references kept as images;
                 # the alt text holds the exact printed text.
                 lines += [b["alt"], ""]
-            else:
+            elif kind is not None:
                 warnings.append(f"{b['id']}: unknown block kind {kind!r}, skipped")
+            for nb in corr.get("insert_after", {}).get(bid, []):
+                text_block(nb)
+                used.add(("insert_after", bid))
+        for nb in corr.get("append_to_section", {}).get(s["id"], []):
+            text_block(nb)
+            used.add(("append_to_section", s["id"]))
+
+    # every correction must have found its target, or the app data has changed
+    for key in ("insert_heading_before", "insert_before", "replace", "insert_after",
+                "append_to_section"):
+        for target in corr.get(key, {}):
+            if (key, target) not in used:
+                warnings.append(f"correction {key} -> {target} matched nothing")
 
     out = ROOT / "handbooks" / book_id / f"{slug_name(chapter, title)}.md"
     out.parent.mkdir(parents=True, exist_ok=True)

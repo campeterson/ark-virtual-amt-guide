@@ -55,6 +55,7 @@ Eventually a separate system will provide all of this data. Until then, keep thi
   - Keep figure numbers and captions. Put a plain-text description of each figure under the caption, written only from what the figure and the surrounding text show.
   - Keep the handbook's headings, section numbering and page references so the tutor can cite them.
   - Don't paraphrase, summarize or "improve" the text. This is a faithful conversion.
+- **Chapter text comes from Cam's AMT Handbooks app data** (campeterson/atk-amt-handbooks), not a fresh PDF conversion (Cam's decision). That data has errors (dropped sentences, column-merged paragraphs, cut captions, wrong heading levels), so each chapter gets a corrections file, and `scripts/check_chapter.py` must pass before the chapter is used.
 - Host on **GitHub**. Students get **raw file links or a GitHub Pages site**, not normal repo pages, because the extra page clutter gets in Claude's way.
 - Include a simple **index page** listing every chapter and its link.
 - **Fallback:** if Claude doesn't fetch a link, the student downloads the chapter and uploads it to their project. Every chapter must work as a standalone upload.
@@ -71,6 +72,11 @@ acs/FAA-S-ACS-1.pdf                ← original FAA ACS PDF, kept next to its co
 scripts/build_acs.py               ← generates acs/FAA-S-ACS-1.md from the ACS data
 handbooks/<handbook-id>/<chNN-slug>.md   ← converted chapters (shared; a chapter may serve several subjects)
 handbooks/<handbook-id>/<chNN-slug>.pdf  ← original FAA PDF of that chapter, kept next to its conversion
+scripts/export_handbook.py         ← builds a chapter .md from Cam's AMT Handbooks app data (atk-amt-handbooks)
+scripts/check_chapter.py           ← checks a chapter .md against its PDF; must pass before a chapter is published
+scripts/pdf_grab.py                ← pulls text from the PDF for writing corrections
+corrections/<handbook-id>/chNN.json      ← text fixes on top of the app data (+ build_chNN.py that generates it)
+figure-notes/<handbook-id>/chNN.json     ← figure descriptions and rebuilt tables, checked against the PDF
 subjects/
   general/
   airframe/
