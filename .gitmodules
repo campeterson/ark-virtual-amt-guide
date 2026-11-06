@@ -1,0 +1,3 @@
+[submodule "vendor/faa-acs-data"]
+	path = vendor/faa-acs-data
+	url = https://github.com/campeterson/faa-acs-data
