@@ -1,0 +1,193 @@
+{
+ "chapter": "FAA-H-8083-31B ch-12",
+ "about": "Fixes applied by scripts/export_handbook.py on top of the AMT Handbooks app data. Replacement text is taken from the FAA PDF (see the build script beside this file, which regenerates it). Checked with scripts/check_chapter.py.",
+ "section_levels": {
+  "Contamination-Check": 4,
+  "Hydraulic-Sampling-Schedule": 5,
+  "Sampling-Procedure": 5,
+  "Contamination-Control": 4,
+  "Reservoirs": 4,
+  "Nonpressurized-Reservoirs": 5,
+  "Pressurized-Reservoirs": 5,
+  "Air-Pressurized-Reservoirs": 5,
+  "Fluid-Pressurized-Reservoirs": 5,
+  "Reservoir-Servicing": 5,
+  "Micron-Type-Filters": 4,
+  "Maintenance-of-Filters": 4,
+  "Filter-Bypass-Valve": 4,
+  "Filter-Differential-Pressure-Indicators": 4,
+  "Filter-Differential-Pressure-Indicators--Pumps": 4,
+  "Classification-of-Pumps": 4,
+  "Constant-Displacement-Pumps": 4,
+  "Gear-Type-Power-Pump": 4,
+  "Gerotor-Pump": 4,
+  "Piston-Pump": 4,
+  "Bent-Axis-Piston-Pump": 5,
+  "Inline-Piston-Pump": 5,
+  "Vane-Pump": 4,
+  "Variable-Displacement-Pump": 4,
+  "Normal-Pumping-Mode": 5,
+  "Depressurized-Mode": 5,
+  "Flow-Control-Valves": 4,
+  "Selector-Valves": 5,
+  "Check-Valve": 5,
+  "Orifice-Type-Check-Valve": 5,
+  "Sequence-Valves": 5,
+  "Pressure-Controlled-Sequence-Valve": 5,
+  "Mechanically-Operated-Sequence-Valve": 5,
+  "Priority-Valves": 5,
+  "Quick-Disconnect-Valves": 5,
+  "Hydraulic-Fuses": 5,
+  "Pressure-Control-Valves": 4,
+  "Pressure-Control-Valves--Relief-Valves": 5,
+  "Pressure-Regulators": 5,
+  "Pressure-Reducers": 5,
+  "Shuttle-Valves": 4,
+  "Shutoff-Valves": 5,
+  "Types-of-Accumulators": 4,
+  "Spherical": 5,
+  "Cylindrical": 5,
+  "Operation": 5,
+  "Maintenance-of-Accumulators": 5,
+  "Linear-Actuators": 4,
+  "Rotary-Actuators": 4,
+  "Hydraulic-Motor": 4,
+  "Hydraulic-Motor--Power-Transfer-Unit-PTU": 4,
+  "V-Ring-Packings": 4,
+  "U-Ring": 4,
+  "O-Rings": 4,
+  "O-Ring-Color-Coding": 5,
+  "Backup-Rings": 4,
+  "Gaskets": 4,
+  "Seal-Materials": 4,
+  "O-Ring-Installation": 4,
+  "Wipers": 4,
+  "Reservoirs-2": 4,
+  "Pumps": 4,
+  "Filter-Units": 4,
+  "Power-Transfer-Unit-PTU": 4,
+  "Landing-Gear-Transfer-Unit": 4,
+  "Standby-Hydraulic-System": 4,
+  "Indications": 4,
+  "Left-and-Right-System-Description": 4,
+  "Left-and-Right-System-Description--Reservoir": 5,
+  "Filter-Module": 5,
+  "Indication": 5,
+  "Center-Hydraulic-System": 4,
+  "Center-Hydraulic-System--Reservoir": 5,
+  "Filter": 5,
+  "Center-Hydraulic-Isolation-System-CHIS": 5,
+  "Nose-Gear-Isolation-Valve": 5,
+  "Central-Hydraulic-System-Reset": 5,
+  "Pneumatic-System-Components": 4,
+  "Air-Compressors": 5,
+  "Pneumatic-System-Components--Relief-Valves": 5,
+  "Control-Valves": 5,
+  "Check-Valves": 5,
+  "Restrictors": 5,
+  "Variable-Restrictor": 5,
+  "Pneumatic-System-Components--Filters": 3,
+  "DesiccantMoisture-Separator": 5,
+  "Chemical-Drier": 5,
+  "Emergency-Backup-Systems": 4,
+  "Nitrogen-Bottles": 5,
+  "Gear-Emergency-Extension-Cable-and-Handle": 5,
+  "Dump-Valve": 5,
+  "Emergency-Extension-Sequence": 5
+ },
+ "insert_heading_before_section": {
+  "Flow-Control-Valves": {
+   "title": "Valves",
+   "level": 3,
+   "printedPage": "12-22"
+  }
+ },
+ "check_ignore": [
+  {
+   "text": "The pump output is changed automatically by a pump compensator within the pump.",
+   "reason": "Sentence crosses a column break with only \"pump.\" in the next column, too short for the checker's split test; checked by eye against p. 12-19."
+  }
+ ],
+ "replace": {
+  "ch-12-b0097": [],
+  "ch-12-b0099": [
+   {
+    "kind": "paragraph",
+    "md": "Piston pumps can be constant-displacement or variable-displacement pumps. The common features of design and operation that are applicable to all piston-type hydraulic pumps are described in the following paragraphs. Piston-type power-driven pumps have flanged mounting bases for the purpose of mounting the pumps on the accessory drive cases of aircraft engines. A pump drive shaft, which turns the mechanism, extends through the pump housing slightly beyond the mounting base. Torque from the driving unit is transmitted to the pump drive shaft by a drive coupling. The drive coupling is a short shaft with a set of male splines on both ends. The splines on one end engage with female splines in a driving gear; the splines on the other end engage with female splines in the pump drive shaft. Pump drive couplings are designed to serve as safety devices. The shear section of the drive coupling, located midway between the two sets of splines, is smaller in diameter than the splines. If the pump becomes unusually hard to turn or becomes jammed, this section shears, preventing damage to the pump or driving unit. [Figure 12-25] The basic pumping mechanism of piston-type pumps consists of a multiple-bore cylinder block, a piston for each bore, and a valve plate with inlet and outlet slots. The purpose of the valve plate slots is to let fluid into and out of the bores as the pump operates. The cylinder bores lie parallel to and symmetrically around the pump axis. All aircraft axial-piston pumps have an odd number of pistons. [Figure 12-26]",
+    "printedPage": "12-17"
+   }
+  ],
+  "ch-12-b0104": [
+   {
+    "kind": "paragraph",
+    "md": "A variable-displacement pump has a fluid output that is varied to meet the pressure demands of the system. The pump output is changed automatically by a pump compensator within the pump. The following paragraph discusses a two-stage Vickers variable displacement pump. The first stage of the pump consists of a centrifugal pump that boosts the pressure before the fluid enters the piston pump. [Figure 12-29]",
+    "printedPage": "12-19"
+   },
+   {
+    "kind": "heading",
+    "title": "Basic Pumping Operation",
+    "level": 5,
+    "printedPage": "12-19"
+   },
+   {
+    "kind": "paragraph",
+    "md": "The aircraft's engine rotates the pump drive shaft, cylinder block, and pistons via a gearbox. Pumping action is generated by piston shoes that are restrained and slide on the shoe bearing plate in the yoke assembly. Because the yoke is at an angle to the drive shaft, the rotary motion of the shaft is converted to piston reciprocating motion.",
+    "printedPage": "12-19"
+   },
+   {
+    "kind": "paragraph",
+    "md": "As the piston begins to withdraw from the cylinder block, system inlet pressure forces fluid through a porting arrangement in the valve plate into the cylinder bore. The piston shoes are restrained in the yoke by a piston shoe retaining plate and a shoe plate during the intake stroke. As the drive shaft continues to turn the cylinder block, the piston shoe continues following the yoke bearing surface. This begins to return the piston into its bore (i.e., toward the valve block).",
+    "printedPage": "12-19"
+   }
+  ],
+  "ch-12-b0196": [
+   {
+    "kind": "paragraph",
+    "md": "The purpose of the PTU is to supply the additional volume of hydraulic fluid needed to operate the autoslats and leading-edge flaps and slats at the normal rate when system B EDP malfunctions. The PTU unit consists of a hydraulic motor and hydraulic pump that are connected through a shaft. The PTU uses system A pressure to drive a hydraulic motor. The hydraulic motor of the PTU unit is connected through a shaft with a hydraulic pump that can draw fluid from the system B reservoir. The PTU can only transfer power and cannot transfer fluid. The PTU operates automatically when all of the following conditions are met:",
+    "printedPage": "12-39"
+   },
+   {
+    "kind": "list",
+    "ordered": false,
+    "printedPage": "12-40",
+    "items": [
+     "System B EDP pressure drops below limits.",
+     "Aircraft airborne.",
+     "Flaps are less than 15° but not up."
+    ]
+   }
+  ],
+  "ch-12-b0202": [
+   {
+    "kind": "paragraph",
+    "md": "The Boeing 777 is equipped with three hydraulic systems. The left, center, and right systems deliver hydraulic fluid at a rated pressure of 3,000 psi (207 bar) to operate flight controls, flap systems, actuators, landing gear, and brakes. Primary hydraulic power for the left and right systems is provided by two EDPs and supplemented by two on-demand ACMPs. Primary hydraulic power for the center system is provided by two electric motor pumps (ACMP) and supplemented by two on-demand air turbine-driven pumps. The center system provides hydraulic power for the engine thrust reversers, primary flight controls, landing gear, and flaps/slats. Under emergency conditions, hydraulic power is generated by the ram air turbine (RAT), which is deployed automatically and drives a variable displacement inline pump. The RAT pump provides flow to the center system flight controls.",
+    "printedPage": "12-41"
+   }
+  ],
+  "ch-12-b0203": [
+   {
+    "kind": "paragraph",
+    "md": "The left and right hydraulic systems are functionally the same. The left hydraulic system supplies pressurized hydraulic fluid to operate the left thrust reverser and the flight control systems. The right hydraulic system supplies pressurized hydraulic fluid to operate the right thrust reverser, flight control systems, and the normal brake system. [Figure 12-67]",
+    "printedPage": "12-42"
+   }
+  ]
+ },
+ "captions": {},
+ "hyphen_fixes": [
+  "Piston-type",
+  "button-type",
+  "by-wire",
+  "compensator-controlled",
+  "constant-displacement",
+  "continuous-reading",
+  "delivery-type",
+  "double-action",
+  "high-pressure",
+  "high-temperature",
+  "leading-edge",
+  "polyalphaolefin-based",
+  "poppet-type",
+  "sleeve-type",
+  "variable-displacement"
+ ]
+}

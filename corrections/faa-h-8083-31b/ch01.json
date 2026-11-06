@@ -1,0 +1,120 @@
+{
+ "chapter": "FAA-H-8083-31B ch-01",
+ "about": "Fixes applied by scripts/export_handbook.py on top of the AMT Handbooks app data. Replacement text is taken from the FAA PDF (see the build script beside this file, which regenerates it). Checked with scripts/check_chapter.py.",
+ "section_levels": {
+  "Truss-Type": 4,
+  "Monocoque-Type": 4,
+  "Semimonocoque-Type": 4,
+  "Reinforced-Shell-Type": 4,
+  "Ailerons": 4,
+  "Elevator": 4,
+  "Rudder": 4,
+  "Flaps": 4,
+  "Slats": 4,
+  "Spoilers-and-Speed-Brakes": 4,
+  "Tabs": 4,
+  "Turbine-Engines": 4,
+  "Transmission": 4,
+  "Rigid-Rotor-System": 4,
+  "Semirigid-Rotor-System": 4
+ },
+ "check_ignore": [
+  {
+   "text": "A NOTAR® antitorque system has no visible rotor mounted on the tail boom.",
+   "reason": "The ® is set as a superscript outside body-text height; text checked by eye."
+  }
+ ],
+ "replace": {
+  "ch-01-b0009": [
+   {
+    "kind": "paragraph",
+    "md": "Leading up to World War I (WWI), stronger engines also allowed designers to develop thicker wings with stronger spars. Wire wing bracing was no longer needed. Flatter, lower wing surfaces on high-camber wings created more lift. WWI expanded the need for large quantities of reliable aircraft. Used mostly for reconnaissance, stacked-wing tail draggers with wood and metal truss frames with mostly fabric skin dominated the wartime sky. [Figure 1-7] The Red Baron's Fokker DR-1 was typical.",
+    "printedPage": "1-2"
+   },
+   {
+    "kind": "paragraph",
+    "md": "In the 1920s, the use of metal in aircraft construction increased. Fuselages able to carry cargo and passengers were developed. The early flying boats with their hull-type construction from the shipbuilding industry provided the blueprints for semimonocoque construction of fuselages. [Figure 1-8] Truss-type designs faded. A tendency toward cleaner mono-wing designs prevailed.",
+    "printedPage": "1-3"
+   },
+   {
+    "kind": "paragraph",
+    "md": "Into the 1930s, all-metal aircraft accompanied new lighter and more powerful engines. Larger semimonocoque fuselages were complimented with stress-skin wing designs. Fewer truss and fabric aircraft were built. World War II (WWII) brought about a myriad of aircraft designs using all metal technology. Deep fuel-carrying wings were the norm, but the desire for higher flight speeds prompted the development of thin-winged aircraft in which fuel was carried in the fuselage. The first composite structure aircraft, the De Havilland Mosquito, used a balsa wood sandwich material in the construction of the fuselage. [Figure 1-9] The fiberglass radome was also developed during this period.",
+    "printedPage": "1-3"
+   }
+  ],
+  "ch-01-b0086": [
+   {
+    "kind": "paragraph",
+    "md": "An example of a turbojet engine nacelle can be seen in Figure 1-45. The cowl panels are a combination of fixed and easily removable panels which can be opened and closed during maintenance. A nose cowl is also a feature on a jet engine nacelle. It guides air into the engine.",
+    "printedPage": "1-19"
+   }
+  ],
+  "ch-01-b0105": [
+   {
+    "kind": "paragraph",
+    "md": "As with the other primary flight controls, the transfer of the movement of the flight deck controls to the rudder varies with the complexity of the aircraft. Many aircraft incorporate the directional movement of the nose or tail wheel into the rudder control system for ground operation. This allows the operator to steer the aircraft with the rudder pedals during taxi when the airspeed is not high enough for the control surfaces to be effective. Some large aircraft have a split rudder arrangement. This is actually two rudders, one above the other. At low speeds, both rudders deflect in the same direction when the pedals are pushed. At higher speeds, one of the rudders becomes inoperative as the deflection of a single rudder is aerodynamically sufficient to maneuver the aircraft.",
+    "printedPage": "1-25"
+   },
+   {
+    "kind": "heading",
+    "title": "Dual Purpose Flight Control Surfaces",
+    "level": 2,
+    "printedPage": "1-26"
+   }
+  ],
+  "ch-01-b0124": [
+   {
+    "kind": "paragraph",
+    "md": "Occasionally, a simple light aircraft may have a stationary metal plate attached to the trailing edge of a primary flight control, usually the rudder. This is also a trim tab as shown in Figure 1-70. It can be bent slightly on the ground to trim the aircraft in flight to a hands-off condition when flying straight and level. The correct amount of bend can be determined only by flying the aircraft after an adjustment. Note that a small amount of bending is usually sufficient.",
+    "printedPage": "1-30"
+   }
+  ],
+  "ch-01-b0155": [
+   {
+    "kind": "list",
+    "ordered": false,
+    "items": [
+     "Fuselage stations (Fus. Sta. or FS) are numbered in inches from a reference or zero point known as the reference datum. [Figure 1-88] The reference datum is an imaginary vertical plane at or near the nose of the aircraft from which all fore and aft distances are measured. The distance to a given point is measured in inches parallel to a center line extending through the aircraft from the nose through the center of the tail cone. Some manufacturers may call the fuselage station a body station, abbreviated BS.",
+     "Buttock line or butt line (BL) is a vertical reference plane down the center of the aircraft from which measurements left or right can be made. [Figure 1-89]",
+     "Water line (WL) is the measurement of height in inches perpendicular from a horizontal plane usually located at the ground, cabin floor, or some other easily referenced location. [Figure 1-90]",
+     "Aileron station (AS) is measured outboard from, and parallel to, the inboard edge of the aileron, perpendicular to the rear beam of the wing.",
+     "Flap station (KS) is measured perpendicular to the rear beam of the wing and parallel to, and outboard from, the inboard edge of the flap.",
+     "Nacelle station (NC or Nac. Sta.) is measured either forward of or behind the front spar of the wing and perpendicular to a designated water line."
+    ],
+    "printedPage": "1-37"
+   }
+  ],
+  "ch-01-b0156": [],
+  "ch-01-b0157": [],
+  "ch-01-b0158": [],
+  "ch-01-b0160": [
+   {
+    "kind": "paragraph",
+    "md": "Another method is used to facilitate the location of aircraft components on air transport aircraft. This involves dividing the aircraft into zones. These large areas or major zones are further divided into sequentially numbered zones and subzones. The digits of the zone number are reserved and indexed to indicate the location and type of system of which the component is a part. Figure 1-92 illustrates these zones and subzones on a transport category aircraft.",
+    "printedPage": "1-38"
+   }
+  ]
+ },
+ "insert_before": {
+  "fig-01-90": [
+   {
+    "kind": "paragraph",
+    "md": "Quick access to the accessories and other equipment carried in the fuselage is provided for by numerous access doors, inspection plates, landing wheel wells, and other openings.",
+    "printedPage": "1-38"
+   }
+  ]
+ },
+ "captions": {
+  "1-75": "The trailing edge of the wing just forward of the leading edge of the aileron is sealed to allow controlled airflow in and out of the hinge area where the balance panel is located."
+ },
+ "hyphen_fixes": [
+  "cross-sectional",
+  "fabric-covered",
+  "fail-safe",
+  "fixed-wing",
+  "high-performance",
+  "over-center",
+  "single-engine",
+  "twin-engine"
+ ]
+}

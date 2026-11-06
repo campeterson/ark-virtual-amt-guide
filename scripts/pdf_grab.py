@@ -13,7 +13,7 @@ vertical gap clearly larger than the normal line spacing) come back as blank lin
 import re,html,statistics,sys
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parent))
-from check_chapter import _all_lines,line_heights
+from check_chapter import _all_lines,line_heights,is_label
 
 
 class Grabber:
@@ -36,7 +36,7 @@ def _read_lines(pdf):
     pages={}
     for pn,w,x0,y0,h,t in lines:
         t=html.unescape(t)
-        if not bmin<=h<=bmax or re.fullmatch(r'\d+-\d+',t.strip()): continue
+        if not bmin<=h<=bmax or re.fullmatch(r'\d+-\d+',t.strip()) or is_label(t): continue
         pages.setdefault(pn,[]).append((0 if x0<w/2 else 1,y0,x0,t))
     for pn in sorted(pages):
         ls=sorted(pages[pn])
@@ -58,3 +58,32 @@ def _grab(L,start,end,page=None):
         elif s.endswith('-'): s+=t
         else: s+=(' ' if s else '')+t
     return s, L[i][0]
+
+
+def _grab_paras(L, start, end, page=None):
+    """Like _grab, but returns [(paragraph_text, page_where_it_starts), ...]."""
+    i = next(k for k, (p, t, *_) in enumerate(L) if start in clean(t) and (page is None or p >= page))
+    j = next(k for k in range(i, len(L)) if end in clean(L[k][1]))
+    out = []
+    for k in range(i, j + 1):
+        t = clean(L[k][1]).strip()
+        if k == i:
+            t = t[t.index(start):]
+        if k == j:
+            t = t[:t.index(end) + len(end)]
+        new_para = (k == i or (L[k][0] == L[k - 1][0] and L[k][2] == L[k - 1][2]
+                               and L[k][3] - L[k - 1][3] > L[k][4]))
+        if new_para:
+            out.append([t, L[k][0]])
+        elif out[-1][0].endswith("-"):
+            out[-1][0] += t
+        else:
+            out[-1][0] += " " + t
+    return [(t, p) for t, p in out]
+
+
+def _grab_paras_method(self, start, end, page=None):
+    return _grab_paras(self.lines(), start, end, page)
+
+
+Grabber.grab_paras = _grab_paras_method

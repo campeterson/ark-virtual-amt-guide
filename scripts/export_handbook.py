@@ -120,6 +120,9 @@ def export(atk: Path, book: str, chapter: int):
         lines.extend([f"{level_prefix.get(level, '######')} {title}", ""])
 
     def text_block(b):
+        if b["kind"] == "heading":          # a heading the app left out, inside a fix
+            heading(b["title"], b["level"], b.get("printedPage"))
+            return
         mark(b.get("printedPage"))
         if b["kind"] == "paragraph":
             lines.extend([fix_hyphens(b["md"], corr), ""])
@@ -131,9 +134,14 @@ def export(atk: Path, book: str, chapter: int):
             lines.append("")
 
     for s in ch["sections"]:
+        if s["id"] in corr.get("insert_heading_before_section", {}):
+            h = corr["insert_heading_before_section"][s["id"]]
+            heading(h["title"], h["level"], h["printedPage"])
+            used.add(("insert_heading_before_section", s["id"]))
         if s["title"] and s["id"] != "intro":
             level = corr.get("section_levels", {}).get(s["id"], s["level"])
-            heading(s["title"], level, s["printedPage"])
+            sec_title = corr.get("section_titles", {}).get(s["id"], s["title"])
+            heading(sec_title, level, s["printedPage"])
         for b in s["blocks"]:
             bid = b.get("id")
             if bid in corr.get("insert_heading_before", {}):
@@ -169,7 +177,7 @@ def export(atk: Path, book: str, chapter: int):
 
     # every correction must have found its target, or the app data has changed
     for key in ("insert_heading_before", "insert_before", "replace", "insert_after",
-                "append_to_section"):
+                "append_to_section", "insert_heading_before_section"):
         for target in corr.get(key, {}):
             if (key, target) not in used:
                 warnings.append(f"correction {key} -> {target} matched nothing")

@@ -19,6 +19,7 @@ hyphenation, quotes and spacing don't matter):
 3. Captions exact: each figure caption must match the PDF's caption in full.
 4. Hyphens kept: compounds hyphenated at a PDF line end ("single-engine")
    must not come out joined ("singleengine").
+5. Formulas: flags debris left by flattened fractions ("= D – ( ) W", a lone "W").
 
 Lines or sentences that are known to be fine (e.g. a figure label that
 happens to be set at body-text height) can be listed in the chapter's
@@ -26,6 +27,7 @@ corrections file under "check_ignore", with the reason.
 
 Exits 1 if anything is reported.
 """
+import html
 import json
 import re
 import subprocess
@@ -48,6 +50,15 @@ def norm(s: str) -> str:
     return re.sub(r"[^a-z0-9]", "", s.lower())
 
 
+def is_label(t: str) -> bool:
+    """A figure callout that happens to be set at body or caption height ("Inl",
+    "B A", "m b er D"): short, no ordinary word, or no sentence ending."""
+    t = t.strip()
+    if re.search(r"[.:;\])]$", t):       # ends like a sentence, list number or caption
+        return False
+    return len(t) < 12 or not re.search(r"[a-z]{3,}", t)
+
+
 def _all_lines(pdf: Path):
     xml = subprocess.check_output(["pdftotext", "-bbox-layout", str(pdf), "-"], text=True,
                                   stderr=subprocess.DEVNULL)
@@ -55,7 +66,7 @@ def _all_lines(pdf: Path):
         width = float(re.search(r'width="([\d.]+)"', page).group(1))
         for m in LINE_RE.finditer(page):
             x0, y0, x1, y1 = map(float, m.groups()[:4])
-            text = " ".join(WORD_RE.findall(m.group(5)))
+            text = html.unescape(" ".join(WORD_RE.findall(m.group(5))))
             yield page_no, width, x0, y0, round(y1 - y0, 1), text
 
 
@@ -154,7 +165,7 @@ def main():
             missing.append((page, text))
 
     scrambled = []
-    for para in re.split(r"\n\s*\n", md):
+    for para in md.split("\n"):             # list items and formula lines one at a time
         for sent in re.split(r"(?<=[.?!:;])\s+", para.strip()):
             n = norm(sent)
             if len(n) < MIN_CHARS or n in ref_n or ignored(n):
@@ -186,7 +197,9 @@ def main():
         n = norm(p)[:60]
         if len(n) < 30:
             continue
-        i = body_ref.find(n)
+        i = body_ref.find(n, max(prev, 0))     # text the FAA repeats: take the next one
+        if i < 0:
+            i = body_ref.find(n)
         if i < 0:
             continue
         if i < prev:
@@ -204,7 +217,7 @@ def main():
         if m:
             cur = f"{m.group(1)}-{m.group(2)}"
             pdf_caps[cur] = t
-        elif cur and (len(t.strip()) >= 8 or t.strip().endswith(".")):
+        elif cur and not is_label(t):
             pdf_caps[cur] += " " + t
     bad_captions = []
     for m in re.finditer(r"^Figure (\d+-\d+)\. (.*)$", md, flags=re.M):
@@ -228,6 +241,20 @@ def main():
         if len(re.findall(pat, md, re.I)) > len(re.findall(pat, flat, re.I)):
             lost_hyphens.add(f"{m1.group(1)}-{m2.group(1)}")
 
+    # 5. formulas: stacked fractions flattened by extraction leave tell-tale debris,
+    # e.g. "F × L CG = D – ( ) W" or a lone "W" paragraph. Formulas that were rewritten
+    # by hand (see the corrections file) don't have these.
+    garbled = []
+    for para in re.split(r"\n\s*\n", md):
+        p = para.strip()
+        if not p or p.startswith(("Figure ", "[Figure", "|", "-", "*")):
+            continue
+        if re.search(r"\(\s*\)", p) or re.fullmatch(r"[A-Z]{1,2}", p) or \
+                (len(p) < 60 and "=" in p and re.search(r"[A-Za-z]\s+[A-Za-z]+\s*=", p)
+                 and not re.search(r"[÷/]|\(.*\)", p)):
+            if not ignored(norm(p)):
+                garbled.append(p[:120])
+
     print(f"{md_path.name}: {len(lines)} PDF body lines checked")
     print(f"  missing from Markdown: {len(missing)}")
     for page, text in missing:
@@ -244,11 +271,14 @@ def main():
     print(f"  captions not matching the PDF: {len(bad_captions)}")
     for num, cap in bad_captions:
         print(f"    Figure {num}: {cap[:200]}")
+    print(f"  possible garbled formulas: {len(garbled)}")
+    for x in garbled:
+        print(f"    {x}")
     print(f"  hyphens lost at PDF line ends: {len(lost_hyphens)}")
     for h in sorted(lost_hyphens):
         print(f"    {h}")
     sys.exit(1 if missing or scrambled or duplicated or out_of_order or bad_captions
-             or lost_hyphens else 0)
+             or lost_hyphens or garbled else 0)
 
 
 if __name__ == "__main__":

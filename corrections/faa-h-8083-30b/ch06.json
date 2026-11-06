@@ -1,0 +1,384 @@
+{
+ "chapter": "FAA-H-8083-30B ch-06",
+ "about": "Fixes applied by scripts/export_handbook.py on top of the AMT Handbooks app data. Replacement text is taken from the FAA PDF (see the build script beside this file, which regenerates it). Checked with scripts/check_chapter.py.",
+ "section_levels": {
+  "Spirit-Level": 4,
+  "Plumb-Bob": 4,
+  "Hydrometer": 4,
+  "Fuel-System": 4,
+  "Oil-System": 4,
+  "Miscellaneous-Fluids": 4,
+  "Flight-Controls": 4,
+  "Other-Considerations": 4,
+  "Weighing-Points": 4,
+  "Empty-Weight-Center-of-Gravity-EWCG-Range": 4,
+  "Operating-CG-Range": 4,
+  "Example-Loading-of-an-Airplane": 4,
+  "Example-Calculation-After-an-Equipment-Change": 4,
+  "Temporary-Ballast": 4,
+  "Temporary-Ballast-Formula": 5,
+  "Permanent-Ballast": 4
+ },
+ "list_start": {
+  "ch-06-b0051": 10
+ },
+ "section_titles": {
+  "Datum-Forward-of-the-Main-Wheels-Tail-Wheel": "Datum Forward of the Main Wheels–Tail Wheel Landing Gear"
+ },
+ "check_ignore": [
+  {
+   "text": "Figure 6-54. Center of gravity location on a large commercial transport.",
+   "reason": "Labels inside the figure are set at caption height and run on after the caption; the caption itself matches the PDF."
+  },
+  {
+   "text": "Figure 6-55. Aircraft weight and balance report.",
+   "reason": "Form text inside the figure is set at caption height; the caption itself matches the PDF."
+  },
+  {
+   "text": "Notice that the formula for each condition first determines the moment of the nose (F × L ÷ W) wheel or tail (R × L ÷ W) wheel and then divides it by the total weight of the airplane.",
+   "reason": "The PDF line holds two inline fractions and is set taller than body text, so the checker cannot read it; transcribed from a render of p. 6-16."
+  },
+  {
+   "text": "Locating the CG of a tail wheel airplane is done in the same way as locating it for a nosewheel airplane except the formulas use R × L ÷ W rather than F × L ÷ W.",
+   "reason": "Inline fractions, as above; transcribed from a render of p. 6-18."
+  },
+  {
+   "text": "Aircraft Current Empty Weight:",
+   "reason": "Form field printed inside Figure 6-55 (a weight and balance report form), not body text."
+  },
+  {
+   "text": "Aircraft Current Empty Weight CG:",
+   "reason": "Form field printed inside Figure 6-55, not body text."
+  },
+  {
+   "text": "CG = D – (F × L ÷ W)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "CG = – (D + F × L ÷ W)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "CG = D + (R × L ÷ W)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "CG = – D + (R × L ÷ W)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "CG = D – (F × L ÷ W)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= 128 – (340 × 78 ÷ 2,006)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= 114.8",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "CG = – (D + F × L ÷ W)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= – (75 + 340 × 78 ÷ 2,006)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= –88.2",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "CG = D + (R × L ÷ W)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= 7.5 + (67 × 222 ÷ 1,218)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= 19.7",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "CG = – D + (R × L ÷ W)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= – 80 + (67 × 222 ÷ 1,218)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= –67.8",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "Ballast weight needed = (Total wt. × dist. needed to shift CG) ÷ (Dist. between ballast and desired CG)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "Ballast weight needed = (Total wt. × dist. needed to shift CG) ÷ (Dist. between ballast and desired CG)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= (3,034 lb × (0.6\")) ÷ 39\"",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= 46.68 lb",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "Ballast weight = (Aircraft empty wt. × dist. out of limits) ÷ (Dist. between ballast and desired CG)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= (1,876 lb × 0.8\") ÷ (228 – 33)",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= 1,500.8 ÷ 195",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= 7.7 lb",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "Percent of MAC = (CG – LEMAC) ÷ MAC × 100",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "Percent of MAC = (CG – LEMAC) ÷ MAC × 100",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= (945 – 900) ÷ 180 × 100",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  },
+  {
+   "text": "= 25 percent",
+   "reason": "Formula rewritten on one line from a stacked fraction in the PDF; read off a page render."
+  }
+ ],
+ "replace": {
+  "ch-06-b0039": [
+   {
+    "kind": "paragraph",
+    "md": "To calculate the CG for the object in Figure 6-6, the moments for all the weights need to be calculated and then summed, and the weights need to be summed. In the four-column table in Figure 6-7, the item, weight, and arm are listed in the first three columns, with the information coming from Figure 6-6. The moment value in the fourth column is the product of the weight and arm. The weight and moment columns are summed, with the CG being equal to the total moment divided by the total weight. The arm column is not summed. The number appearing at the bottom of that column is the CG. The calculation is shown in Figure 6-7.",
+    "printedPage": "6-5"
+   }
+  ],
+  "ch-06-b0094": [
+   {
+    "kind": "paragraph",
+    "md": "The data sheet identifies that there is a straight-line variation between the points given. The points being referred to are the forward and aft CG limits. From a weight of 2,780 lb to a weight of 3,400 lb, the forward limit moves from +80.7\" to +82.0\", and if plotted on a graph, that change would form a straight line. From 3,400 lb to 4,000 lb, the forward limit moves from +82 to +86.4\", again forming a straight line. Plotted on a graph, the CG limits would look like Figure 6-25. When graphically plotted, the CG limits form what is known as the CG envelope.",
+    "printedPage": "6-15"
+   }
+  ],
+  "ch-06-b0105": [
+   {
+    "kind": "paragraph",
+    "md": "The EWCG can be quickly calculated by using the following formulas. There are four possible conditions and formulas that relate the location of the CG to the datum. Notice that the formula for each condition first determines the moment of the nose (F × L ÷ W) wheel or tail (R × L ÷ W) wheel and then divides it by the total weight of the airplane. The arm is then added to or subtracted from the distance between the main wheels and the datum (distance D).",
+    "printedPage": "6-16"
+   },
+   {
+    "kind": "paragraph",
+    "printedPage": "6-16",
+    "md": "Formula 1 Nosewheel airplanes with datum forward of the main wheels."
+   }
+  ],
+  "eq-06-001": [],
+  "ch-06-b0106": [],
+  "ch-06-b0107": [],
+  "eq-06-002": [
+   {
+    "kind": "paragraph",
+    "md": "CG = D – (F × L ÷ W)",
+    "printedPage": "6-16"
+   }
+  ],
+  "eq-06-003": [
+   {
+    "kind": "paragraph",
+    "md": "CG = – (D + F × L ÷ W)",
+    "printedPage": "6-16"
+   }
+  ],
+  "eq-06-004": [
+   {
+    "kind": "paragraph",
+    "md": "CG = D + (R × L ÷ W)",
+    "printedPage": "6-16"
+   }
+  ],
+  "eq-06-005": [
+   {
+    "kind": "paragraph",
+    "md": "CG = – D + (R × L ÷ W)",
+    "printedPage": "6-16"
+   }
+  ],
+  "eq-06-006": [
+   {
+    "kind": "paragraph",
+    "md": "CG = D – (F × L ÷ W)  \n= 128 – (340 × 78 ÷ 2,006)  \n= 114.8",
+    "printedPage": "6-17"
+   }
+  ],
+  "eq-06-007": [
+   {
+    "kind": "paragraph",
+    "md": "CG = – (D + F × L ÷ W)  \n= – (75 + 340 × 78 ÷ 2,006)  \n= –88.2",
+    "printedPage": "6-17"
+   }
+  ],
+  "eq-06-008": [
+   {
+    "kind": "paragraph",
+    "md": "CG = D + (R × L ÷ W)  \n= 7.5 + (67 × 222 ÷ 1,218)  \n= 19.7",
+    "printedPage": "6-19"
+   }
+  ],
+  "eq-06-009": [
+   {
+    "kind": "paragraph",
+    "md": "CG = – D + (R × L ÷ W)  \n= – 80 + (67 × 222 ÷ 1,218)  \n= –67.8",
+    "printedPage": "6-19"
+   }
+  ],
+  "ch-06-b0135": [
+   {
+    "kind": "list",
+    "ordered": false,
+    "printedPage": "6-20",
+    "items": [
+     "Airplane empty weight: 1,850 lb",
+     "EWCG: +92.45\"",
+     "CG limits: +89\" to +99\"",
+     "Maximum weight: 3,200 lb",
+     "Fuel capacity: 45 gal at +95\" (44 usable) 40 gal at +102\" (39 usable)"
+    ]
+   }
+  ],
+  "eq-06-010": [],
+  "ch-06-b0136": [],
+  "ch-06-b0147": [
+   {
+    "kind": "paragraph",
+    "md": "Ballast weight needed = (Total wt. × dist. needed to shift CG) ÷ (Dist. between ballast and desired CG)",
+    "printedPage": "6-22"
+   }
+  ],
+  "ch-06-b0149": [
+   {
+    "kind": "paragraph",
+    "md": "Ballast weight needed = (Total wt. × dist. needed to shift CG) ÷ (Dist. between ballast and desired CG)",
+    "printedPage": "6-22"
+   }
+  ],
+  "eq-06-011": [
+   {
+    "kind": "paragraph",
+    "md": "= (3,034 lb × (0.6\")) ÷ 39\"  \n= 46.68 lb",
+    "printedPage": "6-23"
+   }
+  ],
+  "ch-06-b0158": [
+   {
+    "kind": "paragraph",
+    "md": "Ballast weight = (Aircraft empty wt. × dist. out of limits) ÷ (Dist. between ballast and desired CG)",
+    "printedPage": "6-23"
+   }
+  ],
+  "eq-06-012": [
+   {
+    "kind": "paragraph",
+    "md": "= (1,876 lb × 0.8\") ÷ (228 – 33)",
+    "printedPage": "6-23"
+   }
+  ],
+  "eq-06-013": [
+   {
+    "kind": "paragraph",
+    "md": "= 1,500.8 ÷ 195",
+    "printedPage": "6-24"
+   }
+  ],
+  "ch-06-b0159": [
+   {
+    "kind": "paragraph",
+    "md": "= 7.7 lb",
+    "printedPage": "6-24"
+   },
+   {
+    "kind": "paragraph",
+    "md": "A block of lead weighing 7.7 pounds attached to the bulkhead at fuselage station 228, moves the EWCG back to its proper forward limit of +33. This block should be painted red and marked \"Permanent Ballast– Do Not Remove.",
+    "printedPage": "6-24"
+   }
+  ],
+  "ch-06-b0182": [
+   {
+    "kind": "heading",
+    "title": "Weight & Balance for Large Airplanes",
+    "level": 2,
+    "printedPage": "6-28"
+   }
+  ],
+  "ch-06-b0192": [
+   {
+    "kind": "paragraph",
+    "md": "Percent of MAC = (CG – LEMAC) ÷ MAC × 100",
+    "printedPage": "6-28"
+   }
+  ],
+  "ch-06-b0194": [
+   {
+    "kind": "paragraph",
+    "md": "Percent of MAC = (CG – LEMAC) ÷ MAC × 100",
+    "printedPage": "6-28"
+   }
+  ],
+  "eq-06-014": [
+   {
+    "kind": "paragraph",
+    "md": "= (945 – 900) ÷ 180 × 100",
+    "printedPage": "6-30"
+   }
+  ],
+  "ch-06-b0196": [
+   {
+    "kind": "paragraph",
+    "md": "= 25 percent",
+    "printedPage": "6-30"
+   },
+   {
+    "kind": "paragraph",
+    "md": "If the CG is known in percent of MAC, and there is a need to know the CG location in inches from the datum, the conversion would be done as follows:",
+    "printedPage": "6-30"
+   }
+  ]
+ },
+ "insert_before": {
+  "eq-06-008": [
+   {
+    "kind": "paragraph",
+    "md": "Locating the CG of a tail wheel airplane is done in the same way as locating it for a nosewheel airplane except the formulas use R × L ÷ W rather than F × L ÷ W.",
+    "printedPage": "6-18"
+   },
+   {
+    "kind": "paragraph",
+    "md": "The distance (D) between the datum of the airplane in Figure 6-31 and the main-gear weighing points is 7.5\", the weight of the tail wheel (R) is 67 lb, and the distance (L) between the main-wheel and the tail wheel weighing points is 222\". The total weight of the airplane (W) is 1,218 lb. Determine the CG by using this formula:",
+    "printedPage": "6-18"
+   }
+  ]
+ },
+ "captions": {},
+ "hyphen_fixes": [
+  "four-column",
+  "six-column",
+  "twin-engine"
+ ]
+}
