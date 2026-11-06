@@ -34,7 +34,7 @@ Chemical stability is another property that is exceedingly important in selectin
 
 **Figure 12-1.** Saybolt viscosimeter.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a Saybolt viscosimeter: a container of oil sits in a liquid bath heated by a heating unit, with a thermometer. A cork closes a small orifice at the bottom of the container, and a 60 c.c. flask below collects the oil. The bath is labeled as the reservoir.
 
 [Page 12-2]
 
@@ -173,11 +173,11 @@ When one of the selector valves is positioned to operate an actuating device, fl
 
 **Figure 12-2.** Basic hydraulic system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a basic hydraulic system, color-coded pink for suction, red for pressure and green for return. A reservoir feeds a motor-driven pump and a hand pump (through a one-way check valve). Pressure goes to a selector valve and an actuating cylinder, with a pressure relief valve returning excess to the reservoir. Return fluid passes a filter back to the reservoir.
 
 **Figure 12-3.** Open center hydraulic system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two schematics of an open center system, color-coded for suction, pressure and return. A: pump, relief valve and three directional control valves in series with fluid flowing back to the reservoir (no valve operated). B: one directional control valve operated, sending pressure to an actuating cylinder while the others pass fluid through.
 
 [Page 12-6]
 
@@ -193,7 +193,7 @@ If a variable displacement pump is used, system pressure is controlled by the pu
 
 **Figure 12-4.** A basic closed-center hydraulic system with a variable displacement pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a closed-center system with a pump, reservoir and relief valve, color-coded static, suction, pressure and return. Selector valve A (closed) holds its actuating unit; selector valves B and C (operating) send pressure to their actuating units.
 
 [Page 12-7]
 
@@ -217,7 +217,7 @@ Figure 12-6 is a typical example of a hydraulic system in a large commercial air
 
 **Figure 12-5.** Hydraulic power pack.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a compact hydraulic power pack: an electric motor and pump assembly in a silver insulated housing, with wiring and hydraulic fittings.
 
 ##### Reservoirs
 
@@ -231,7 +231,7 @@ Most aircraft have emergency hydraulic systems that take over if main systems fa
 
 **Figure 12-6.** Large commercial aircraft hydraulic system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a large commercial aircraft hydraulic system with left, center and right systems, color-coded pressure, return, supply and bleed air. Each system has a reservoir and heat exchanger; pumps include left and right EDPs and ACMPs, center ACMP C1 and C2, ADP C1 and C2 and the RAT. A hand pump and reservoir fill select valve serve the reservoirs, and an ALTN EXT power pack is shown. Pressure lines feed users including brakes, nose landing gear actuation and steering, main landing gear actuation and steering, TE flaps and LE slats primary drive, thrust reversers, wing and tail flight controls, and flap/slat and autobrake priority valves.
 
 [Page 12-8]
 
@@ -245,7 +245,7 @@ Nonpressurized reservoirs are slightly pressurized due to thermal expansion of f
 
 **Figure 12-7.** Hydraulic reservoir standpipe for emergency operations.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a pressurized hydraulic reservoir and its connections, color-coded pressurized air, supply, pressure and return. Air comes in through the RSVR pressurized module, RSVR pressurized shutoff valve and RSVR pressurized relief valve to the top of the reservoir, which has an RSVR pressurized switch, RSVR temp transducer, sample valve and drain valve. The reservoir supplies the EDP (with an EDP supply shutoff valve and depress solenoid valve) and the ACMP; return fluid passes a return filter module and heat exchanger. Other labels: EDP filter module, ACMP filter module, temp and pressurized transducers, RLF valve, GND SVC pressurized disk, GND SVC RTN disk, T/R, Brakes (R SYS), PFCS and "From RSVR servicing". (The caption refers to a standpipe, but no standpipe is labeled in this drawing.)
 
 [Page 12-9]
 
@@ -271,15 +271,15 @@ A reservoir pressurization module is installed close to the reservoir. [Figure 1
 
 **Figure 12-10.** Components of an air-pressurized reservoir.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of an air-pressurized reservoir: reservoir pressure relief valve with vent line, line from the reservoir pressurization module, return and fill line, quantity indicator/transmitter, drain/sampling valve, EDP supply line and ACMP supply line.
 
 **Figure 12-8.** Nonpressurized reservoir.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a nonpressurized reservoir: filler neck, cap and fastener with a finger strainer below; normal fluid level; glass sight gauge; baffles and fins; a stand-pipe; and connections for the vent line or pressurizing line, the return line, the main system pump (from the stand-pipe) and the emergency system pump (from the bottom).
 
 **Figure 12-11.** Temperature and quantity sensors.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of the temperature and quantity sensors on the side of a reservoir: two cylindrical sensor bodies with electrical connectors.
 
 [Page 12-10]
 
@@ -293,11 +293,11 @@ A manual bleeder valve is incorporated into the module. During hydraulic system 
 
 **Figure 12-9.** Air-pressurized reservoir.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a cylindrical air-pressurized hydraulic reservoir mounted in a wheel well, with data plates on its side and several hydraulic line fittings at its base.
 
 **Figure 12-12.** Reservoir pressurization module.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled schematic of a reservoir pressurization module: air passes the RSVR pressurized shutoff valve, filters and check valves to the reservoir ("To HYD RSWR"). Also shown: a gauge port, reservoir pressure switch, manual bleed valve and test port.
 
 [Page 12-11]
 
@@ -317,11 +317,11 @@ Nonpressurized reservoirs can be serviced by pouring fluid directly into the res
 
 **Figure 12-13.** Operating principle behind a fluid-pressurized hydraulic reservoir.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a fluid-pressurized reservoir: hydraulic system pressure (3,000 psi) acts on a small piston, which pushes a large piston against the hydraulic fluid, keeping it at 30–50 psi and sending pressurized fluid to the pump inlet. The amount the small piston protrudes indicates the reservoir fluid quantity. A vent is on the other side of the large piston.
 
 **Figure 12-14.** The hydraulic ground serive station on a Boeing 737 provides for hydraulic fluid servicing with a hand pump or via an external pressure fluid source. All three reservoirs are serviced from the same location.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of the Boeing 737 hydraulic ground service station: the system A and system B reservoirs (with balance lines, a fluid quantity indicator and a line to the reservoir pressurization system) and a standby reservoir are filled through a filter and check valve, either from a pressure fill fitting for a hydraulic service cart or by a hand pump with a suction line to a clean container of fluid.
 
 [Page 12-12]
 
@@ -345,7 +345,7 @@ The hydraulic fluid holds in suspension tiny particles of metal that are deposit
 
 **Figure 12-15.** Filter module components.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a filter module: pressure filter, case drain filter, differential pressure indicators, pressure transducer, temperature transducer and ground service disconnect.
 
 [Page 12-13]
 
@@ -353,7 +353,7 @@ Filters may be located within the reservoir, in the pressure line, in the return
 
 **Figure 12-16.** A transport category filter module with two filters.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled photograph of a transport category filter module in a wheel well: filter head assembly with bypass valve, filters (bowl outside, filter inside), differential pressure indicator and system pressure gauge.
 
 The element may be a micron, porous metal, or magnetic type. The micron element is made of a specially treated paper and is normally thrown away when removed. The porous metal and magnetic filter elements are designed to be cleaned by various methods and replaced in the system.
 
@@ -367,7 +367,7 @@ Maintenance of filters is relatively easy. It mainly involves cleaning the filte
 
 **Figure 12-17.** Size comparison in microns.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration comparing sizes in microns: a human hair about 100 microns in diameter beside a 40-micron particle, a 10-micron particle and a 5-micron particle. A note reads "25,400 microns = 1 inch".
 
 [Page 12-14]
 
@@ -389,7 +389,7 @@ Some button indicators have a thermal lockout device incorporated in their desig
 
 **Figure 12-18.** Filter bypass valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a filter bypass valve with a spring-loaded ball, an indicator button, a magnet and a thermal lockout. Detail A-B shows the thermal lockout in the cold condition and the hot condition.
 
 Differential pressure indicators are a component part of the filter assembly in which they are installed and are normally tested and overhauled as part of the complete assembly. With some model filter assemblies, however, it is possible to replace the indicator itself without removal of the filter assembly if it is suspected of being inoperative or out of calibration. It is important that the external surfaces of button-type indicators be kept free of dirt or paint to ensure free movement of the button. Indications of excessive differential pressure, regardless of the type of indicator employed, should never be disregarded. All such indications must be verified and action taken, as required, to replace the loaded filter element. Failure to replace a loaded element can result in system starvation, filter element collapse, or the loss of filtration where bypass assemblies are used. Verification of loaded filter indications is particularly important with button-type indicators as they may have been falsely triggered by mechanical shock, vibration, or cold start of the system. Verification is usually obtained by manually resetting the indicator and operating the system to create a maximum flow demand ensuring that the fluid is at near normal operating temperatures.
 
@@ -411,7 +411,7 @@ When the piston is moved to the right, the pressure in the chamber left of the p
 
 **Figure 12-19.** Double action hand pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two cross-sections of a double action hand pump with its operating handle: piston, piston rod, O-rings, check valve, inlet port and outlet port. A: handle moved one way, fluid flows through the piston. B: handle moved back, fluid enters from the inlet and leaves the outlet.
 
 A rotary hand pump may also be employed. It produces continuous output while the handle is in motion. Figure 12-20 shows a rotary hand pump in a hydraulic system.
 
@@ -421,15 +421,15 @@ Many of the power driven hydraulic pumps of current aircraft are of variable del
 
 **Figure 12-20.** Rotary hand pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a rotary hand pump mounted on a bracket with hydraulic lines attached and a crank handle.
 
 **Figure 12-21.** Engine-driven pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of an engine-driven hydraulic pump mounted on an engine accessory gearbox, surrounded by tubing and wiring.
 
 **Figure 12-22.** Electrically-driven pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of an electrically-driven hydraulic pump in a wheel well: an electric motor with a wiring connector joined to a pump with hydraulic lines.
 
 [Page 12-16]
 
@@ -451,11 +451,11 @@ When the driving gear turns, as shown in Figure 12-23, it turns the driven gear.
 
 **Figure 12-23.** Gear-type power pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of a gear-type pump: a driving gear and a driven gear mesh inside a housing. Arrows show the gears turning toward each other at the center and fluid carried around the outside from the inlet (bottom) to the outlet (top).
 
 **Figure 12-24.** Gerotor pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Five illustrations, A to E, of a gerotor pump turning step by step: an internal drive gear inside a driven rotor, with the inlet and outlet ports marked. Green arrows show rotation and a dot marks the same tooth in each step.
 
 [Page 12-17]
 
@@ -469,11 +469,11 @@ Piston pumps can be constant-displacement or variable-displacement pumps. The co
 
 **Figure 12-25.** Hydraulic pump shear shaft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a pump drive shaft with splines at each end and a narrowed shearing point in the middle, the pump side on the left and the engine side on the right.
 
 **Figure 12-26.** Axial inline piston pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of an axial inline piston pump: drive shaft, swashplate, cylinder block, pistons, inlet port and outlet port, inlet and outlet valve plate slots. Arrows show fluid drawn in through the inlet slot and pushed out through the outlet slot as the block turns ("The fluid from here flows through the valve plate slot").
 
 [Page 12-18]
 
@@ -493,11 +493,11 @@ The vane-type power pump is also a constant-displacement pump. It consists of a 
 
 **Figure 12-27.** Bent axis piston pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a bent axis piston pump: coupling shaft, seal, drive shaft plate, universal link, piston A, piston B, cylinder bearing pin, cylinder block, valve plate, radial bearings, thrust bearing, drain port, inlet port and outlet port. An exploded view of the cylinder block and valve plate is shown above.
 
 **Figure 12-28.** Vane-type power pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a vane-type pump: a rotor with four vanes turning inside an offset sleeve, between the inlet port and the outlet port.
 
 [Page 12-19]
 
@@ -513,7 +513,7 @@ As the piston begins to withdraw from the cylinder block, system inlet pressure 
 
 **Figure 12-29.** Variable displacement pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway of a variable displacement pump, color-coded inlet pressure, case pressure, control pressure and outlet pressure. Labeled parts: impeller and impeller cover (fluid IN), case relief valve, check valve, cylinder block, housing, piston, piston shoe, keepage drain, case drain, drive shaft, baffle, rotary seal, coupling shaft, mating plug, shaft seal subassembly, yoke spring, yoke, actuating piston, steel sleeve, EDV piston, compensator valve, SCL engine valve, blocking valve and attenuator (fluid OUT).
 
 [Page 12-20]
 
@@ -533,11 +533,11 @@ The lower displacement results in a corresponding reduction in pump flow. The pu
 
 **Figure 12-30.** Normal pumping mode.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of a variable displacement pump in normal pumping mode, color-coded (Pi) inlet pressure, (Ps) outlet pressure, (Pc) control pressure and (Pcase) case pressure. Labeled parts: compensator valve, compensator valve spring, pressure adjustment, control pressure (Pc), yoke actuating piston, yoke spring, pump yoke, drive shaft, case drain and Pcase. Inlet low pressure enters at Pi and outlet high pressure leaves at Ps.
 
 **Figure 12-31.** Yoke angle.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a pump yoke on the drive shaft, showing the maximum pumping angle and the minimum stroke position (dotted), with a piston at each position.
 
 [Page 12-21]
 
@@ -547,7 +547,7 @@ When the solenoid valve is energized, the electrical depressurization valve (EDV
 
 **Figure 12-32.** Depressurized mode.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of the same pump in depressurized mode, with the same color code plus EDV pressure. The EDV solenoid (deenergized) and depressurizing piston are added; the blocking valve closes the outlet, and the yoke is moved toward minimum stroke.
 
 [Page 12-22]
 
@@ -567,11 +567,11 @@ The four ports on a four-way selector valve always have the same function. One p
 
 **Figure 12-33.** Operation of a closed-center four-way selector valve, which controls an actuator.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three schematics, A to C, of a closed-center four-way selector valve controlling an actuator, with a reservoir, pump, relief valve and thermal relief valve. The valve has a press port, return port, cyl 1 port and cyl 2 port. A: selector valve (off), no flow to the actuator. B: selector valve (extend), pressure to one side of the piston. C: selector valve (retract), pressure to the other side.
 
 **Figure 12-34.** A poppet-type four-way selector valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a poppet-type four-way selector valve: a blue rectangular valve body with four threaded ports on its face and an adjusting stem on top.
 
 [Page 12-23]
 
@@ -581,11 +581,11 @@ When selected via a switch in the flight deck, the right solenoid is energized. 
 
 **Figure 12-35.** Four-way servo control valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a servo control valve installed among hydraulic lines, with electrical connectors on top.
 
 **Figure 12-36.** Servo control valve solenoids not energized.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a four-way servo control valve with the solenoids not energized: two pilot valves at the top, a spring-centered spool below, pressure (Press.) and return (Ret.) lines, and left and right actuator lines to and from the actuator unit. The spool is centered and the actuator lines are blocked.
 
 [Page 12-24]
 
@@ -603,7 +603,7 @@ A typical check valve consists of a spring-loaded ball and seat inside a housing
 
 **Figure 12-37.** Servo control valve right solenoid energized.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* The same servo control valve schematic with the right solenoid energized: its pilot valve shifts, moving the spool so pressure flows to one actuator line and the other opens to return.
 
 ###### Orifice-Type Check Valve
 
@@ -617,7 +617,7 @@ Sequence valves control the sequence of operation between two branches in a circ
 
 **Figure 12-38.** An inline check valve and orifice type inline check valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-sections and views of inline check valves. A: simple-type inline check valve (ball-type), inlet port and outlet port. B: orifice-type inline check valve (ball-type), with a drilled passage. C: flow direction marking (an arrow) on a simple-type inline check valve. D: flow direction marking on an orifice-type inline check valve (a large arrow and a small arrow).
 
 [Page 12-25]
 
@@ -629,7 +629,7 @@ When the primary actuating unit completes its operation, pressure in the line to
 
 **Figure 12-39.** A pressure-controlled sequence valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two cross-sections of a pressure-controlled sequence valve with an adjusting screw, spring, piston and drain. A: fluid flows from the inlet to the outlet to the primary unit; the piston is seated. B: pressure has risen and lifted the piston, opening the outlet to the secondary unit.
 
 [Page 12-26]
 
@@ -647,11 +647,11 @@ Quick disconnect valves are installed in hydraulic lines to prevent loss of flui
 
 **Figure 12-40.** Mechanically operated sequence valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two cross-sections of a mechanically operated sequence valve: a housing with a check-valve assembly (ball and spring), port A and port B, and a plunger. Left: plunger pushed in, ball off its seat. Right: plunger out, ball seated.
 
 **Figure 12-41.** Priority valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a priority valve with a spring-loaded piston: lines labeled from pump, primary system, secondary system and vent.
 
 ###### Hydraulic Fuses
 
@@ -659,7 +659,7 @@ A hydraulic fuse is a safety device. Fuses may be installed at strategic locatio
 
 **Figure 12-42.** A hydraulic quick-disconnect valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three cross-sections of a quick-disconnect valve: the two halves apart, each with a spring, poppet and piston closing it; and the two halves joined, pistons pushing the poppets open so fluid can pass.
 
 [Page 12-27]
 
@@ -675,7 +675,7 @@ The design of pressure relief valves incorporates adjustable spring-loaded valve
 
 **Figure 12-43.** Hydraulic fuse.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of two hydraulic fuses installed in lines, with a placard marked HYDRAULIC FUSE.
 
 1. Ball type—in pressure relief valves with a ball-type valving device, the ball rests on a contoured seat. Pressure acting on the bottom of the ball pushes it off its seat, allowing the fluid to bypass.
 2. Sleeve type—in pressure relief valves with a sleeve-type valving device, the ball remains stationary and a sleeve-type seat is moved up by the fluid pressure. This allows the fluid to bypass between the ball and the sliding sleeve-type seat.
@@ -685,7 +685,7 @@ Pressure relief valves cannot be used as pressure regulators in large hydraulic 
 
 **Figure 12-44.** Pressure relief valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a pressure relief valve: pressure port at the bottom, a ball held on its seat by a compression spring, a pressure adjusting screw under an adjusting screw cap, and a return port on the side.
 
 [Page 12-28]
 
@@ -700,7 +700,7 @@ The term pressure regulator is applied to a device used in hydraulic systems tha
 
 **Figure 12-45.** The location of a pressure regulator in a basic hydraulic system. The regulator unloads the constant delivery pump by bypassing fluid to the return line when the predetermined system pressure is reached.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a basic hydraulic system with a pressure regulator: a reservoir feeds a constant delivery pump through supply lines and a filter. The pressure regulator sends fluid on through a check valve to the pressure line, or back to the reservoir through a bypass line. Also shown: an accumulator (air and fluid), pressure gauge, relief valve, emergency hand pump with check valve, selector valve, actuating unit and return line.
 
 [Page 12-29]
 
@@ -716,11 +716,11 @@ Enclosed in the housing is a sliding part called the shuttle. Its purpose is to 
 
 **Figure 12-46.** Operating mechanism of a pressure reducing valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a pressure reducing valve: system pressure 1,500 psi acts on a 1 square inch piston held by a 100 pound spring; a 5 square inch shoulder, a bleed orifice, and a relief valve set at 750 psi. The reduced pressure of 200 psi goes to the reduced pressure operated sub-system.
 
 **Figure 12-47.** A spring-loaded piston-type shuttle valve in normal configuration (A) and with alternate/emergency supply (B).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two cross-sections of a spring-loaded piston-type shuttle valve. A: fluid flows from the normal system inlet to the outlet; the spring holds the piston against the alternate inlet. B: fluid from the alternate system inlet pushes the piston over and flows to the outlet.
 
 1. Sliding plunge.
 2. Spring-loaded piston.
@@ -739,7 +739,7 @@ The accumulator is a steel sphere divided into two chambers by a synthetic rubbe
 
 **Figure 12-48.** Shutoff valves.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of two motor-operated shutoff valves side by side, with data labels on their bodies.
 
 [Page 12-30]
 
@@ -762,7 +762,7 @@ The spherical-type accumulator is constructed in two halves that are fastened an
 
 **Figure 12-49.** A spherical accumulator with diaphragm (left) and bladder (right). The dotted lines in the right drawing depict the bladder when the accumulator is charged with both hydraulic system fluid and nitrogen preload.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled cutaway illustrations of spherical accumulators, with hydraulic system pressure entering at the top and a gas servicing valve at the bottom. Left: a diaphragm separates hydraulic fluid (top) from nitrogen or air (bottom), with a screen to prevent extrusion. Right: a bladder holds the gas, with a rigid button or disc to prevent extrusion and a retaining plug; dotted lines show the bladder when the accumulator is charged.
 
 [Page 12-31]
 
@@ -776,7 +776,7 @@ In operation, the compressed-air chamber is charged to a predetermined pressure 
 
 **Figure 12-50.** Cylindrical accumulator.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a long cylindrical accumulator mounted diagonally on aircraft structure, with fittings at each end.
 
 ###### Maintenance of Accumulators
 
@@ -790,7 +790,7 @@ Transport-type aircraft use heat exchangers in their hydraulic power supply syst
 
 **Figure 12-51.** Hydraulic heat exchanger.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of hydraulic heat exchangers: a view inside a fuel tank showing the center system heat exchanger and right system heat exchanger, and an enlarged heat exchanger with cooling fins and two tubes, with FWD and INBD arrows.
 
 [Figure 12-51]
 
@@ -814,7 +814,7 @@ When the selector valve is placed in the ON or EXTEND position, fluid is admitte
 
 **Figure 12-52.** Linear actuator.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-sections of linear actuators. A: single-action actuator, with a mount, fluid inlet, piston, piston seal, piston rod, spring chamber, air vent, rod wiper seal and cylinder housing; fluid extends the piston and a spring returns it. B: double-action actuator, shown extending and retracting, with hydraulic fluid pressure on one side of the piston and fluid return to reservoir on the other.
 
 [Page 12-33]
 
@@ -830,7 +830,7 @@ Piston-type motors are the most commonly used in hydraulic systems. [Figure 12-5
 
 **Figure 12-53.** Linear actuator operation.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two illustrations of a selector valve (ports R and P) connected by hoses to an actuating cylinder. A: valve moved to On/Extend, pressure pushes the piston out. B: valve moved to Retract, pressure pushes the piston back.
 
 Some advantages of hydraulic transmission of power over mechanical transmission of power are as follows:
 
@@ -846,11 +846,11 @@ The RAT is installed in the aircraft to provide electrical and hydraulic power i
 
 **Figure 12-54.** Rack and pinion gear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a rack and pinion actuator: a cylinder with a piston at each end of a rack, which turns a pinion gear. Fluid pressure and return lines connect at each end. A small cutaway view of the actuator is above.
 
 **Figure 12-55.** Bent axis piston motor.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a bent axis piston motor: fluid enters from the inlet through a valve plate (to outlet), and fluid pressure at the inlet generates thrust on pistons in the cylinder block; piston thrust on the shaft flange generates torque on the output shaft. Fluid is carried in the cylinder to the outlet and forced out as the piston is pulled back by the shaft flange.
 
 [Figure 12-56]
 
@@ -862,7 +862,7 @@ The PTU is able to transfer power but not fluid. It transfers power between two 
 
 **Figure 12-56.** Ram air turbine.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a ram air turbine deployed from a compartment in the aircraft's underside, with a two-blade turbine on a strut and a FWD arrow.
 
 PTUs have a fixed displacement, while others use a variable displacement hydraulic pump. The two units, hydraulic pump and hydraulic motor, are connected via a single drive shaft so that power can be transferred between the two systems. Depending on the direction of power transfer, each unit in turn works either as a motor or a pump. [Figure 12-57]
 
@@ -883,7 +883,7 @@ Seals are divided into three main classes: packings, gaskets, and wipers. A seal
 
 **Figure 12-57.** Power transfer unit.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway of a power transfer unit made of two pumps joined by a common foot, a green system pump (left) and a yellow system pump (right), color-coded low pressure, impeller boost pressure, high pressure, filtered pressure, C1 and C2 control pressure, and case pressure. Labeled parts include low and high pressure ports, impellers and impeller covers, peripheral impeller, impeller plate subassemblies, blocking valve, bent axis housing, cylinder blocks, pistons, yoke, actuator piston, adapter, shaft seal, bushing, case drain check valves, in-line housing, control flow filter, compensator valve, yoke position feedback, piston shoe and drive shaft.
 
 [Page 12-35]
 
@@ -901,7 +901,7 @@ Most packings and gaskets used in aircraft are manufactured in the form of O-rin
 
 **Figure 12-58.** Packings.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cutaway illustrations of six packing shapes: U-ring, O-ring, V-ring, U-cup, male and female.
 
 [Page 12-36]
 
@@ -931,7 +931,7 @@ Most seals are made from synthetic materials that are compatible with the hydrau
 
 **Figure 12-59.** Backup O-rings installed downstream.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three-part illustration of backup rings. A: types of backup ring, spiral cut, single turn (scarf-cut) and no cut solid. B: under fluid pressure, an O-ring without a backup ring extrudes into the gap; backup rings are installed downstream of some O-rings to prevent extrusion. C: orientation of a spiral cut Teflon backup ring, wrong, correct, and correct after installation.
 
 [Page 12-37]
 
@@ -972,7 +972,7 @@ The system A, B, and standby reservoirs are located in the wheel well area. The 
 
 **Figure 12-60.** O-ring installation techniques.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Six illustrations, A to F, of O-ring removal with hook-type removal tools and extractor tools: A, internal O-ring removal using a pull-type extractor; B, using a push-type extractor; C, dual internal O-ring removal using a push-type extractor; D, internal O-ring removal using a wedge-type extractor; E, external O-ring removal using a spoon-type extractor; F, external O-ring removal using a wedge-type extractor. Labels include cylinder, cylinder mouth, O-ring, backup rings and the PULL or PUSH direction of each tool.
 
 [Page 12-38]
 
@@ -980,7 +980,7 @@ The engine-driven pump draws fluid through a standpipe in the reservoir and the 
 
 **Figure 12-61.** More O-ring installation techniques.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three illustrations of O-ring installation. A: internal O-ring installation using a soft thin-wall metallic sleeve to avoid damage from sharp edges, corners and threads at the cylinder mouth, with a push-type installation tool. B: internal installation using a paper entering sleeve over sharp edges and threads. C: external O-ring installation using a paper cover over the threads area and O-ring receiving grooves.
 
 [Page 12-39]
 
@@ -1004,15 +1004,26 @@ The purpose of the PTU is to supply the additional volume of hydraulic fluid nee
 
 **Figure 12-62.** Large aircraft hydraulic systems.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a twin-engine airliner with text boxes pointing to the locations of hydraulic components. The boxes read:  
+Stabilizer Trim Motor: "Stabilizer trim actuation on the aircraft is provided by two 3,000-psi, constant-displacement, nine-piston, bent-axis hydraulic motors. Each motor produces 77.3 in-lb torque at 2,250 psid with a rated speed of 2,700 rpm and an intermittent speed of 4,050 rpm. Displacement is 0.216 in²/rev; weight is 3.9 lb."  
+Hydraulic Motor-Driven Generator: "The hydraulic motor-driven generator (HMDG) is a servo-controlled, variable displacement, inline axis-piston hydraulic motor integrated with a three-stage, brushless generator. The HMDG is designed to maintain a steady state generator output frequency of 400 ±2V (at the point of regulation) over a rated electrical output range of 10kVA."  
+AC Motor Pump: "Auxiliary power is provided by a 3,110-psi, 12-gpm, 8,000-rpm fluid-cooled motor pump. Some AC motor pumps feature a ceramic feed-through design. This protects the electrical wiring from being exposed to the caustic hydrauic fluid environment."  
+Leading Edge Slat Drive Motor: "Leading edge slat actuation on the aircraft provided by one constant-displacement, nine-piston, bent-axis hydraulic motor. The motor produces 544.3 in-lb torque at 2,250 psid with a rated speed of 3,170 rpm and an intermittent speed of 4,755 rpm. Displacement is 1.52 in²/rev; weight is 13.21 lb."  
+Power Transfer Unit: "The transfer of hydraulic power (but not fluid) between the left and right independent hydraulic system is accomplished with a nonreversible power transfer unit (PTU) that provides an alternate power source for the leading and trailing edge flaps and the landing gear, including nose gear steering, which are normally driven by the left hydraulic system. The PTU consists of a bent-axis hydraulic motor driving a fixed displacement, in-line pump. Rated speed is 3,900 rpm. Displacement of the pump is 1.39 in²/rev and displacement of the motor is 1.52 in²/rev. The unit weight is 35 lb."  
+Emergency Passenger Door Actuator: "Plays a critical role in safety; extends to open door when actuated by nitrogen gas pressure. Assembly reaches full extension in 2.75 to 4.16 seconds with output force of 2,507 to 2,830 lb."  
+Trailing Edge Flap Drive Motor: "Trailing edge flap actuation is provided by one 3,000-psi, constant-displacement, nine-piston, bent-axis hydraulic motor. The motor produces 21.4 in-lb torque at 2,250 psid with a rated speed of 3,750 rpm and an intermittent speed of 5,660 rpm. Displacement is 0.596 in²/rev; weight is 6.5 lb."  
+Engine-Driven Pump: "Hydraulic power for the left and right systems is supplied by two 48-gpm variable-displacement, 3,000-psi pressure compensated in-line pumps. Displacements 3.0 in²/rev; weight is 40.1 lb."  
+Ram Air Turbine Pump: "A 3,025 psi in-line piston pump provides 20 gpm at 3,920 rpm, delivering hydraulic power for the priority flight control surfaces in the event both engines are lost or a total electrical power failure occurs. Displacement is 1.25 in²/rev; weight is 15 lb."  
+Nose Wheel Steering System: "Consists of a digital electronic controller, hydro-mecharical power unit, mounting collar, tiller, and rudder pedal positon sensors. The hydro-mecharical power unit (an integrated assembly) includes all the hydraulic valving, power amplification, actuation, and damping components."  
+(Spelling as printed in the handbook.)
 
 **Figure 12-63.** Hydraulic reservoirs on a Boeing 737.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of the Boeing 737 reservoir locations near the keel beam and forward bulkhead: the system A reservoir, system B reservoir and standby reservoir, with a FWD arrow.
 
 **Figure 12-64.** Boeing 737 hydraulic system (simplified).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Simplified block diagram of the Boeing 737 hydraulic system. System A (blue) is powered by an EDP and an ACMP; system B (green) by an EDP and an ACMP; the standby system (magenta) by an ACMP. A PTU links the systems. Users shown: No. 1 and No. 2 thrust reversers, rudder, ailerons, elevator and elevator feel, flight spoilers, ground spoilers, auto slats, leading edge flaps and slats, yaw damper, alternate brakes, normal brakes, nose wheel steering and alternate nose wheel steering, landing gear and landing gear transfer unit, autopilot A and B, and trailing edge flaps.
 
 [Page 12-41]
 
@@ -1044,7 +1055,7 @@ The Boeing 777 is equipped with three hydraulic systems. The left, center, and r
 
 **Figure 12-65.** Boeing 737 hydraulic case drain fluid heat exchanger installed in the fuel tank.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of the Boeing 737 case drain fluid heat exchanger in a wing fuel tank, with FWD and INBD arrows. The heat exchanger is a coil of tubing held by mounting clamps (3 places) on the wing structure, with hydraulic line connectors (inlet and outlet) through the rear spar and a bonding jumper. Other labels: to No. 1 hydraulic pump, No. 1 pump pressure, from case drain filter, hydraulic supply (fire) shutoff valve, No. 1 engine pump supply and case drain return line.
 
 [Figure 12-66]
 
@@ -1054,7 +1065,7 @@ The Boeing 777 is equipped with three hydraulic systems. The left, center, and r
 
 **Figure 12-66.** A Boeing 777 hydraulic system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of the Boeing 777 hydraulic system with left, center and right systems, color-coded bleed air, supply, pressure and return. Each side system has a reservoir, heat exchanger, SOV, EDP and ACMP; the center system has C1 and C2 ACMPs, C1 and C2 ADPs, the RAT and an LDG GR ALTN extend DC HYD pump, with ISLN valves and a reservoir fill selector valve. Users include tail and wing flight controls, thrust reversers, nose landing gear actuation and steering, main landing gear actuation and steering, LE slats and TE flaps primary drive, and alternate/reserve and normal brakes. Key: EDP = engine driven pump; ACMP = AC motor pump; ADP = air driven pump.
 
 The left and right hydraulic systems are functionally the same. The left hydraulic system supplies pressurized hydraulic fluid to operate the left thrust reverser and the flight control systems. The right hydraulic system supplies pressurized hydraulic fluid to operate the right thrust reverser, flight control systems, and the normal brake system. [Figure 12-67]
 
@@ -1078,7 +1089,7 @@ The hydraulic system sensors send pressure, temperature, and quantity signals to
 
 **Figure 12-67.** Right hydraulic system of a Boeing 777. A left system is similar.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a Boeing 777 side (right) hydraulic system, color-coded pressurized air, supply, pressure and return: reservoir pressurization (RSVR pressurized module, shutoff valve, relief valve and switch), the reservoir with temperature transducer, sample valve and drain valve, the EDP with supply shutoff valve and depress solenoid valve, the ACMP, filter modules, return filter module, heat exchanger, RLF valve and ground service disks, feeding the T/R, brakes (R SYS) and PFCS.
 
 [Page 12-44]
 
@@ -1107,7 +1118,7 @@ Filter modules clean the pressure and case drain output of the hydraulic pumps. 
 
 **Figure 12-68.** Center hydraulic system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of the Boeing 777 center hydraulic system, color-coded pressurized air, supply, pressure and return: the reservoir with RSVR pressurized switch, sample and drain valves, ACMP C1 and C2, ADP C1 and C2 and the RAT, each with a filter module (RAT check out module for the RAT). Isolation valves (NG ISLN and RSV ISLN) and users: LG ALTN ext system, NLG actuation, NLG steering, ALTN brakes, MLG actuation, MLG steering, leading edge slats, trailing edge flaps and PFCS.
 
 [Page 12-45]
 
@@ -1129,7 +1140,10 @@ If there is a leak in the trailing edge flaps, the MLG actuation and steering, o
 
 **Figure 12-69.** Center hydraulic isolation system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Diagram titled "Main hydraulic systems - center hydraulic isolation system - functional description", color-coded supply, pressure and LE slat lines. The CTR HYD SYS RSVR feeds ACMP C1, ACMP C2, ADP C1, ADP C2 and the RAT. Pressure goes to TE flaps, MLG actuation and steering, PFCS and the LE slats PCV (lines to slat hydraulic motor) through the RSV ISLN valve, and to NLG actuation and steering and ALTN brakes through the nose gear ISLN valve. The isolation valves are controlled by the P110 left PWR management panel and the P310 stby PWR management panel, with Fseu (2). A text panel reads:  
+"RSV and NG ISLN valves close: • Airspeed > 60 kts and C SYS qty < 0.4 (1 second delay)  
+Nose gear ISLN valve open: • Airspeed < 60 kts • ACMP C2, ADP C1, ADP C2, and RAT press < 1,200 psi (30 second delay) • L & R eng rpm > idle, L & R EDP press > 2,400 psi, and (NLG is not up or NLG doors are not closed, or the LG CTRL lever is DN) (30 seconds delay)  
+CHIS reset: • Qty > 0.7 and airspeed < 60 kts (5 second delay) • Qty > 0.7 and L & R eng rpm > idle and L & R EDP press > 2,400 psi (30 second delay)"
 
 [Page 12-46]
 
@@ -1172,11 +1186,11 @@ Pneumatic systems are often compared to hydraulic systems, but such comparisons 
 
 **Figure 12-70.** High-pressure pneumatic system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a high-pressure pneumatic system. Each engine nacelle (LH and RH) has a compressor, pressure regulator, charging valve, abstactor (as labeled), oil and water trap, dehydrator, porous metal filter, pressure relief valve, pressure switch, warning light, sensing line and nonreturn valve. Air is stored in a main bottle (with an isolating valve, air filter and pressure gauge) for normal brakes, nose wheel steering and normal gear control, and in an alternate/emergency bottle (with a pressure gauge, pressure reducing valve and pressure relief valve) for alternate/emergency gear control and alternate/emergency brakes.
 
 **Figure 12-71.** Pneumatic brake system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a pneumatic brake system: an air bottle supplies a pressure reducing valve and a brake control valve worked by the left pedal and right pedal, with a brake pressure gauge, parking handle and rapid exhaust valves, feeding the brake units on the left wheels and right wheels through Maxaret anti-skid units and shuttle valves. A supply pressure line with a nonreturn valve and relief valve also goes to the retraction and extension system. An emergency brake control knob works an emergency brake selector valve (OFF, HOLD, ON), sending emergency pressure through an adjustable restrictor to the shuttle valves.
 
 [Page 12-48]
 
@@ -1196,7 +1210,7 @@ In Figure 12-72A, the control valve is shown in the off position. A spring holds
 
 **Figure 12-72.** Pneumatic control valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled cross-sections of a pneumatic control valve with a control lever, two poppet valves with springs, and a drilled passage. A. Control valve "off": the pressure port is closed and the brake port is open to the vent port. B. Control valve "on": air flows from the power source to the emergency brakes.
 
 To release the brakes, the control valve is returned to the off position. [Figure 12-72A] The left poppet now closes, stopping the flow of high-pressure air to the brakes. At the same time, the right poppet is opened, allowing compressed air in the brake line to exhaust through the vent port and into the atmosphere.
 
@@ -1206,11 +1220,11 @@ Check valves are used in both hydraulic and pneumatic systems. Figure 12-73 illu
 
 **Figure 12-73.** Flap-type pneumatic check valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a flap-type check valve: a spring-loaded flap hinged inside the housing, with arrows showing air flowing past the open flap in one direction.
 
 **Figure 12-74.** Pneumatic orifice valve.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of a pneumatic orifice valve: a fitting with a large inlet port bore narrowing to a small outlet port.
 
 [Page 12-49]
 
@@ -1242,11 +1256,11 @@ Many aircraft use a high-pressure pneumatic back-up source of power to extend th
 
 **Figure 12-75.** Variable pneumatic restrictor.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a variable restrictor: an adjustable needle valve threaded into the body, with arrows showing air flowing from the inlet port past the needle to the pressure port.
 
 **Figure 12-76.** Pneumatic emergency landing gear extension system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a pneumatic (nitrogen) emergency landing gear extension system, color-coded for L SYS, R SYS, PTU, AUX, L SYS/PTU, L SYS/PTU/AUX and nitrogen (N2), with control lines, check valves and shutoff valves. Components include N2 cylinders (2), an outlet and vent valve, landing gear dump valve, landing gear pump, LDG gear select valve, landing gear handle inputs, an EMER LDG GEAR handle, system accumulators (ASC D7), the park/emergency brake accumulator and park brake valve, wheel brakes (4), anti skid valves (4), brake control valves (2), brake pedal inputs, AUGM enter valve, nose wheel steering control valves, power WOW inputs, the GRND serv valve (GRND only), auxiliary pump and SOV, left and right engine pumps, and the power transfer unit switch.
 
 [Page 12-50]
 
@@ -1292,7 +1306,7 @@ As the shaft continues to turn, chamber B moves downward and becomes increasingl
 
 **Figure 12-77.** Schematic of vane-type air pump.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of a vane-type air pump: two vanes (vane 1 and vane 2) on a drive shaft turn inside a housing, dividing it into chambers A, B, C and D, with a supply port at the top and a pressure port at the bottom; an arrow shows the direction of rotation.
 
 #### Pneumatic Power System Maintenance
 

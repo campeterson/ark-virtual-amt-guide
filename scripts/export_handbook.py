@@ -71,7 +71,10 @@ def render_figure(b, notes, warnings, corr=None):
     desc = note.get("description")
     if not desc:
         warnings.append(f"Figure {b['number']}: no description")
-    out += [f"*Figure description:* {desc or PENDING}", ""]
+    # keep a multi-paragraph description in one block, so it stays marked as a
+    # description (and the checker can tell it from handbook text)
+    desc = (desc or PENDING).replace("\n\n", "  \n")
+    out += [f"*Figure description:* {desc}", ""]
     return out
 
 
