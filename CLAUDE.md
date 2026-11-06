@@ -37,10 +37,10 @@ Each subject is one ACS Subject (lettered task) within its Area. Slugs come from
 
 ACS data comes from **https://github.com/campeterson/faa-acs-data** (Cam's extractor). Use `FAA-S-ACS-1/data/elements.json` or `FAA-S-ACS-1.json` from that repo. Don't re-parse the ACS PDF, and don't type elements by hand.
 
-- Generate each subject's `acs.md` with a script (`scripts/build_acs.py`) that filters by subject code (e.g. `AM.II.E`) and writes the subject's objective plus its Knowledge, Risk Management and Skill elements, each with its code and verbatim text. Exclude elements marked `archived`.
+- Generate **one file for the whole ACS**, `acs/FAA-S-ACS-1.md`, with a script (`scripts/build_acs.py`). It's grouped by Area (General / Airframe / Powerplant), then Subject, and writes each subject's objective plus its Knowledge, Risk Management and Skill elements, each with its code and verbatim text. Exclude elements marked `archived`. One file means students upload it once as a fallback and it serves every subject. (Cam's decision; replaces the earlier per-subject `acs.md`.)
 - Pull the data in as a git submodule or pinned download, and record the commit used in the generated file so it's clear which ACS revision a subject was built from.
 - The mechanic ACS has **no `References` field**, so each subject's handbook chapters must be chosen by hand. Confirm the chapter list with Cam.
-- Sanity check for Landing Gear Systems: it should produce 13 K, 6 R and 21 S elements (`AM.II.E.K1`–`K13`, `R1`–`R6`, `S1`–`S21`).
+- Sanity check (enforced in the script's `EXPECTED` table) for Landing Gear Systems: it should produce 13 K, 6 R and 29 S elements (`AM.II.E.K1`–`K13`, `R1`–`R6`, `S1`–`S29`). (Earlier drafts said 21 S; the ACS and the extracted data both list 29.)
 
 Eventually a separate system will provide all of this data. Until then, keep this step to the one script so it's easy to replace.
 
@@ -48,12 +48,14 @@ Eventually a separate system will provide all of this data. Until then, keep thi
 
 ## Source hosting rules
 
+- Keep each **original FAA PDF next to the file built from it** (chapter PDF beside its `.md`, ACS PDF beside `acs/FAA-S-ACS-1.md`) so anyone can check the conversion against the source. Use file names without spaces so raw URLs stay clean.
 - Split the 8083 handbooks into **individual chapters**. They're public domain, so the converted chapters are committed to the repo.
 - Convert chapters to **Markdown**, not PDF. PDF diagrams and tables often come through garbled, so:
   - Rebuild tables as Markdown tables and check every cell against the PDF.
   - Keep figure numbers and captions. Put a plain-text description of each figure under the caption, written only from what the figure and the surrounding text show.
   - Keep the handbook's headings, section numbering and page references so the tutor can cite them.
   - Don't paraphrase, summarize or "improve" the text. This is a faithful conversion.
+- **Chapter text comes from Cam's AMT Handbooks app data** (campeterson/atk-amt-handbooks), not a fresh PDF conversion (Cam's decision). That data has errors (dropped sentences, column-merged paragraphs, cut captions, wrong heading levels), so each chapter gets a corrections file, and `scripts/check_chapter.py` must pass before the chapter is used.
 - Host on **GitHub**. Students get **raw file links or a GitHub Pages site**, not normal repo pages, because the extra page clutter gets in Claude's way.
 - Include a simple **index page** listing every chapter and its link.
 - **Fallback:** if Claude doesn't fetch a link, the student downloads the chapter and uploads it to their project. Every chapter must work as a standalone upload.
@@ -64,16 +66,24 @@ Eventually a separate system will provide all of this data. Until then, keep thi
 
 ```
 CLAUDE.md                          ← this file
-sources/                           ← original 8083 handbook PDFs
 vendor/faa-acs-data/               ← ACS data (submodule or pinned copy)
-scripts/build_acs.py               ← generates each subject's acs.md from the ACS data
+acs/FAA-S-ACS-1.md                 ← generated: the whole ACS, verbatim, all subjects
+acs/FAA-S-ACS-1.pdf                ← original FAA ACS PDF, kept next to its conversion
+scripts/build_acs.py               ← generates acs/FAA-S-ACS-1.md from the ACS data
 handbooks/<handbook-id>/<chNN-slug>.md   ← converted chapters (shared; a chapter may serve several subjects)
+handbooks/<handbook-id>/<chNN-slug>.pdf  ← original FAA PDF of that chapter, kept next to its conversion
+scripts/export_handbook.py         ← builds a chapter .md from Cam's AMT Handbooks app data (atk-amt-handbooks)
+scripts/check_chapter.py           ← checks a chapter .md against its PDF; must pass before a chapter is published
+scripts/check_tables.py            ← checks every value in a rebuilt figure table is in the PDF
+scripts/pdf_grab.py                ← pulls text from the PDF for writing corrections
+scripts/corrections_lib.py         ← works out heading levels, captions and hyphen fixes from the PDF
+corrections/<handbook-id>/chNN.json      ← text fixes on top of the app data (+ build_chNN.py that generates it)
+figure-notes/<handbook-id>/chNN.json     ← figure descriptions and rebuilt tables, checked against the PDF
 subjects/
   general/
   airframe/
     landing-gear-systems/
-      acs.md                       ← generated: AM.II.E elements, verbatim
-      sources.md                   ← the source list students use: raw links to acs.md + handbook chapters
+      sources.md                   ← the source list students use: subject code + raw links to the ACS file and handbook chapters
   powerplant/
 project-instructions.md            ← the ONE standard set of Project instructions students paste in
 index.md                           ← every subject (grouped by general / airframe / powerplant) and every chapter, with raw links
@@ -92,8 +102,9 @@ Also needed for this to work:
 - The instructions must be **subject-agnostic**: one paste works for every subject. The student picks a category (general, airframe or powerplant) and then a subject, and the tutor uses that subject's `sources.md`.
 - The tutor treats the subject's ACS elements as the map of what the student must know, and uses the K, R and S codes to track what's been covered.
 - When a question goes beyond the loaded sources, the tutor says so instead of answering from general knowledge.
+- **Progress:** the tutor tracks K, R and S codes in the chat, and on request or at the end of a session writes a progress artifact the student can save and add to their Project so the next chat picks up where they left off.
 
-**Before drafting:** Cam may have earlier notes on tutor behavior (possibly in Google Drive; not found in chat history). Ask Cam for them first. Don't draft over them.
+**Earlier notes:** Cam supplied an older "AMT Tutor knowledge files" brief (test-prep drills, uploaded knowledge, General first). Cam chose this file over it where they conflict. Don't build from that brief.
 
 ---
 
@@ -108,8 +119,8 @@ Also needed for this to work:
 
 1. Ask Cam for any earlier tutor-behavior notes.
 2. Draft `project-instructions.md`. **Check in with Cam.**
-3. Write `scripts/build_acs.py` and generate `subjects/airframe/landing-gear-systems/acs.md`. Verify the 13/6/21 element counts.
-4. Convert and host the first handbook chapters. For Landing Gear Systems, that's the landing gear chapter of the AMT Airframe handbook (FAA-H-8083-31; identify the exact volume and chapter from the PDF in `sources/`). Check the ACS elements against the chapter. If any element, such as skis and floats (K13) or jacking (S5, R2), is covered in a different chapter, propose adding that chapter to the source list. Build `sources.md` and `index.md`.
+3. Write `scripts/build_acs.py` and generate `acs/FAA-S-ACS-1.md`. Verify the 13/6/29 element counts for AM.II.E.
+4. Convert and host the first handbook chapters. For Landing Gear Systems, that's the landing gear chapter of the AMT Airframe handbook (FAA-H-8083-31; identify the exact volume and chapter from the PDF in `handbooks/`). Check the ACS elements against the chapter. If any element, such as skis and floats (K13) or jacking (S5, R2), is covered in a different chapter, propose adding that chapter to the source list. Build `sources.md` and `index.md`.
 5. Set up GitHub Pages and confirm the raw links fetch cleanly as plain text.
 6. Test with this one subject before rolling out to students: run the tutor in a claude.ai Project with the pasted instructions, check that it fetches the links, cites the handbook, and guides with questions. Then report what broke.
 

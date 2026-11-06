@@ -1,0 +1,365 @@
+{
+ "chapter": "FAA-H-8083-31B ch-13",
+ "about": "Fixes applied by scripts/export_handbook.py on top of the AMT Handbooks app data. Every replacement text was taken from the FAA PDF column by column (see build_ch13.py, which regenerates this file). Checked with scripts/check_chapter.py.",
+ "section_levels": {
+  "Tail-Wheel-Type-Landing-Gear": 4,
+  "Tandem-Landing-Gear": 4,
+  "Tricycle-Type-Landing-Gear": 4,
+  "Leaf-Type-Spring-Gear": 4,
+  "Rigid": 4,
+  "Bungee-Cord": 4,
+  "Shock-Struts": 4,
+  "Safety-Switch": 4,
+  "Ground-Locks": 4,
+  "Landing-Gear-Position-Indicators": 4,
+  "Nose-Wheel-Centering": 4,
+  "Adjusting-Landing-Gear-Latches": 4,
+  "Gear-Door-Clearances": 4,
+  "Drag-and-Side-Brace-Adjustment": 4,
+  "Landing-Gear-Retraction-Test": 4,
+  "Steering-Damper": 4,
+  "Piston-Type": 4,
+  "Vane-Type": 4,
+  "Inboard-Wheel-Half": 4,
+  "Outboard-Wheel-Half": 4,
+  "On-Aircraft-Inspection": 4,
+  "Proper-Installation": 4,
+  "Axle-Nut-Torque": 5,
+  "Off-Aircraft-Wheel-Inspection": 4,
+  "Loosening-the-Tire-from-the-Wheel-Rim": 5,
+  "Disassembly-of-the-Wheel": 5,
+  "Cleaning-the-Wheel-Assembly": 5,
+  "Cleaning-the-Wheel-Bearings": 5,
+  "Wheel-Bearing-Inspection": 5,
+  "Bearing-Handling-and-Lubrication": 5,
+  "Inspection-of-the-Wheel-Halves": 5,
+  "Wheel-Tie-Bolt-Inspection": 5,
+  "Key-and-Key-Screw-Inspection": 5,
+  "Fusible-Plug-Inspection": 5,
+  "Balance-Weights": 5,
+  "Single-Disc-Brakes": 4,
+  "Floating-Disc-Brakes": 5,
+  "Fixed-Disc-Brakes": 5,
+  "Dual-Disc-Brakes": 4,
+  "Multiple-Disc-Brakes": 4,
+  "Segmented-Rotor-Disc-Brakes": 4,
+  "Carbon-Brakes": 4,
+  "Expander-Tube-Brakes": 4,
+  "Independent-Master-Cylinders": 4,
+  "Boosted-Brakes": 4,
+  "Power-Brakes": 4,
+  "Brake-Control-ValveBrake-Metering-Valve": 5,
+  "Parking-Brake": 4,
+  "Brake-Deboosters": 4,
+  "System-Operation": 4,
+  "Wheel-Speed-Sensors": 4,
+  "Control-Units": 4,
+  "Anti-Skid-Control-Valves": 4,
+  "Touchdown-and-Lock-Wheel-Protection": 4,
+  "Auto-Brakes": 4,
+  "Anti-Skid-System-Tests": 4,
+  "Ground-Test": 5,
+  "In-Flight-Test": 5,
+  "Anti-Skid-System-Maintenance": 4,
+  "Wheel-Speed-Sensor": 5,
+  "Control-Valve": 5,
+  "Control-Unit": 5,
+  "On-Aircraft-Servicing": 4,
+  "Lining-Wear": 4,
+  "Air-in-the-Brake-System": 4,
+  "Bleeding-Master-Cylinder-Brake-Systems": 4,
+  "Bleeding-Power-Brake-Systems": 4,
+  "Fluid-Quantity-and-Type": 5,
+  "Inspection-for-Leaks": 5,
+  "Proper-Bolt-Torque": 5,
+  "Off-Aircraft-Brake-Servicing-and-Maintenance": 4,
+  "Bolt-and-Threaded-Connections": 5,
+  "Discs": 5,
+  "Automatic-Adjuster-Pins": 5,
+  "Torque-Tube": 5,
+  "Brake-Housing-and-Piston-Condition": 5,
+  "Seal-Condition": 5,
+  "Replacement-of-Brake-Linings": 4,
+  "Goodyear-Brakes": 5,
+  "Cleveland-Brakes": 5,
+  "Overheating": 4,
+  "Dragging": 4,
+  "Chattering-or-Squealing": 4,
+  "Types": 4,
+  "Ply-Rating": 4,
+  "Tube-Type-or-Tubeless": 4,
+  "Bias-Ply-or-Radial": 4,
+  "Bead": 4,
+  "Carcass-Plies": 4,
+  "Tread": 4,
+  "Sidewall": 4,
+  "Chine": 5,
+  "Inflation": 4,
+  "Tread-Condition": 4,
+  "Tread-Depth-and-Wear-Pattern": 5,
+  "Tread-Damage": 5,
+  "Sidewall-Condition": 4,
+  "Tube-Construction-and-Selection": 4,
+  "Tube-Storage-and-Inspection": 4,
+  "Tire-Inspection": 4,
+  "Tubeless-Tires": 4,
+  "Tube-Type-Tires": 4
+ },
+ "insert_heading_before": {
+  "ch-13-b0105": {
+   "title": "Nose Wheel Steering Systems",
+   "level": 2,
+   "printedPage": "13-29"
+  },
+  "ch-13-b0119": {
+   "title": "Non-Hydraulic Shimmy Damper",
+   "level": 4,
+   "printedPage": "13-33"
+  }
+ },
+ "replace": {
+  "ch-13-b0011": [
+   {
+    "kind": "paragraph",
+    "md": "The nose gear of a few aircraft with tricycle-type landing gear is not controllable. It simply casters as steering is accomplished with differential braking during taxi. However, nearly all aircraft have steerable nose gear. On light aircraft, the nose gear is directed through mechanical linkage to the rudder pedals. Heavy aircraft typically utilize hydraulic power to steer the nose gear. Control is achieved through an independent tiller in the flight deck. [Figure 13-7]",
+    "printedPage": "13-3"
+   },
+   {
+    "kind": "paragraph",
+    "md": "The main gear on a tricycle-type landing gear arrangement is attached to reinforced wing structure or fuselage structure. The number and location of wheels on the main gear vary. Many main gear have two or more wheels. [Figure 13-8] Multiple wheels spread the weight of the aircraft over a larger area. They also provide a safety margin should one tire fail. Heavy aircraft may use four or more wheel assemblies on each main gear. When more than two wheels are attached to a landing gear strut, the attaching mechanism is known as a bogie. The number of wheels included in the bogie is a function of the gross design weight of the aircraft and the surface type on which the loaded aircraft is required to land. Figure 13-9 illustrates the triple bogie main gear of a Boeing 777.",
+    "printedPage": "13-4"
+   }
+  ],
+  "ch-13-b0025": [
+   {
+    "kind": "paragraph",
+    "md": "Most shock struts employ a metering pin similar to that shown in Figure 13-16 for controlling the rate of fluid flow from the lower chamber into the upper chamber. During the compression stroke, the rate of fluid flow is not constant. It is automatically controlled by the taper of the metering pin in the orifice. When a narrow portion of the pin is in the orifice, more fluid can pass to the upper chamber. As the diameter of the portion of the metering pin in the orifice increases, less fluid passes. Pressure build-up caused by strut compression and the hydraulic fluid being forced through the metered orifice causes heat. This heat is converted impact energy. It is dissipated through the structure of the strut.",
+    "printedPage": "13-7"
+   },
+   {
+    "kind": "paragraph",
+    "md": "On some types of shock struts, a metering tube is used. The operational concept is the same as that in shock struts with metering pins, except the holes in the metering tube control the flow of fluid from the bottom chamber to the top chamber during compression. [Figure 13-17]",
+    "printedPage": "13-7"
+   }
+  ],
+  "ch-13-b0059": [],
+  "ch-13-b0060": [
+   {
+    "kind": "paragraph",
+    "md": "When the flight deck gear selection handle is put in the gear-down position, a switch is made that turns on the electric motor in the power pack. The motor turns in the direction to rotate the hydraulic gear pump so that it pumps fluid to the gear-down side of the actuating cylinders. Pump pressure moves the spring-loaded shuttle valve to the left to allow fluid to reach all three actuators. Restrictors are used in the nose wheel actuator inlet and outlet ports to slow down the motion of this lighter gear. While hydraulic fluid is pumped to extend the gear, fluid from the upside of the actuators returns to the reservoir through the gear-up check valve. When the gear reach the down and locked position, pressure builds in the gear-down line from the pump and the low-pressure control valve unseats to return the fluid to the reservoir. Electric limit switches turn off the pump when all three gears are down and locked.",
+    "printedPage": "13-18"
+   }
+  ],
+  "ch-13-b0061": [
+   {
+    "kind": "paragraph",
+    "md": "To raise the gear, the flight deck gear handle is moved to the gear-up position. This sends current to the electric motor, which drives the hydraulic gear pump in the opposite direction causing fluid to be pumped to the gear-up side of the actuators. In this direction, pump inlet fluid flows through the filter. Fluid from the pump flows thought the gear-up check valve to the gear-up sides of the actuating cylinders. As the cylinders begin to move, the pistons release the mechanical down locks that hold the gear rigid for ground operations. Fluid from the gear-down side of the actuators returns to the reservoir through the shuttle valve. When the three gears are fully retracted, pressure builds in the system, and a pressure switch is opened that cuts power to the electric pump motor. The gear are held in the retracted position with hydraulic pressure. If pressure declines, the pressure switch closes to run the pump and raise the pressure until the pressure switch opens again.",
+    "printedPage": "13-19"
+   }
+  ],
+  "ch-13-b0077": [
+   {
+    "kind": "paragraph",
+    "printedPage": "13-23",
+    "md": "Off = gear up and locked  \nRed = unsafe  \nGreen = down and locked"
+   }
+  ],
+  "ch-13-b0078": [],
+  "ch-13-b0118": [
+   {
+    "kind": "paragraph",
+    "md": "A vane-type shimmy damper is sometime used.[Figure 13-56] It uses fluid chambers created by the vanes separated by a valve orifice in a center shaft. As the nose gear tries to oscillate, vanes rotate to change the size of internal chambers filled with fluid. The chamber size can only change as fast as the fluid can be forced through the orifice. Thus, the gear oscillation is dissipated by the rate of fluid flow. An internal spring-loaded replenishing reservoir keeps pressurized fluid in the working chambers and thermal compensation of the orifice size is included. As with the piston type shimmy damper, the vane-type damper should be inspected for leaks and kept serviced. A fluid level indicator protrudes from the reservoir end of the unit.",
+    "printedPage": "13-32"
+   }
+  ],
+  "ch-13-b0126": [
+   {
+    "kind": "paragraph",
+    "md": "An overinflation safety plug may also be installed in the inner wheel half. This is designed to rupture and release all of the air in the tire should it be over inflated. The fill valve is also often installed in the inner wheel half with the stem extending through holes in the outer wheel half to permit access for inflation and deflation.",
+    "printedPage": "13-34"
+   }
+  ],
+  "ch-13-b0127": [
+   {
+    "kind": "paragraph",
+    "md": "The outboard wheel half bolts to the inboard wheel half to make up the wheel assembly upon which the tire is mounted. The center boss is constructed to receive a bearing cup and bearing assembly as it does on the inboard wheel half. The outer bearing and end of the axle is capped to prevent contaminants from entering this area. Aircraft with anti-skid brake systems typically mount the wheel-spin transducer here. It is sealed and may also serve as a hub cap. The 737 outer wheel half illustrated in Figure 13-60 also has a hub cap fairing over the entire wheel half. This is to fair it with the wind since the outer wheel half does not close behind a gear door on this aircraft. Hub caps may also be found on fixed gear aircraft.",
+    "printedPage": "13-35"
+   }
+  ],
+  "ch-13-b0165": [
+   {
+    "kind": "paragraph",
+    "md": "A floating disc brake is illustrated in Figure 13-79. A more detailed, exploded view of this type of brake is shown in Figure 13-80. The caliper straddles the disc. It has three cylinders bored through the housing, but on other brakes this number may vary. Each cylinder accepts an actuating piston assembly comprised mainly of a piston, a return spring, and an automatic adjusting pin. Each brake assembly has six brake linings or pucks. Three are located on the ends of the pistons, which are in the outboard side of the caliper. They are designed to move in and out with the pistons and apply pressure to the outboard side of the disc. Three more linings are located opposite of these pucks on the inboard side of the caliper. These linings are stationary.",
+    "printedPage": "13-42"
+   }
+  ],
+  "ch-13-b0175": [
+   {
+    "kind": "paragraph",
+    "printedPage": "13-46",
+    "md": "As with the single and dual-disc brakes, retracting springs return the piston into the housing chamber of the bearing carrier when hydraulic pressure is relieved. The hydraulic fluid exits the brake to the return line through an automatic adjuster. The adjuster traps a predetermined amount of fluid in the brakes that is just sufficient to provide the correct clearances between the rotors and stators. [Figure 13-86] Brake wear is typically measured with a wear gauge that is not part of the brake assembly. These types of brake are typically found on older transport category aircraft. The rotors and stators are relatively thin, only about 1⁄8-inch thick. They do not dissipate heat very well and have a tendency to warp."
+   }
+  ],
+  "ch-13-b0176": [],
+  "ch-13-b0180": [
+   {
+    "kind": "paragraph",
+    "md": "A pressure plate is a flat, circular, high-strength steel, non-rotating plate notched on the inside circumference to fit over the stator drive sleeves or torque tube spines. The brake actuating pistons contact the pressure plate. Typically, an insulator is used between the piston head and the pressure plate to impede heat conduction from the brake discs. The pressure plate transfers the motion of the pistons to the stack of rotors and stators that compress to slow the rotation of the wheels. On most designs, brake lining material attached directly to the pressure plate contacts the first rotor in the stack to transfer the motion of the piston(s). [Figure 13-87] An auxiliary stator plate with brake lining material on the side opposite the pressure plate can also be used.",
+    "printedPage": "13-47"
+   },
+   {
+    "kind": "paragraph",
+    "md": "Any number of alternating rotors and stators are sandwiched under hydraulic pressure against the backing plate of the brake assembly when the brakes are applied. The backing plate is a heavy steel plate bolted to the housing or torque tube at a fixed dimension from the carrier housing. In most cases, it has brake lining material attached to it and contacts the last rotor in the stack. [Figure 13-87]",
+    "printedPage": "13-48"
+   }
+  ],
+  "ch-13-b0192": [
+   {
+    "kind": "paragraph",
+    "md": "They tend to take a setback when cold. They also have a tendency to swell with temperature and leak. They may drag inside the drum if this occurs. Eventually, expander brakes were abandoned in favor of disc brake systems.",
+    "printedPage": "13-50"
+   }
+  ],
+  "ch-13-b0193": [
+   {
+    "kind": "paragraph",
+    "md": "The various brake assemblies, described in the previous section, all use hydraulic power to operate. Different means of delivering the required hydraulic fluid pressure to brake assemblies are discussed in this section. There are three basic actuating systems:",
+    "printedPage": "13-50"
+   }
+  ],
+  "ch-13-b0200": [
+   {
+    "kind": "paragraph",
+    "md": "Hydraulic fluid expands as temperature increases. Trapped fluid can cause a brake to drag against the rotor(s). Leaks may also result. When the brakes are not applied, fluid must be allowed to expand safely without causing these issues. A compensating port is included in most master cylinders to facilitate this. In the master cylinder in Figure 13-95, this port is opened when the piston is fully retracted. Fluid in the brake system is allowed to expand into the reservoir, which has the capacity to accept the extra fluid volume. The typical reservoir is also vented to the atmosphere to provide positive pressure on the fluid.",
+    "printedPage": "13-51"
+   },
+   {
+    "kind": "paragraph",
+    "md": "The forward side of the piston head contains a seal that closes off the compensating port when the brakes are applied so that pressure can build. The seal is only effective in the forward direction. When the piston is returning, or is fully retracted to the off position, fluid behind the piston is free to flow through piston head ports to replenish any fluid that may be lost downstream of the master cylinder. The aft end of the master cylinder contains a seal that prevents leakage at all times. A rubber boot fits over the piston rod and the aft end of the master cylinder to keep out dust.",
+    "printedPage": "13-51"
+   }
+  ],
+  "ch-13-b0209": [],
+  "ch-13-b0210": [
+   {
+    "kind": "paragraph",
+    "md": "Large and high-performance aircraft are equipped with power brakes to slow, stop, and hold the aircraft. Power brake actuating systems use the aircraft hydraulic system as the source of power to apply the brakes. The pilot presses on the top of the rudder pedal for braking as with the other actuating systems. The volume and pressure of hydraulic fluid required cannot be produced by a master cylinder. Instead, a power brake control valve or brake metering valve receives the brake pedal input either directly or through linkages.",
+    "printedPage": "13-55"
+   }
+  ],
+  "ch-13-b0214": [
+   {
+    "kind": "paragraph",
+    "md": "A brake metering valve from a Boeing 737 is illustrated in Figure 13-99. The system in which it is installed is diagramed in Figure 13-100. Two sources of hydraulic pressure provide redundancy in this brake system. A brake input shaft, connected to the rudder/brake pedal through mechanical linkages, provides the position input to the metering valve. As in most brake control valves, the brake input shaft moves a tapered spool or slide in the valve so that it allows hydraulic system pressure to flow to the brakes. At the same time, the slide covers and uncovers access to the hydraulic system return port as required.",
+    "printedPage": "13-56"
+   }
+  ],
+  "ch-13-b0238": [
+   {
+    "kind": "paragraph",
+    "md": "The error output voltage from the comparator feeds the pressure bias modulator circuit. This is a memory circuit that establishes a threshold where the pressure to the brakes provides optimum braking. The error voltage causes the modulator to either increase or decrease the pressure to the brakes in attempt to hold the modulator threshold. It produces a voltage output that is sent to the summing amplifier to do this. A lead output from the comparator anticipates when the tire is about to skid with a voltage that decreases the pressure to the brake. It sends this voltage to the summing amplifier as well. A transient control output from the comparator designed for rapid pressure dump when a sudden skid has occurred also sends voltage to the summing amp. As the name suggests, the input voltages to the amplifier are summed, and a composite voltage is sent to the valve driver. The driver prepares the current required to be sent to the control valve to adjust the position of the valve. Brake pressure increases, decreases, or holds steady depending on this value.",
+    "printedPage": "13-62"
+   }
+  ],
+  "ch-13-b0239": [
+   {
+    "kind": "paragraph",
+    "md": "Anti-skid control valves are fast-acting, electrically controlled hydraulic valves that respond to the input from the anti-skid control unit. There is one control valve for each brake assembly. A torque motor uses the input from the valve driver to adjust the position of a flapper between two nozzles. By moving the flapper closer to one nozzle or the other, pressures are developed in the second stage of the valve. These pressures act on a spool that is positioned to build or reduce pressure to the brake by opening and blocking fluid ports. [Figure 13-111]",
+    "printedPage": "13-63"
+   },
+   {
+    "kind": "paragraph",
+    "md": "As pressure is adjusted to the brakes, deceleration slows to within the range that provides the most effective braking without skidding. The wheel sensor signal adjusts to the wheel speed, and the control unit processes the change. Output is altered to the control valve. The control valve flapper position is adjusted and steady braking resumes without correction until needed. Anti-skid control valves are typically located in the main wheel for close access to hydraulic pressure and return manifolds, as well as the brake assemblies. [Figure 13-112] Systematically, they are positioned downstream of the power brake control valves but upstream of debooster cylinders if the aircraft is so equipped as was shown in Figure 13-104.",
+    "printedPage": "13-63"
+   }
+  ],
+  "ch-13-b0244": [
+   {
+    "kind": "paragraph",
+    "md": "Ground tests vary slightly from aircraft to aircraft. Consult the manufacturer's maintenance manual for test procedures specific to the aircraft in question.",
+    "printedPage": "13-65"
+   },
+   {
+    "kind": "paragraph",
+    "md": "Much of the anti-skid system testing originates from testing circuits in the anti-skid control unit. Built-in test circuits continuously monitor the anti-skid system and provide warning if a failure occurs. An operational test can be performed before flight. The anti-skid control switch and/ or test switch is used in conjunction with system indicator light(s) to determine system integrity. A test is first done with the aircraft at rest and then in an electrically simulated anti-skid braking condition. Some anti-skid control units contain system and component testing switches and lights for use by the technician. This accomplishes the same operational verification but allows an additional degree of troubleshooting. Test sets are available for anti-skid systems that produce electric signals that simulate speed outputs of the wheel transducer, deceleration rates, and flight/ground parameters.",
+    "printedPage": "13-65"
+   }
+  ],
+  "ch-13-b0259": [
+   {
+    "kind": "paragraph",
+    "md": "The typical pressure bleed is accomplished as illustrated in Figure 13-119. The hose from the pressure tank is attached to the bleed port on the brake assembly. A clear hose is attached to the vent port on the aircraft brake fluid reservoir or on the master cylinder if it incorporates the reservoir. The other end of this hose is placed in a collection container with a supply of clean brake fluid covering the end of the hose. The brake assembly bleed port is opened. The valve on the pressure tank hose is then opened allowing pure, air-free fluid to enter the brake system. Fluid containing trapped air is expelled through the hose attached to the vent port of the reservoir. The clear hose is monitored for air bubbles. When they cease to exist, the bleed port and pressure tank shutoff are closed, and the pressure tank hose is removed. The hose at the reservoir is also removed. Fluid quantity may need to be adjusted to assure the reservoir is not over filled. Note that it is absolutely necessary that the proper fluid be used to service any brake system including when bleeding air from the brake lines.",
+    "printedPage": "13-68"
+   }
+  ]
+ },
+ "insert_before": {
+  "ch-13-b0001": [
+   {
+    "kind": "paragraph",
+    "md": "Aircraft landing gear supports the entire weight of an aircraft during landing and ground operations. They are attached to primary structural members of the aircraft. The type of gear depends on the aircraft design and its intended use. Most landing gear have wheels to facilitate operation to and from hard surfaces, such as airport runways. Other gear feature skids for this purpose, such as those found on helicopters, balloon gondolas, and in the tail area of some tail dragger aircraft. Aircraft that operate to and from frozen lakes and snowy areas may be equipped with landing gear that have skis. Aircraft that operate to and from the surface of water have pontoon-type landing gear. Regardless of the type of landing gear utilized, shock absorbing equipment, brakes, retraction mechanisms, controls, warning devices, cowling, fairings, and structural members necessary to attach the gear to the aircraft are considered parts of the landing gear system. [Figure 13-1]",
+    "printedPage": "13-1"
+   }
+  ]
+ },
+ "insert_after": {
+  "ch-13-b0104": [
+   {
+    "kind": "list",
+    "ordered": true,
+    "start": 3,
+    "printedPage": "13-29",
+    "items": [
+     "Check the landing gear doors for clearance and freedom from binding.",
+     "Check landing gear linkage for proper operation, adjustment, and general condition.",
+     "Check the alternate/emergency extension or retraction systems for proper operation.",
+     "Investigate any unusual sounds, such as those caused by rubbing, binding, chafing, or vibration."
+    ]
+   }
+  ]
+ },
+ "append_to_section": {
+  "Anti-Skid-System-Tests": [
+   {
+    "kind": "paragraph",
+    "md": "It is important to know the status of the anti-skid system prior to attempting to use it during a landing or aborted takeoff. Ground tests and in-flight tests are used. Built-in test circuits and control features allow testing of the system components and provide warnings should a particular component or part of the system become inoperative. An inoperative anti-skid system can be shut off without affecting normal brake operation.",
+    "printedPage": "13-65"
+   }
+  ]
+ },
+ "list_start": {
+  "ch-13-b0041": 3,
+  "ch-13-b0044": 8
+ },
+ "hyphen_fixes": [
+  "single-engine",
+  "gear-down",
+  "lock-out",
+  "to-metal",
+  "high-pressure",
+  "rotor-disc",
+  "non-rotating",
+  "non-aircraft",
+  "wheel-like",
+  "fluid-filled",
+  "Mineral-based",
+  "over-tightening",
+  "low-pressure",
+  "two-number",
+  "10-inch"
+ ],
+ "captions": {
+  "13-68": "Brinelling is caused by excessive impact. It appears as indentations in the bearing cup raceways. Any static overload or severe impact can cause true brinelling, which leads to vibration and premature bearing failure.",
+  "13-71": "Etching and corrosion is caused when water, and the damage caused by water, penetrates the surface treatment of the bearing element. It appears as a reddish/brown discoloration."
+ },
+ "check_ignore": [
+  {
+   "text": "Ozone (O3) and oxygen (O2) cause degradation of tire compounds.",
+   "reason": "The subscripts put this PDF line outside body-text height; text checked by eye."
+  },
+  {
+   "text": "The rotors and stators are relatively thin, only about 1⁄8-inch thick.",
+   "reason": "The fraction's superscript 1 is set outside body-text height; text checked by eye."
+  }
+ ]
+}
