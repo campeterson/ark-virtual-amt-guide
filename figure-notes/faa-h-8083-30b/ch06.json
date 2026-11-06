@@ -1,0 +1,186 @@
+{
+ "6-1": {
+  "description": "Side view of a low-wing airplane. A vertical line at the leading edge of the wing is labeled \"Datum (leading edge of wing)\". Arrows show negative arm to the left (forward) of the datum and positive arm to the right (aft). The center of gravity symbol is marked on the fuselage, aft of the datum."
+ },
+ "6-2": {
+  "description": "Side view of a low-wing airplane with the datum 40\" forward of the firewall. A radio (5 lb) is 80\" aft of the datum (Arm = 80\"). The center of gravity is marked. A box shows: Moment = Weight (arm) = 5 lb (80\") = 400 in-lb."
+ },
+ "6-3": {
+  "description": "Table showing how the signs of weight and arm give the sign of the moment and the direction of rotation.",
+  "table": "| Weight | Arm | Moment | Rotation |\n|---|---|---|---|\n| + | + | + | Noseup |\n| + | – | – | Nosedown |\n| – | + | – | Nosedown |\n| – | – | + | Noseup |"
+ },
+ "6-4": {
+  "description": "Illustration of a first class lever: a beam balanced on a fulcrum marked \"Fulcrum and CG\". A force 90\" to the left gives Moment = 700 lb (90\") = 63,000 in-lb; a force 70\" to the right gives Moment = 900 lb (70\") = 63,000 in-lb."
+ },
+ "6-5": {
+  "description": "Illustration of finding the CG by suspending an airplane twice. 1: suspended from a first point, with a red line dropping perpendicular to the ground. 2: second suspension, with a blue line dropping perpendicular to the ground. The CG is where the red and blue lines cross."
+ },
+ "6-6": {
+  "description": "Illustration of a 200\" plank with the datum (0\") at the left end and six weights: 50 lb at 30\", 125 lb at 60\", 80 lb at 95\", 50 lb at 125\", 90 lb at 145\" and 100 lb at 170\". The CG is marked at 106.9\"."
+ },
+ "6-7": {
+  "description": "Table: CG calculation for the weights on the plank with the datum at one end (Weight × Arm = Moment).",
+  "table": "| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| 50 pound weight | 50 | +30 | 1,500 |\n| 125 pound weight | 125 | +60 | 7,500 |\n| 80 pound weight | 80 | +95 | 7,600 |\n| 50 pound weight | 50 | +125 | 6,250 |\n| 90 pound weight | 90 | +145 | 13,050 |\n| 100 pound weight | 100 | +170 | 17,000 |\n| Total | 495 | +106.9 | 52,900 |"
+ },
+ "6-8": {
+  "description": "Illustration of the same plank and weights with the datum (0\") in the middle, the ends at –100\" and 100\": 50 lb at –70\", 125 lb at –40\", 80 lb at –5\", 50 lb at 25\", 90 lb at 45\" and 100 lb at 70\". The CG is marked at 6.9\"."
+ },
+ "6-9": {
+  "description": "Table: CG calculation for the weights on the plank with the datum in the middle (Weight × Arm = Moment).",
+  "table": "| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| 50 pound weight | 50 | –70 | –3,500 |\n| 125 pound weight | 125 | –40 | –5,000 |\n| 80 pound weight | 80 | –5 | –400 |\n| 50 pound weight | 50 | +25 | 1,250 |\n| 90 pound weight | 90 | +45 | 4,050 |\n| 100 pound weight | 100 | +70 | 7,000 |\n| Total | 495 | +6.9 | 3,400 |"
+ },
+ "6-10": {
+  "description": "Table: moments of the weights to the left of the center of gravity, with arms measured from the CG.",
+  "table": "| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| 50 pound weight | 50 | 76.87 | 3,843.50 |\n| 125 pound weight | 125 | 46.87 | 5,858.75 |\n| 80 pound weight | 80 | 11.87 | 949.60 |\n| Total | 255 | 135.61 | 10,651.85 |"
+ },
+ "6-11": {
+  "description": "Table: moments of the weights to the right of the center of gravity, with arms measured from the CG.",
+  "table": "| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| 50 pound weight | 50 | 18.13 | 906.50 |\n| 90 pound weight | 90 | 38.13 | 3,431.70 |\n| 100 pound weight | 100 | 63.13 | 6,313.00 |\n| Total | 240 | 119.39 | 10,651.25 |"
+ },
+ "6-12": {
+  "description": "Table titled \"Weight and Balance Data\" for Aircraft Serial #: 18259080, FAA Registration #: N42565, Date: 04-22-2005 (Weight × CG Arm = Moment).",
+  "table": "| Item | Weight (lb) | CG Arm (in) | Moment (in-lb) |\n|---|---|---|---|\n| Standard empty weight | 1,876 | 36.1 | 67,798.6 |\n| Optional equipment | 1.2 | 13.9 | 16.7 |\n| Special installation | 6.2 | 41.5 | 257.3 |\n| Paint | – | – | – |\n| Unusable fuel | 30.0 | 46.0 | 1,380 |\n| Basic empty weight | 1,913.4 |  | 69,452.6 |"
+ },
+ "6-13": {
+  "description": "Excerpt titled \"Comprehensive Equipment List\" from a Cessna Model 182S Pilot's Operating Handbook. It explains the list's columns: the Item No (the first two digits are the ATA iSpec 2200 chapter, then a sequence number and a suffix letter: –R required items or equipment for FAA certification, –S standard equipment items, –O optional equipment items replacing required or standard items, –A optional equipment items in addition to required or standard items); the Equipment List Description; the Ref Drawing; and the Wt Lbs and Arm Ins columns. Notes say that additional equipment must be installed per the reference drawing, a service bulletin or a separate FAA approval; that positive arms are distances aft of the airplane datum and negative arms forward of it; and that asterisks in the weight and arm columns mark complete assembly installations."
+ },
+ "6-14": {
+  "description": "Two pages of Type Certificate Data Sheet No. A7SO (Piper PA-34-200 Seneca and later models, Revision 19), with weight and balance items highlighted in yellow: the engine limits, the C.G. range (gear extended), the empty weight C.G. range (None) and the maximum weight."
+ },
+ "6-15": {
+  "description": "Four pages of TCDS A7SO with weight and balance items highlighted, labeled A: fuel capacity (98 gallons), engine limits, number of seats, maximum baggage, oil capacity, C.G. range and maximum weight."
+ },
+ "6-16": {
+  "description": "Two pages of TCDS A7SO with highlighted items: NOTE 1 (the current weight and balance report and the fuel and oil included in certificated empty weight) and, under Data Pertinent to All Models, the datum and the leveling means."
+ },
+ "6-17": {
+  "description": "Photograph of a low-wing Piper Archer in a hangar with each wheel on an electronic platform scale."
+ },
+ "6-18": {
+  "description": "Photograph of a Cessna 182 with its nose wheel and main wheels (in fairings) resting on portable electronic platform scales."
+ },
+ "6-19": {
+  "description": "Photograph of a digital scale indicator in a yellow carrying case, with a red display, function keys and a numeric keypad."
+ },
+ "6-20": {
+  "description": "Photograph of a technician working a blue tripod jack placed under a jack point on the underside of a jet, next to its main landing gear. A load cell sits on top of the jack."
+ },
+ "6-21": {
+  "description": "Photograph of hands holding a spirit level against the side of a Mooney M20 fuselage, with an inset of the level's bubble."
+ },
+ "6-22": {
+  "description": "Photograph of a plumb bob hanging on a string from the wing leading edge down to the hangar floor, next to the main wheel."
+ },
+ "6-23": {
+  "description": "Photograph of two people under an airplane measuring with a tape measure from the nose wheel scale to a point on the floor."
+ },
+ "6-24": {
+  "description": "Text box from the TCDS: \"CG Range: (Gear Extended) S/N 34-E4, 34-7250001 through 34-7250214 (See NOTE 3) (+86.4\") to (+94.6\") at 4,000 lb, (+82.0\") to (+94.6\") at 3,400 lb, (+80.7\") to (+94.6\") at 2,780 lb. Straight line variation between points given. Moment change due to gear retracting landing gear (–32 in-lb)\"."
+ },
+ "6-25": {
+  "description": "Graph of the Piper Seneca CG envelope: weight (lb) from 2,600 to 4,200 on the vertical axis and center of gravity (in) from 78 to 98 on the horizontal axis. The forward CG limit runs straight up at 80.7 to 2,780 lb (red), then slopes through 82 at 3,400 lb (blue) to 86.4 at 4,000 lb (green). The maximum weight line runs across at 4,000 lb (orange) to the aft CG limit, a vertical line at 94.6."
+ },
+ "6-26": {
+  "description": "Illustration of a high-wing airplane on three scales, with the datum at the wing root leading edge. Labels: nose scale reading 225 lb, right scale reading 640 lb, left scale reading 650 lb, chocks, nosewheel centerline, main wheel centerline, and wheel base. The main wheel centerline is 70\" from the datum and the wheel base is 100\"."
+ },
+ "6-27": {
+  "description": "Data box of specifications and weighing data for the tricycle gear airplane.",
+  "table": "| Item | Data |\n|---|---|\n| Aircraft datum: | Leading edge of the wing |\n| Leveling means: | Two screws, left side of fuselage below window |\n| Wheelbase: | 100\" |\n| Fuel capacity: | 30 gal aviation gasoline at +95\" |\n| Unusable fuel: | 6 lb at +98\" |\n| Oil capacity: | 8 qt at –38\" |\n| Note 1: | Empty weight includes unusable fuel and full oil |\n| Left main scale reading: | 650 lb |\n| Right main scale reading: | 640 lb |\n| Nose scale reading: | 225 lb |\n| Tare weight: | 5 lb chocks on left main; 5 lb chocks on right main; 2.5 lb chock on nose |\n| During weighing: | Fuel tanks full and oil full; Hydrometer check on; Fuel shows 5.9 lb/gal |"
+ },
+ "6-28": {
+  "description": "Table: center of gravity calculation for the airplane being weighed.",
+  "table": "| Item | Weight (lb) | Tare (lb) | Net Wt. (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|---|---|\n| Nose | 225 | –2.5 | 222.5 | –30 | –6,675 |\n| Left Main | 650 | –5 | 645 | +70 | 45,150 |\n| Right Main | 640 | –5 | 635 | +70 | 44,450 |\n| Subtotal | 1,515 | –12.5 | 1,502.5 |  | 82,925 |\n| Fuel Total |  |  | –177 | +95 | –16,815 |\n| Fuel Unuse |  |  | +6 | +98 | 588 |\n| Oil |  |  | Full |  |  |\n| Total |  |  | 1,331.5 | +50.1 | 66,698 |"
+ },
+ "6-29": {
+  "description": "Side view of a low-wing airplane with the datum ahead of the propeller. Dimensions: D = 128.0 from the datum to the main wheels, 100.0 from the datum to the wing root leading edge, L = 78.0 between the nose wheel and main wheels, and 13.2 and 50.0; the CG is shown 114.8 aft of the datum."
+ },
+ "6-30": {
+  "description": "Side view of the same airplane with the datum at the wing trailing edge. Dimensions: D = 75.0 from the main wheels to the datum, L = 78.0 between the nose and main wheels, 153.0 from the nose wheel to the datum, and the CG 88.2 forward of the datum."
+ },
+ "6-31": {
+  "description": "Side view of a tail wheel airplane with the datum at the wing root leading edge. Dimensions: D = 7.5 from the datum to the main wheels, L = 222.0 from the main wheels to the tail wheel, 229.5 from the datum to the tail wheel, and the CG 19.7 aft of the datum."
+ },
+ "6-32": {
+  "description": "Side view of the tail wheel airplane with the datum at the wing trailing edge. Dimensions: D = –80 from the datum to the main wheels, 142 from the datum to the tail wheel, L = 222.0 from the main wheels to the tail wheel, and the CG 67.8 forward of the datum."
+ },
+ "6-33": {
+  "description": "Data box of example loading information from the TCDS.",
+  "table": "| Item | Data |\n|---|---|\n| CG Range (Gear Extended) | S/N 34-7250215 through 34-7450220: (+87.9\") to (+94.6\") at 4,200 lb; (+82.0\") to (+94.6\") at 3,400 lb; (+80.7\") to (+94.6\") at 2,780 lb. Straight line variation between points given. –32 in-lb moment change due to gear retracting landing gear |\n| Empty Weight CG Range | None |\n| Maximum Weight | S/N 34-7250215 through 34-7450220: 4,200 lb—Takeoff; 4,000 lb—Landing |\n| No. of Seats | 7 (2 at +85.5\", 3 at +118.1\", 2 at +155.7\") |\n| Maximum Baggage | 200 lb (100 lb at +22.5, 100 lb at +178.7) |\n| Fuel Capacity | 98 gal (2 wing tanks) at (+93.6\") (93 gal usable). See NOTE 1 for data on system fuel. |"
+ },
+ "6-34": {
+  "description": "Table: CG calculation for the loaded Piper Seneca.",
+  "table": "| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| Empty Weight | 2,650 | +86.80 | 230,020.0 |\n| Pilot | 180 | +85.50 | 15,390.0 |\n| Passenger | 160 | +118.10 | 18,896.0 |\n| Passenger | 210 | +118.10 | 24,801.0 |\n| Passenger | 190 | +118.10 | 22,439.0 |\n| Passenger | 205 | +155.70 | 31,918.5 |\n| Baggage | 50 | +22.50 | 1,125.0 |\n| Baggage | 100 | +178.70 | 17,870.0 |\n| Fuel | 480 | +93.60 | 44,928.0 |\n| Total | 4,225 | +96.42 | 407, 387.50 |"
+ },
+ "6-35": {
+  "description": "Table: CG calculation for the Piper Seneca after the load is shifted.",
+  "table": "| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| Empty Weight | 2,650 | +86.80 | 230,020.0 |\n| Pilot | 180 | +85.50 | 15,390.0 |\n| Passenger | 210 | +85.50 | 17,955.0 |\n| Passenger | 160 | +155.01 | 24,801.6 |\n| Passenger | 190 | +118.10 | 22,439.0 |\n| Passenger | 205 | +118.10 | 24,210.5 |\n| Baggage | 100 | +22.50 | 2,250.0 |\n| Baggage | 25 | +178.70 | 4,467.5 |\n| Fuel | 480 | +93.60 | 44,928.0 |\n| Total | 4,200 | +92.01 | 386,461.0 |"
+ },
+ "6-36": {
+  "description": "Side-view diagram of a stick airplane for extreme condition checks: a 375 hp engine; seats marked 2 at 82\"–88\", 2 at 105\" and 2 at 125\"; fuel tanks at 95\" and 102\"; baggage of 75 lb at 60\" and 100 lb at 140\". The forward limit is at 89\" and the aft limit at 99\". Arrows show maximum weight loaded forward of the forward limit and minimum weight behind it for the forward check, and the reverse for the aft check."
+ },
+ "6-37": {
+  "description": "Two tables: the extreme condition forward check and aft check.",
+  "table": "Extreme Condition Forward Check\n\n| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| Empty Weight | 1,850.0 | +92.45 | 171,032.5 |\n| Pilot | 170.0 | +82.00 | 13,940.0 |\n| Passenger | 170.0 | +82.00 | 13,940.0 |\n| Baggage | 75.0 | +60.00 | 4,500.0 |\n| Fuel | 187.5 | +95.00 | 17,812.5 |\n| Total | 2,452.5 | +90.20 | 221,225.0 |\n\nExtreme Condition Aft Check\n\n| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| Empty Weight | 1,850 | +92.45 | 171,032.5 |\n| Pilot | 170 | +88.00 | 14,960.0 |\n| 2 Passengers | 340 | +105.00 | 35,700.0 |\n| 2 Passengers | 340 | +125.00 | 42,500.0 |\n| Baggage | 100 | +140.00 | 14,000.0 |\n| Fuel | 234 | +102.00 | 23,868.0 |\n| Total | 3,034 | +99.60 | 302,060.5 |"
+ },
+ "6-38": {
+  "description": "Data box of equipment changes on a twin-engine airplane.",
+  "table": "| Item | Data |\n|---|---|\n| Airplane empty weight: | 2,350 lb |\n| Airplane EWCG: | +24.7\" |\n| Airplane datum: | Leading edge of the wing |\n| Radio installed: | 5.8 lb at an arm of –28\" |\n| Global positioning system installed: | 7.3 lb at an arm of –26\" |\n| Emergency locater transmitter installed: | 2.8 lb at an arm of +105\" |\n| Strobe light removed: | 1.4 lb at an arm of +75\" |\n| Automatic direction finder (ADF) removed: | 3 lb at an arm of –28\" |\n| Seat removed: | 34 lb at an arm of +60\" |"
+ },
+ "6-39": {
+  "description": "Table: CG calculation after the equipment change.",
+  "table": "| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| Empty Weight | 2,350.0 | +24.70 | 58,045.0 |\n| Radio Install | +5.8 | –28.00 | –162.4 |\n| GPS Install | +7.3 | –26.00 | –189.8 |\n| ELT Install | +2.8 | +105.00 | 294.0 |\n| Strobe Remove | –1.4 | +75.00 | –105.0 |\n| ADF Remove | –3.0 | –28.00 | 84.0 |\n| Seat Remove | –34.0 | +60.00 | –2,040.0 |\n| Total | 2,327.5 | 24.03 | 55,925.8 |"
+ },
+ "6-40": {
+  "description": "Table: extreme condition check.",
+  "table": "| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| Empty Weight | 1,850 | +92.45 | 171,032.5 |\n| Pilot | 170 | +88.00 | 14,960.0 |\n| 2 Passengers | 340 | +105.00 | 35,700.0 |\n| 2 Passengers | 340 | +125.00 | 42,500.0 |\n| Baggage | 100 | +140.00 | 14,000.0 |\n| Fuel | 234 | +102.00 | 23,868.0 |\n| Total | 3,034 | +99.60 | 302,060.5 |"
+ },
+ "6-41": {
+  "description": "Table: ballast calculation.",
+  "table": "| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|\n| Loaded Weight | 3,034 | +99.60 | 302,060.5 |\n| Ballast | 47 | +60.00 | 2,820.0 |\n| Total | 3,081 | +98.96 | 304,880.5 |"
+ },
+ "6-42": {
+  "description": "Diagram of a lever: a ballast weight of 46.68 lb at an arm of 60\" on the left and the aircraft weight of 3,034 lb at a CG of 99.6\" on the right. The distance from the aft limit to the ballast is 39\" and the CG is 0.6\" out of limits. A note reads: \"In order to balance at the aft limit of 99\", the moment to the left of the fulcrum must equal the moment to the right of the fulcrum. The moment to the right is the weight of the airplane multiplied by 0.6\". The moment to the left is the ballast weight multiplied by 39\".\""
+ },
+ "6-43": {
+  "description": "Aircraft loading graph: load weight (lb) from 0 to 360 on the vertical axis and moment index (moment/1,000) from –2 to 28 on the horizontal axis. Straight lines rise from zero for Oil (sloping to the left, into negative moment), Pilot & Front Passenger, Fuel, Baggage and Rear Passenger."
+ },
+ "6-44": {
+  "description": "CG envelope graph: load aircraft weight (lb) from 1,500 to 2,400 on the vertical axis and loaded aircraft moment/1,000 (in-lb) from 50 to 115 on the horizontal axis. A larger envelope is labeled Normal Category (top at 2,400 lb) and a smaller one inside it is labeled Utility Category (top at about 2,050 lb)."
+ },
+ "6-45": {
+  "description": "Aircraft load chart. Each row is printed in the color used for its plot on the loading graph.",
+  "table": "| Item | Weight (lb) | Moment (in-lb) |\n|---|---|---|\n| Aircraft Empty Weight | 1,400 | 53,900 |\n| Pilot | 180 | 6,000 |\n| Front Passengers | 140 | 4,500 |\n| Rear Passengers | 210 | 15,000 |\n| Baggage | 100 | 9,200 |\n| Fuel | 228 | 10,800 |\n| Total | 2,258 | 99,400 |"
+ },
+ "6-46": {
+  "description": "The loading graph of Figure 6-43 with example plots: for each load item, a horizontal line from its weight on the vertical scale meets its diagonal line, and a colored vertical line drops from there to the moment index."
+ },
+ "6-47": {
+  "description": "The CG envelope of Figure 6-44 with an example plot. A horizontal line from the loaded weight and a vertical line from the loaded moment cross at the CG location, inside the normal category envelope. The forward limit is drawn in red and the aft limits in blue and green."
+ },
+ "6-48": {
+  "description": "Labeled illustration of a Bell JetRanger helicopter. Labels: datum at the nose; forward ballast station +13\"; forward jack point +55.16\", +25\" and –25\" laterally; leveling plate +117.7\"; aft jack point +204.92\"; aft ballast station +377\". An inset shows a plumb bob hanging over a leveling plate with crosshairs, marked nose, tail, right side and left side."
+ },
+ "6-49": {
+  "description": "Data box of specifications and weighing data for the Bell JetRanger.",
+  "table": "| Item | Data |\n|---|---|\n| Datum: | 55.16\" forward of the front jack point centerline |\n| Leveling Means: | Plumb line from ceiling left rear cabin to index plate on floor |\n| Longitudinal CG Limits: | +106\" to +111.4\" at 3,200 lb; +106\" to +112.1\" at 3,000 lb; +106\" to +112.4\" at 2,900 lb; +106\" to +113.4\" at 2,600 lb; +106\" to +114.2\" at 2,350 lb; +106\" to +114.2\" at 2,100 lb; Straight line variation between points |\n| Lateral CG Limits: | 2.3\" left to 3.0\" right at longitudinal CG + 106.0\"; 3.0\" left to 4.0\" right at longitudinal CG +108\" to +114.2\"; Straight line variation between points |\n| Fuel and Oil: | Empty weight includes unusable fuel and unusable oil |\n| Left Front Scale Reading: | 650 lb |\n| Left Front Jack Point: | Longitudinal arm of +55.16\"; Lateral arm of –25\" |\n| Right Front Scale Reading: | 625 lb |\n| Right Front Jack Point: | Longitudinal arm of +55.16\"; Lateral arm of +25\" |\n| After Scales Reading: | 710 lb |\n| Aft Jack Point: | Longitudinal arm of +204.92\"; Lateral arm of 0.0\" |\n| Notes: | The helicopter was weighed with unusable fuel and oil. Electronic scales were used and zeroed with the jacks in place, so no tare weight needs to be accounted for. |"
+ },
+ "6-50": {
+  "description": "Two tables: longitudinal and lateral CG calculation for the Bell JetRanger.",
+  "table": "Longitudinal CG Calculation\n\n| Item | Scale (lb) | Tare Wt. (lb) | Nt. Wt. (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|---|---|\n| Left Front | 650 | 0 | 650 | +55.16 | 35,854.0 |\n| Right Front | 625 | 0 | 625 | +55.16 | 34,475.0 |\n| Aft | 710 | 0 | 710 | +204.92 | 145,493.2 |\n| Total | 1,985 |  | 1,985 | +108.73 | 215,822.2 |\n\nLateral CG Calculation\n\n| Item | Scale (lb) | Tare Wt. (lb) | Nt. Wt. (lb) | Arm (inches) | Moment (in-lb) |\n|---|---|---|---|---|---|\n| Left Front | 650 | 0 | 650 | –25 | –16,250 |\n| Right Front | 625 | 0 | 625 | +25 | +15,625 |\n| Aft | 710 | 0 | 710 | 0 | 0 |\n| Total | 1,985 |  | 1,985 | +.31 | –625 |"
+ },
+ "6-51": {
+  "description": "Photograph of a two-place weight-shift control trike on the ground, with its wing overhead attached at the top of the mast."
+ },
+ "6-52": {
+  "description": "Photograph close-up of the wing attach point on a weight-shift control aircraft, where the mast and the nose strut meet under the wing keel, with an inset of the whole trike."
+ },
+ "6-53": {
+  "description": "Photograph of a yellow powered parachute frame with labels: wing attachment point adjustable for CG (two places), nosewheel steering, throttle, and pivot bar to control turning."
+ },
+ "6-54": {
+  "description": "Top view of a twin-engine transport with a cross-section of the wing below it. Labels: datum at the nose; leading edge of MAC 900\"; center of gravity 945\"; trailing edge of MAC 1,080\"; MAC = 180\". The cross-section shows LEMAC 900\", the CG at 945\" (45\" behind LEMAC), the chord line and MAC = 180\"."
+ },
+ "6-55": {
+  "description": "A blank form titled \"Aircraft Weight and Balance Report — Results of Aircraft Weighing\" with fields for Make, Model, Serial #, N#, Datum Location, Leveling Means, and Scale Arms, Scale Weights and Tare Weights for the nose, tail, left main and right main. A \"Weight and Balance Calculation\" table has columns Item, Scale (lb), Tare Wt. (lb), Net Wt. (lb), Arm (inches) and Moment (in-lb), with rows Nose, Tail, Left Main, Right Main, Subtotal, Fuel, Oil, Misc. and Total. Below are fields for Aircraft Current Empty Weight, Aircraft Current Empty Weight CG, Aircraft Maximum Weight, Aircraft Useful Load, Computed By (print name and signature), Certificate # (A&P, Repair Station, etc.) and Date."
+ }
+}

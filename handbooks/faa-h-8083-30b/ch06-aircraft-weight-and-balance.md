@@ -57,7 +57,7 @@ To understand balance, it is necessary to have a working knowledge of the princi
 
 **Figure 6-1.** Datum location and its effect on positive and negative arms.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Side view of a low-wing airplane. A vertical line at the leading edge of the wing is labeled "Datum (leading edge of wing)". Arrows show negative arm to the left (forward) of the datum and positive arm to the right (aft). The center of gravity symbol is marked on the fuselage, aft of the datum.
 
 [Page 6-3]
 
@@ -87,7 +87,7 @@ The maximum weight is the maximum authorized weight of the aircraft and its cont
 
 **Figure 6-2.** Moment of a radio located aft of the datum.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Side view of a low-wing airplane with the datum 40" forward of the firewall. A radio (5 lb) is 80" aft of the datum (Arm = 80"). The center of gravity is marked. A box shows: Moment = Weight (arm) = 5 lb (80") = 400 in-lb.
 
 [Page 6-4]
 
@@ -105,11 +105,18 @@ One of the most important reasons for weighing an aircraft is to determine its E
 
 **Figure 6-3.** Relationship between the algebraic signs of weight, arms, and moments.
 
-*Figure description:* (Description not yet written.)
+| Weight | Arm | Moment | Rotation |
+|---|---|---|---|
+| + | + | + | Noseup |
+| + | – | – | Nosedown |
+| – | + | – | Nosedown |
+| – | – | + | Noseup |
+
+*Figure description:* Table showing how the signs of weight and arm give the sign of the moment and the direction of rotation.
 
 **Figure 6-4.** Center of gravity and a first class lever.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a first class lever: a beam balanced on a fulcrum marked "Fulcrum and CG". A force 90" to the left gives Moment = 700 lb (90") = 63,000 in-lb; a force 70" to the right gives Moment = 900 lb (70") = 63,000 in-lb.
 
 #### Useful Load
 
@@ -151,7 +158,7 @@ To calculate the CG for the object in Figure 6-6, the moments for all the weight
 
 **Figure 6-6.** Center of gravity for weights on a plank with datum at one end.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a 200" plank with the datum (0") at the left end and six weights: 50 lb at 30", 125 lb at 60", 80 lb at 95", 50 lb at 125", 90 lb at 145" and 100 lb at 170". The CG is marked at 106.9".
 
 [Page 6-6]
 
@@ -173,7 +180,7 @@ Before an aircraft can be properly weighed and its EWCG computed, certain inform
 
 **Figure 6-5.** Center of gravity determined by two suspension points.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of finding the CG by suspending an airplane twice. 1: suspended from a first point, with a red line dropping perpendicular to the ground. 2: second suspension, with a blue line dropping perpendicular to the ground. The CG is where the red and blue lines cross.
 
 #### Manufacturer-Furnished Information
 
@@ -181,7 +188,17 @@ When an aircraft is initially certificated, its empty weight and EWCG are determ
 
 **Figure 6-7.** Center of gravity calculation for weights on a plank with datum at one end.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| 50 pound weight | 50 | +30 | 1,500 |
+| 125 pound weight | 125 | +60 | 7,500 |
+| 80 pound weight | 80 | +95 | 7,600 |
+| 50 pound weight | 50 | +125 | 6,250 |
+| 90 pound weight | 90 | +145 | 13,050 |
+| 100 pound weight | 100 | +170 | 17,000 |
+| Total | 495 | +106.9 | 52,900 |
+
+*Figure description:* Table: CG calculation for the weights on the plank with the datum at one end (Weight × Arm = Moment).
 
 [Page 6-7]
 
@@ -201,15 +218,32 @@ Some of the important weight and balance information found in a TCDS is as follo
 
 **Figure 6-8.** Center of gravity for weights on a plank with datum in the middle.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of the same plank and weights with the datum (0") in the middle, the ends at –100" and 100": 50 lb at –70", 125 lb at –40", 80 lb at –5", 50 lb at 25", 90 lb at 45" and 100 lb at 70". The CG is marked at 6.9".
 
 **Figure 6-9.** Center of gravity calculation for weights on a plank with datum in the middle.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| 50 pound weight | 50 | –70 | –3,500 |
+| 125 pound weight | 125 | –40 | –5,000 |
+| 80 pound weight | 80 | –5 | –400 |
+| 50 pound weight | 50 | +25 | 1,250 |
+| 90 pound weight | 90 | +45 | 4,050 |
+| 100 pound weight | 100 | +70 | 7,000 |
+| Total | 495 | +6.9 | 3,400 |
+
+*Figure description:* Table: CG calculation for the weights on the plank with the datum in the middle (Weight × Arm = Moment).
 
 **Figure 6-10.** Moments to the left of the center of gravity.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| 50 pound weight | 50 | 76.87 | 3,843.50 |
+| 125 pound weight | 125 | 46.87 | 5,858.75 |
+| 80 pound weight | 80 | 11.87 | 949.60 |
+| Total | 255 | 135.61 | 10,651.85 |
+
+*Figure description:* Table: moments of the weights to the left of the center of gravity, with arms measured from the CG.
 
 10. Amount of oil in empty weight
 11. Amount of fuel in empty weight
@@ -224,11 +258,27 @@ Both types of scales feature new technologies using wireless operations with com
 
 **Figure 6-11.** Moments to the right of the center of gravity.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| 50 pound weight | 50 | 18.13 | 906.50 |
+| 90 pound weight | 90 | 38.13 | 3,431.70 |
+| 100 pound weight | 100 | 63.13 | 6,313.00 |
+| Total | 240 | 119.39 | 10,651.25 |
+
+*Figure description:* Table: moments of the weights to the right of the center of gravity, with arms measured from the CG.
 
 **Figure 6-12.** Typical weight and balance data for 14 CFR part 23 airplane.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | CG Arm (in) | Moment (in-lb) |
+|---|---|---|---|
+| Standard empty weight | 1,876 | 36.1 | 67,798.6 |
+| Optional equipment | 1.2 | 13.9 | 16.7 |
+| Special installation | 6.2 | 41.5 | 257.3 |
+| Paint | – | – | – |
+| Unusable fuel | 30.0 | 46.0 | 1,380 |
+| Basic empty weight | 1,913.4 |  | 69,452.6 |
+
+*Figure description:* Table titled "Weight and Balance Data" for Aircraft Serial #: 18259080, FAA Registration #: N42565, Date: 04-22-2005 (Weight × CG Arm = Moment).
 
 [Page 6-8]
 
@@ -246,19 +296,19 @@ The top of the load cell has a concave shape that matches up with the jack pad o
 
 **Figure 6-13.** Excerpt from a typical comprehensive equipment list.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Excerpt titled "Comprehensive Equipment List" from a Cessna Model 182S Pilot's Operating Handbook. It explains the list's columns: the Item No (the first two digits are the ATA iSpec 2200 chapter, then a sequence number and a suffix letter: –R required items or equipment for FAA certification, –S standard equipment items, –O optional equipment items replacing required or standard items, –A optional equipment items in addition to required or standard items); the Equipment List Description; the Ref Drawing; and the Wt Lbs and Arm Ins columns. Notes say that additional equipment must be installed per the reference drawing, a service bulletin or a separate FAA approval; that positive arms are distances aft of the airplane datum and negative arms forward of it; and that asterisks in the weight and arm columns mark complete assembly installations.
 
 **Figure 6-14.** The Type Certificate Data Sheet (TCDS) shows various information about an aircraft to include weight and balance information.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two pages of Type Certificate Data Sheet No. A7SO (Piper PA-34-200 Seneca and later models, Revision 19), with weight and balance items highlighted in yellow: the engine limits, the C.G. range (gear extended), the empty weight C.G. range (None) and the maximum weight.
 
 **Figure 6-15.** Highlights of various specifications of the aircraft found within a TCDS. Note the fuel capacity of 98 gallons and its reference to the datum (A).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Four pages of TCDS A7SO with weight and balance items highlighted, labeled A: fuel capacity (98 gallons), engine limits, number of seats, maximum baggage, oil capacity, C.G. range and maximum weight.
 
 **Figure 6-16.** Highlights of various specifications of the aircraft found within a TCDS.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two pages of TCDS A7SO with highlighted items: NOTE 1 (the current weight and balance report and the fuel and oil included in certificated empty weight) and, under Data Pertinent to All Models, the datum and the leveling means.
 
 [Page 6-11]
 
@@ -276,11 +326,11 @@ A plumb bob is a heavy metal object, cylinder or cone shape, with a sharp point 
 
 **Figure 6-17.** Weighing a Piper Archer using electronic platform scales.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a low-wing Piper Archer in a hangar with each wheel on an electronic platform scale.
 
 **Figure 6-18.** A Cessna 182 being weighed with portable electronic platform scales.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a Cessna 182 with its nose wheel and main wheels (in fairings) resting on portable electronic platform scales.
 
 [Page 6-12]
 
@@ -290,7 +340,7 @@ When an aircraft is weighed with full fuel in the tanks, the weight of the fuel 
 
 **Figure 6-19.** M2000 platform scale digital indicator.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a digital scale indicator in a yellow carrying case, with a red display, function keys and a numeric keypad.
 
 When an aircraft is weighed with fuel in the tanks, the weight of fuel per gallon should be checked with a hydrometer. A hydrometer consists of a weighted glass tube that is sealed with a graduated set of markings on the side of the tube. The graduated markings and their corresponding number values represent units of pounds per gallon (lb/gal). When placed in a flask with fuel in it, the glass tube floats at a level dependent on the density of the fuel. Where the fuel intersects the markings on the side of the tube indicates the pounds per gallon.
 
@@ -305,7 +355,7 @@ To begin, assemble all the necessary equipment, such as:
 
 **Figure 6-20.** Airplane on jacks with load cells in use.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a technician working a blue tripod jack placed under a jack point on the underside of a jet, next to its main landing gear. A load cell sits on top of the jack.
 
 [Page 6-13]
 
@@ -324,11 +374,11 @@ When weighing an aircraft to determine its empty weight, only the weight of resi
 
 **Figure 6-21.** Spirit level being used on a Mooney M20.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of hands holding a spirit level against the side of a Mooney M20 fuselage, with an inset of the level's bubble.
 
 **Figure 6-22.** Plumb bob dropped from a wing leading edge.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a plumb bob hanging on a string from the wing leading edge down to the hangar floor, next to the main wheel.
 
 also be used to determine the weight of each gallon of fuel, while the Aircraft Specifications or TCDS can be used to identify the fuel capacity of the aircraft. If an aircraft is to be weighed with load cells attached to jacks, the technician should check both the load cell instruction manual and aircraft maintenance manual to make sure it is permissible to jack the aircraft with the fuel tanks full as this may add additional stress to the aircraft structure.
 
@@ -401,7 +451,7 @@ The data sheet identifies that there is a straight-line variation between the po
 
 **Figure 6-25.** Center of gravity envelope for the Piper Seneca.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Graph of the Piper Seneca CG envelope: weight (lb) from 2,600 to 4,200 on the vertical axis and center of gravity (in) from 78 to 98 on the horizontal axis. The forward CG limit runs straight up at 80.7 to 2,780 lb (red), then slopes through 82 at 3,400 lb (blue) to 86.4 at 4,000 lb (green). The maximum weight line runs across at 4,000 lb (orange) to the aft CG limit, a vertical line at 94.6.
 
 In Figure 6-25, the red line represents the forward limit up to a weight of 2,780 lb. The blue and green lines represent the straight-line variation that occurs for the forward limit as the weight increases up to a maximum of 4,000 lb. The yellow line represents the maximum weight for the airplane, and the purple line represents the aft limit.
 
@@ -411,7 +461,7 @@ For some aircraft, a CG range is given for the aircraft in the empty weight cond
 
 **Figure 6-23.** Measuring the nosewheel arm on an airplane.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of two people under an airplane measuring with a tape measure from the nose wheel scale to a point on the floor.
 
 [Page 6-16]
 
@@ -446,7 +496,7 @@ Based on the calculation shown in the chart, the CG is at +50.1", which means it
 
 **Figure 6-24.** Piper Seneca airplane center of gravity range.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Text box from the TCDS: "CG Range: (Gear Extended) S/N 34-E4, 34-7250001 through 34-7250214 (See NOTE 3) (+86.4") to (+94.6") at 4,000 lb, (+82.0") to (+94.6") at 3,400 lb, (+80.7") to (+94.6") at 2,780 lb. Straight line variation between points given. Moment change due to gear retracting landing gear (–32 in-lb)".
 
 #### EWCG Formulas
 
@@ -500,15 +550,41 @@ It makes no difference where the datum is located if all measurements are made f
 
 **Figure 6-26.** Example airplane being weighed. The datum is 70" forward of the wing root leading edge.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a high-wing airplane on three scales, with the datum at the wing root leading edge. Labels: nose scale reading 225 lb, right scale reading 640 lb, left scale reading 650 lb, chocks, nosewheel centerline, main wheel centerline, and wheel base. The main wheel centerline is 70" from the datum and the wheel base is 100".
 
 **Figure 6-27.** Specifications and weighing specific data for tricycle gear airplane.
 
-*Figure description:* (Description not yet written.)
+| Item | Data |
+|---|---|
+| Aircraft datum: | Leading edge of the wing |
+| Leveling means: | Two screws, left side of fuselage below window |
+| Wheelbase: | 100" |
+| Fuel capacity: | 30 gal aviation gasoline at +95" |
+| Unusable fuel: | 6 lb at +98" |
+| Oil capacity: | 8 qt at –38" |
+| Note 1: | Empty weight includes unusable fuel and full oil |
+| Left main scale reading: | 650 lb |
+| Right main scale reading: | 640 lb |
+| Nose scale reading: | 225 lb |
+| Tare weight: | 5 lb chocks on left main; 5 lb chocks on right main; 2.5 lb chock on nose |
+| During weighing: | Fuel tanks full and oil full; Hydrometer check on; Fuel shows 5.9 lb/gal |
+
+*Figure description:* Data box of specifications and weighing data for the tricycle gear airplane.
 
 **Figure 6-28.** Center of gravity calculation for airplane being weighed.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Tare (lb) | Net Wt. (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|---|---|
+| Nose | 225 | –2.5 | 222.5 | –30 | –6,675 |
+| Left Main | 650 | –5 | 645 | +70 | 45,150 |
+| Right Main | 640 | –5 | 635 | +70 | 44,450 |
+| Subtotal | 1,515 | –12.5 | 1,502.5 |  | 82,925 |
+| Fuel Total |  |  | –177 | +95 | –16,815 |
+| Fuel Unuse |  |  | +6 | +98 | 588 |
+| Oil |  |  | Full |  |  |
+| Total |  |  | 1,331.5 | +50.1 | 66,698 |
+
+*Figure description:* Table: center of gravity calculation for the airplane being weighed.
 
 [Page 6-18]
 
@@ -548,7 +624,7 @@ The information from the TCDS that pertains to this example loading is shown in 
 
 **Figure 6-29.** The datum is 100" forward of the wing root leading edge.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Side view of a low-wing airplane with the datum ahead of the propeller. Dimensions: D = 128.0 from the datum to the main wheels, 100.0 from the datum to the wing root leading edge, L = 78.0 between the nose wheel and main wheels, and 13.2 and 50.0; the CG is shown 114.8 aft of the datum.
 
 For the example loading of the airplane, the following information applies:
 
@@ -573,7 +649,7 @@ Based on the information in the TCDS, the maximum takeoff weight of this airplan
 
 **Figure 6-30.** The datum is aft of the main wheels at the wing trailing edge.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Side view of the same airplane with the datum at the wing trailing edge. Dimensions: D = 75.0 from the main wheels to the datum, L = 78.0 between the nose and main wheels, 153.0 from the nose wheel to the datum, and the CG 88.2 forward of the datum.
 
 [Page 6-20]
 
@@ -593,11 +669,11 @@ Using the stick airplane in Figure 6-36 as an example, adverse forward and aft C
 
 **Figure 6-31.** The datum of this tail wheel airplane is the wing root leading edge.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Side view of a tail wheel airplane with the datum at the wing root leading edge. Dimensions: D = 7.5 from the datum to the main wheels, L = 222.0 from the main wheels to the tail wheel, 229.5 from the datum to the tail wheel, and the CG 19.7 aft of the datum.
 
 **Figure 6-32.** The datum is aft of the main wheels, at the intersection of the wing trailing edge and the fuselage.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Side view of the tail wheel airplane with the datum at the wing trailing edge. Dimensions: D = –80 from the datum to the main wheels, 142 from the datum to the tail wheel, L = 222.0 from the main wheels to the tail wheel, and the CG 67.8 forward of the datum.
 
 - Airplane empty weight: 1,850 lb
 - EWCG: +92.45"
@@ -613,7 +689,16 @@ In evaluating the two extreme condition checks, the following key points should 
 
 **Figure 6-33.** Example loading information pertaining to TCDS.
 
-*Figure description:* (Description not yet written.)
+| Item | Data |
+|---|---|
+| CG Range (Gear Extended) | S/N 34-7250215 through 34-7450220: (+87.9") to (+94.6") at 4,200 lb; (+82.0") to (+94.6") at 3,400 lb; (+80.7") to (+94.6") at 2,780 lb. Straight line variation between points given. –32 in-lb moment change due to gear retracting landing gear |
+| Empty Weight CG Range | None |
+| Maximum Weight | S/N 34-7250215 through 34-7450220: 4,200 lb—Takeoff; 4,000 lb—Landing |
+| No. of Seats | 7 (2 at +85.5", 3 at +118.1", 2 at +155.7") |
+| Maximum Baggage | 200 lb (100 lb at +22.5, 100 lb at +178.7) |
+| Fuel Capacity | 98 gal (2 wing tanks) at (+93.6") (93 gal usable). See NOTE 1 for data on system fuel. |
+
+*Figure description:* Data box of example loading information from the TCDS.
 
 [Page 6-21]
 
@@ -628,7 +713,20 @@ When the equipment in an aircraft is changed, such as the installation of a new 
 
 **Figure 6-34.** Center of gravity calculation for Piper Seneca.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| Empty Weight | 2,650 | +86.80 | 230,020.0 |
+| Pilot | 180 | +85.50 | 15,390.0 |
+| Passenger | 160 | +118.10 | 18,896.0 |
+| Passenger | 210 | +118.10 | 24,801.0 |
+| Passenger | 190 | +118.10 | 22,439.0 |
+| Passenger | 205 | +155.70 | 31,918.5 |
+| Baggage | 50 | +22.50 | 1,125.0 |
+| Baggage | 100 | +178.70 | 17,870.0 |
+| Fuel | 480 | +93.60 | 44,928.0 |
+| Total | 4,225 | +96.42 | 407, 387.50 |
+
+*Figure description:* Table: CG calculation for the loaded Piper Seneca.
 
 ##### Example Calculation After an Equipment Change
 
@@ -641,11 +739,24 @@ A small, twin-engine airplane has some new equipment installed and some of its e
 
 **Figure 6-35.** Center of gravity calculation for Piper Seneca with weights shifted.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| Empty Weight | 2,650 | +86.80 | 230,020.0 |
+| Pilot | 180 | +85.50 | 15,390.0 |
+| Passenger | 210 | +85.50 | 17,955.0 |
+| Passenger | 160 | +155.01 | 24,801.6 |
+| Passenger | 190 | +118.10 | 22,439.0 |
+| Passenger | 205 | +118.10 | 24,210.5 |
+| Baggage | 100 | +22.50 | 2,250.0 |
+| Baggage | 25 | +178.70 | 4,467.5 |
+| Fuel | 480 | +93.60 | 44,928.0 |
+| Total | 4,200 | +92.01 | 386,461.0 |
+
+*Figure description:* Table: CG calculation for the Piper Seneca after the load is shifted.
 
 **Figure 6-36.** Example airplane for extreme condition checks.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Side-view diagram of a stick airplane for extreme condition checks: a 375 hp engine; seats marked 2 at 82"–88", 2 at 105" and 2 at 125"; fuel tanks at 95" and 102"; baggage of 75 lb at 60" and 100 lb at 140". The forward limit is at 89" and the aft limit at 99". Arrows show maximum weight loaded forward of the forward limit and minimum weight behind it for the forward check, and the reverse for the aft check.
 
 [Page 6-22]
 
@@ -671,7 +782,30 @@ Ballast weight needed = (Total wt. × dist. needed to shift CG) ÷ (Dist. betwee
 
 **Figure 6-37.** Center of gravity extreme conditions check.
 
-*Figure description:* (Description not yet written.)
+Extreme Condition Forward Check
+
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| Empty Weight | 1,850.0 | +92.45 | 171,032.5 |
+| Pilot | 170.0 | +82.00 | 13,940.0 |
+| Passenger | 170.0 | +82.00 | 13,940.0 |
+| Baggage | 75.0 | +60.00 | 4,500.0 |
+| Fuel | 187.5 | +95.00 | 17,812.5 |
+| Total | 2,452.5 | +90.20 | 221,225.0 |
+
+Extreme Condition Aft Check
+
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| Empty Weight | 1,850 | +92.45 | 171,032.5 |
+| Pilot | 170 | +88.00 | 14,960.0 |
+| 2 Passengers | 340 | +105.00 | 35,700.0 |
+| 2 Passengers | 340 | +125.00 | 42,500.0 |
+| Baggage | 100 | +140.00 | 14,000.0 |
+| Fuel | 234 | +102.00 | 23,868.0 |
+| Total | 3,034 | +99.60 | 302,060.5 |
+
+*Figure description:* Two tables: the extreme condition forward check and aft check.
 
 [Page 6-23]
 
@@ -691,7 +825,19 @@ In evaluating the ballast calculation shown above, the following key points shou
 
 **Figure 6-38.** Twin-engine airplane equipment changes.
 
-*Figure description:* (Description not yet written.)
+| Item | Data |
+|---|---|
+| Airplane empty weight: | 2,350 lb |
+| Airplane EWCG: | +24.7" |
+| Airplane datum: | Leading edge of the wing |
+| Radio installed: | 5.8 lb at an arm of –28" |
+| Global positioning system installed: | 7.3 lb at an arm of –26" |
+| Emergency locater transmitter installed: | 2.8 lb at an arm of +105" |
+| Strobe light removed: | 1.4 lb at an arm of +75" |
+| Automatic direction finder (ADF) removed: | 3 lb at an arm of –28" |
+| Seat removed: | 34 lb at an arm of +60" |
+
+*Figure description:* Data box of equipment changes on a twin-engine airplane.
 
 is being placed in the baggage compartment at an arm of 60". The difference between the two is 39", the quantity divided by in the formula.
 
@@ -709,7 +855,18 @@ Ballast weight = (Aircraft empty wt. × dist. out of limits) ÷ (Dist. between b
 
 **Figure 6-39.** Center of gravity calculation after equipment change.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| Empty Weight | 2,350.0 | +24.70 | 58,045.0 |
+| Radio Install | +5.8 | –28.00 | –162.4 |
+| GPS Install | +7.3 | –26.00 | –189.8 |
+| ELT Install | +2.8 | +105.00 | 294.0 |
+| Strobe Remove | –1.4 | +75.00 | –105.0 |
+| ADF Remove | –3.0 | –28.00 | 84.0 |
+| Seat Remove | –34.0 | +60.00 | –2,040.0 |
+| Total | 2,327.5 | 24.03 | 55,925.8 |
+
+*Figure description:* Table: CG calculation after the equipment change.
 
 [Page 6-24]
 
@@ -729,11 +886,27 @@ The loading graph in Figure 6-43 is used to determine the index number (moment v
 
 **Figure 6-40.** Extreme condition check.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| Empty Weight | 1,850 | +92.45 | 171,032.5 |
+| Pilot | 170 | +88.00 | 14,960.0 |
+| 2 Passengers | 340 | +105.00 | 35,700.0 |
+| 2 Passengers | 340 | +125.00 | 42,500.0 |
+| Baggage | 100 | +140.00 | 14,000.0 |
+| Fuel | 234 | +102.00 | 23,868.0 |
+| Total | 3,034 | +99.60 | 302,060.5 |
+
+*Figure description:* Table: extreme condition check.
 
 **Figure 6-41.** Ballast calculation.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|
+| Loaded Weight | 3,034 | +99.60 | 302,060.5 |
+| Ballast | 47 | +60.00 | 2,820.0 |
+| Total | 3,081 | +98.96 | 304,880.5 |
+
+*Figure description:* Table: ballast calculation.
 
 The loading graph and CG envelope shown in Figures 6-43 and 6-44 are for an airplane with the following specifications and weight and balance data.
 
@@ -749,7 +922,7 @@ An example of loading the airplane for flight and calculating the total loaded w
 
 **Figure 6-42.** Ballast calculation as a first class lever.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Diagram of a lever: a ballast weight of 46.68 lb at an arm of 60" on the left and the aircraft weight of 3,034 lb at a CG of 99.6" on the right. The distance from the aft limit to the ballast is 39" and the CG is 0.6" out of limits. A note reads: "In order to balance at the aft limit of 99", the moment to the left of the fulcrum must equal the moment to the right of the fulcrum. The moment to the right is the weight of the airplane multiplied by 0.6". The moment to the left is the ballast weight multiplied by 39"."
 
 [Page 6-25]
 
@@ -775,11 +948,11 @@ Before a helicopter is weighed, it must be leveled longitudinally and laterally.
 
 **Figure 6-43.** Aircraft loading graph.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Aircraft loading graph: load weight (lb) from 0 to 360 on the vertical axis and moment index (moment/1,000) from –2 to 28 on the horizontal axis. Straight lines rise from zero for Oil (sloping to the left, into negative moment), Pilot & Front Passenger, Fuel, Baggage and Rear Passenger.
 
 **Figure 6-44.** CG envelope.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* CG envelope graph: load aircraft weight (lb) from 1,500 to 2,400 on the vertical axis and loaded aircraft moment/1,000 (in-lb) from 50 to 115 on the horizontal axis. A larger envelope is labeled Normal Category (top at 2,400 lb) and a smaller one inside it is labeled Utility Category (top at about 2,050 lb).
 
 [Page 6-26]
 
@@ -787,7 +960,17 @@ A Bell JetRanger helicopter is shown in Figure 6-48 with the leveling plate depi
 
 **Figure 6-45.** Aircraft load chart.
 
-*Figure description:* (Description not yet written.)
+| Item | Weight (lb) | Moment (in-lb) |
+|---|---|---|
+| Aircraft Empty Weight | 1,400 | 53,900 |
+| Pilot | 180 | 6,000 |
+| Front Passengers | 140 | 4,500 |
+| Rear Passengers | 210 | 15,000 |
+| Baggage | 100 | 9,200 |
+| Fuel | 228 | 10,800 |
+| Total | 2,258 | 99,400 |
+
+*Figure description:* Aircraft load chart. Each row is printed in the color used for its plot on the loading graph.
 
 As an example of weighing a helicopter, consider the Bell JetRanger in Figure 6-48, and the following specifications and weighing data shown in Figure 6-49.
 
@@ -799,7 +982,7 @@ The terminology, theory, and concepts of weight and balance that applies to airp
 
 **Figure 6-46.** Example plots on a loading graph.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* The loading graph of Figure 6-43 with example plots: for each load item, a horizontal line from its weight on the vertical scale meets its diagonal line, and a colored vertical line drops from there to the moment index.
 
 [Page 6-27]
 
@@ -813,7 +996,7 @@ The wing attach point, with respect to the wing keel, is an adjustable location.
 
 **Figure 6-47.** CG envelope example plot.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* The CG envelope of Figure 6-44 with an example plot. A horizontal line from the loaded weight and a vertical line from the loaded moment cross at the CG location, inside the normal category envelope. The forward limit is drawn in red and the aft limits in blue and green.
 
 [Page 6-28]
 
@@ -859,23 +1042,56 @@ Percent of MAC = (CG – LEMAC) ÷ MAC × 100
 
 **Figure 6-48.** Bell JetRanger.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a Bell JetRanger helicopter. Labels: datum at the nose; forward ballast station +13"; forward jack point +55.16", +25" and –25" laterally; leveling plate +117.7"; aft jack point +204.92"; aft ballast station +377". An inset shows a plumb bob hanging over a leveling plate with crosshairs, marked nose, tail, right side and left side.
 
 **Figure 6-49.** Specifications and weighing data for Bell JetRanger.
 
-*Figure description:* (Description not yet written.)
+| Item | Data |
+|---|---|
+| Datum: | 55.16" forward of the front jack point centerline |
+| Leveling Means: | Plumb line from ceiling left rear cabin to index plate on floor |
+| Longitudinal CG Limits: | +106" to +111.4" at 3,200 lb; +106" to +112.1" at 3,000 lb; +106" to +112.4" at 2,900 lb; +106" to +113.4" at 2,600 lb; +106" to +114.2" at 2,350 lb; +106" to +114.2" at 2,100 lb; Straight line variation between points |
+| Lateral CG Limits: | 2.3" left to 3.0" right at longitudinal CG + 106.0"; 3.0" left to 4.0" right at longitudinal CG +108" to +114.2"; Straight line variation between points |
+| Fuel and Oil: | Empty weight includes unusable fuel and unusable oil |
+| Left Front Scale Reading: | 650 lb |
+| Left Front Jack Point: | Longitudinal arm of +55.16"; Lateral arm of –25" |
+| Right Front Scale Reading: | 625 lb |
+| Right Front Jack Point: | Longitudinal arm of +55.16"; Lateral arm of +25" |
+| After Scales Reading: | 710 lb |
+| Aft Jack Point: | Longitudinal arm of +204.92"; Lateral arm of 0.0" |
+| Notes: | The helicopter was weighed with unusable fuel and oil. Electronic scales were used and zeroed with the jacks in place, so no tare weight needs to be accounted for. |
+
+*Figure description:* Data box of specifications and weighing data for the Bell JetRanger.
 
 **Figure 6-50.** Center of gravity calculation for Bell JetRanger.
 
-*Figure description:* (Description not yet written.)
+Longitudinal CG Calculation
+
+| Item | Scale (lb) | Tare Wt. (lb) | Nt. Wt. (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|---|---|
+| Left Front | 650 | 0 | 650 | +55.16 | 35,854.0 |
+| Right Front | 625 | 0 | 625 | +55.16 | 34,475.0 |
+| Aft | 710 | 0 | 710 | +204.92 | 145,493.2 |
+| Total | 1,985 |  | 1,985 | +108.73 | 215,822.2 |
+
+Lateral CG Calculation
+
+| Item | Scale (lb) | Tare Wt. (lb) | Nt. Wt. (lb) | Arm (inches) | Moment (in-lb) |
+|---|---|---|---|---|---|
+| Left Front | 650 | 0 | 650 | –25 | –16,250 |
+| Right Front | 625 | 0 | 625 | +25 | +15,625 |
+| Aft | 710 | 0 | 710 | 0 | 0 |
+| Total | 1,985 |  | 1,985 | +.31 | –625 |
+
+*Figure description:* Two tables: longitudinal and lateral CG calculation for the Bell JetRanger.
 
 **Figure 6-51.** Weight and balance for a weight-shift control aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a two-place weight-shift control trike on the ground, with its wing overhead attached at the top of the mast.
 
 **Figure 6-52.** Wing attach point for a weight-shift control aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph close-up of the wing attach point on a weight-shift control aircraft, where the mast and the nose strut meet under the wing keel, with an inset of the whole trike.
 
 [Page 6-30]
 
@@ -883,7 +1099,7 @@ Percent of MAC = (CG – LEMAC) ÷ MAC × 100
 
 **Figure 6-53.** Powered parachute structure with wing attach points.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a yellow powered parachute frame with labels: wing attachment point adjustable for CG (two places), nosewheel steering, throttle, and pivot bar to control turning.
 
 180
 
@@ -896,7 +1112,7 @@ If the CG is known in percent of MAC, and there is a need to know the CG locatio
 
 **Figure 6-54.** Center of gravity location on a large commercial transport.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Top view of a twin-engine transport with a cross-section of the wing below it. Labels: datum at the nose; leading edge of MAC 900"; center of gravity 945"; trailing edge of MAC 1,080"; MAC = 180". The cross-section shows LEMAC 900", the CG at 945" (45" behind LEMAC), the chord line and MAC = 180".
 
 [Page 6-31]
 
@@ -920,7 +1136,7 @@ There is no required format for this report, but Figure 6-55 is a good example o
 
 **Figure 6-55.** Aircraft weight and balance report.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* A blank form titled "Aircraft Weight and Balance Report — Results of Aircraft Weighing" with fields for Make, Model, Serial #, N#, Datum Location, Leveling Means, and Scale Arms, Scale Weights and Tare Weights for the nose, tail, left main and right main. A "Weight and Balance Calculation" table has columns Item, Scale (lb), Tare Wt. (lb), Net Wt. (lb), Arm (inches) and Moment (in-lb), with rows Nose, Tail, Left Main, Right Main, Subtotal, Fuel, Oil, Misc. and Total. Below are fields for Aircraft Current Empty Weight, Aircraft Current Empty Weight CG, Aircraft Maximum Weight, Aircraft Useful Load, Computed By (print name and signature), Certificate # (A&P, Repair Station, etc.) and Date.
 
 [Page 6-33]
 
