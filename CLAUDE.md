@@ -74,7 +74,9 @@ handbooks/<handbook-id>/<chNN-slug>.md   ← converted chapters (shared; a chapt
 handbooks/<handbook-id>/<chNN-slug>.pdf  ← original FAA PDF of that chapter, kept next to its conversion
 scripts/export_handbook.py         ← builds a chapter .md from Cam's AMT Handbooks app data (atk-amt-handbooks)
 scripts/check_chapter.py           ← checks a chapter .md against its PDF; must pass before a chapter is published
+scripts/check_tables.py            ← checks every value in a rebuilt figure table is in the PDF
 scripts/pdf_grab.py                ← pulls text from the PDF for writing corrections
+scripts/corrections_lib.py         ← works out heading levels, captions and hyphen fixes from the PDF
 corrections/<handbook-id>/chNN.json      ← text fixes on top of the app data (+ build_chNN.py that generates it)
 figure-notes/<handbook-id>/chNN.json     ← figure descriptions and rebuilt tables, checked against the PDF
 subjects/
