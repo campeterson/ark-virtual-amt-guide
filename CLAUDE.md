@@ -40,7 +40,7 @@ ACS data comes from **https://github.com/campeterson/faa-acs-data** (Cam's extra
 - Generate each subject's `acs.md` with a script (`scripts/build_acs.py`) that filters by subject code (e.g. `AM.II.E`) and writes the subject's objective plus its Knowledge, Risk Management and Skill elements, each with its code and verbatim text. Exclude elements marked `archived`.
 - Pull the data in as a git submodule or pinned download, and record the commit used in the generated file so it's clear which ACS revision a subject was built from.
 - The mechanic ACS has **no `References` field**, so each subject's handbook chapters must be chosen by hand. Confirm the chapter list with Cam.
-- Sanity check for Landing Gear Systems: it should produce 13 K, 6 R and 21 S elements (`AM.II.E.K1`–`K13`, `R1`–`R6`, `S1`–`S21`).
+- Sanity check for Landing Gear Systems: it should produce 13 K, 6 R and 29 S elements (`AM.II.E.K1`–`K13`, `R1`–`R6`, `S1`–`S29`). (Earlier drafts said 21 S; the ACS and the extracted data both list 29.)
 
 Eventually a separate system will provide all of this data. Until then, keep this step to the one script so it's easy to replace.
 
@@ -48,6 +48,7 @@ Eventually a separate system will provide all of this data. Until then, keep thi
 
 ## Source hosting rules
 
+- Keep each **original FAA PDF next to the file built from it** (chapter PDF beside its `.md`, ACS pages beside `acs.md`) so anyone can check the conversion against the source. Use file names without spaces so raw URLs stay clean.
 - Split the 8083 handbooks into **individual chapters**. They're public domain, so the converted chapters are committed to the repo.
 - Convert chapters to **Markdown**, not PDF. PDF diagrams and tables often come through garbled, so:
   - Rebuild tables as Markdown tables and check every cell against the PDF.
@@ -64,15 +65,16 @@ Eventually a separate system will provide all of this data. Until then, keep thi
 
 ```
 CLAUDE.md                          ← this file
-sources/                           ← original 8083 handbook PDFs
 vendor/faa-acs-data/               ← ACS data (submodule or pinned copy)
 scripts/build_acs.py               ← generates each subject's acs.md from the ACS data
 handbooks/<handbook-id>/<chNN-slug>.md   ← converted chapters (shared; a chapter may serve several subjects)
+handbooks/<handbook-id>/<chNN-slug>.pdf  ← original FAA PDF of that chapter, kept next to its conversion
 subjects/
   general/
   airframe/
     landing-gear-systems/
       acs.md                       ← generated: AM.II.E elements, verbatim
+      acs-source.pdf               ← original FAA ACS pages for this subject, kept next to acs.md
       sources.md                   ← the source list students use: raw links to acs.md + handbook chapters
   powerplant/
 project-instructions.md            ← the ONE standard set of Project instructions students paste in
@@ -108,8 +110,8 @@ Also needed for this to work:
 
 1. Ask Cam for any earlier tutor-behavior notes.
 2. Draft `project-instructions.md`. **Check in with Cam.**
-3. Write `scripts/build_acs.py` and generate `subjects/airframe/landing-gear-systems/acs.md`. Verify the 13/6/21 element counts.
-4. Convert and host the first handbook chapters. For Landing Gear Systems, that's the landing gear chapter of the AMT Airframe handbook (FAA-H-8083-31; identify the exact volume and chapter from the PDF in `sources/`). Check the ACS elements against the chapter. If any element, such as skis and floats (K13) or jacking (S5, R2), is covered in a different chapter, propose adding that chapter to the source list. Build `sources.md` and `index.md`.
+3. Write `scripts/build_acs.py` and generate `subjects/airframe/landing-gear-systems/acs.md`. Verify the 13/6/29 element counts.
+4. Convert and host the first handbook chapters. For Landing Gear Systems, that's the landing gear chapter of the AMT Airframe handbook (FAA-H-8083-31; identify the exact volume and chapter from the PDF in `handbooks/`). Check the ACS elements against the chapter. If any element, such as skis and floats (K13) or jacking (S5, R2), is covered in a different chapter, propose adding that chapter to the source list. Build `sources.md` and `index.md`.
 5. Set up GitHub Pages and confirm the raw links fetch cleanly as plain text.
 6. Test with this one subject before rolling out to students: run the tutor in a claude.ai Project with the pasted instructions, check that it fetches the links, cites the handbook, and guides with questions. Then report what broke.
 
