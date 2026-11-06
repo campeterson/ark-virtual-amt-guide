@@ -115,6 +115,9 @@ def md_handbook_text(md: str) -> str:
     body = md.split("\n[Page ", 1)
     md = "[Page " + body[1] if len(body) == 2 else md
     md = re.sub(r"^\[Page [^\]]+\]$", "", md, flags=re.M)
+    # rebuilt tables sit between a caption and its description: converter material
+    md = re.sub(r"(^\*\*Figure [^\n]*\n)(.*?)(^\*Figure description:\*)", r"\1\3", md,
+                flags=re.M | re.S)
     md = re.sub(r"^\*Figure description:\*.*$", "", md, flags=re.M)
     md = re.sub(r"^\|.*\|$", "", md, flags=re.M)
     md = re.sub(r"\*\*(Figure [^*]+)\*\*", r"\1", md)
