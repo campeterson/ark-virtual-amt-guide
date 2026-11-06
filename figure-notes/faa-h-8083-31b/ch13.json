@@ -1,0 +1,488 @@
+{
+ "13-1": {
+  "description": "Four photographs labeled A to D. A: a large four-engine airliner (marked Airbus A380) landing, with a nose gear and several multi-wheel main gear extended. B: a small helicopter standing on two tubular skids. C: a high-wing light airplane on snow, resting on skis. D: a high-wing floatplane on water, supported by two floats."
+ },
+ "13-2": {
+  "description": "Two photographs. Left: a high-wing airplane on amphibious floats parked on pavement, with small wheels extended below the floats. Right: a high-wing light airplane on snow with skis fitted to its main and nose gear."
+ },
+ "13-3": {
+  "description": "Two photographs. Left: a twin-engine DC-3 airliner on a runway, resting on two main wheels with its tail supported by a tail wheel. Right: a high-wing single-engine Maule on grass, with two main wheels forward and a small tail wheel at the rear."
+ },
+ "13-4": {
+  "description": "Two photographs. Left: close-up of a small tail wheel assembly on a red airframe, with coil springs and chains connecting the tail wheel steering arm to the airframe. Right: a red Pitts Special biplane in flight, with its tail wheel visible under the tail."
+ },
+ "13-5": {
+  "description": "Three photographs. Left: a sailplane on the ground, resting on a single main wheel under the fuselage. Center: a B-52 bomber in flight with its gear extended under the fuselage. Right: a Harrier jet hovering over water with gear extended under the fuselage and small outrigger wheels under the wings."
+ },
+ "13-6": {
+  "description": "Two photographs of aircraft in flight with gear extended. Left: a Learjet business jet with a nose gear and two main gear. Right: a high-wing Cessna 172 with a nose wheel and two main wheels."
+ },
+ "13-7": {
+  "description": "Illustration of a nose wheel steering tiller: a crank-shaped handle with a round knob, mounted on a circular base marked with a scale and the letters L and R (left and right)."
+ },
+ "13-8": {
+  "description": "Illustration of a dual-wheel main gear: two tires side by side on one axle at the bottom of a shock strut, with linkages and lines running to the structure above."
+ },
+ "13-9": {
+  "description": "Photograph of a Boeing 777 main gear on the ground: a single strut carrying a bogie with six wheels in three pairs (three wheels visible on each side)."
+ },
+ "13-10": {
+  "description": "Labeled illustration of a transport category main landing gear, with FWD and INBD arrows. Labeled parts: beam hanger, walking beam, main gear actuator, ground speed brake cable (right gear only), trunnion link, drag strut, universal side strut fitting, damper hydraulic line, main gear damper, torsion links, axle, gravel deflector, uplock roller, shock strut, side strut, downlock, uplock spring bungee, uplock actuator, reaction link, downlock actuator, downlock spring bungee."
+ },
+ "13-11": {
+  "description": "Close-up photograph of a streamlined wheel fairing (wheel pant) enclosing most of a tire on a light aircraft, with the gear leg entering it from above."
+ },
+ "13-12": {
+  "description": "Photograph looking up at the underside of a Boeing 737 with the main gear retracted: both main wheels sit in recesses in the fuselage, with no doors over the wheels, and panels on the gear legs close over the struts."
+ },
+ "13-13": {
+  "description": "Photograph of a low-wing light airplane taxiing toward the camera, with a nose wheel and two main wheels on thin struts, each wheel partly covered by a fairing."
+ },
+ "13-14": {
+  "description": "Photograph of a red triplane on grass with two spoked main wheels on a rigid strut-and-axle framework under the fuselage."
+ },
+ "13-15": {
+  "description": "Three photographs. Left: the main gear of a yellow Piper Cub, with the gear legs meeting at the fuselage where bungee cords are wrapped. Center: close-up of bungee cords wrapped around the gear attachment under the fuselage. Right: a nose wheel strut with a stack of rubber donut-shaped discs above the wheel."
+ },
+ "13-16": {
+  "description": "Labeled cutaway illustration of a shock strut. The outer cylinder is shown cut open, with the inner cylinder (piston) sliding into it from below. Inside, a tapered metering pin passes through the orifice in an orifice plate. Other labeled parts: servicing valve at the top, torque arms, wheel axle and towing eye at the bottom."
+ },
+ "13-17": {
+  "description": "Labeled cutaway illustration of a nose gear shock strut that uses a metering tube. Labeled parts: air valve at the top, centering cam, metering tube (a perforated tube), inner cylinder, piston rod and piston."
+ },
+ "13-18": {
+  "description": "Photograph of a large main gear shock strut removed from an aircraft, with braces and hydraulic lines attached. Labels point to the lower cylinder and to the axle, which is part of the lower cylinder."
+ },
+ "13-19": {
+  "description": "Photograph of a light aircraft nose gear: the wheel is held in a fork below the strut, and a pair of hinged torque links (labeled) connects the upper strut to the fork."
+ },
+ "13-20": {
+  "description": "Labeled illustration of a nose gear strut, partly cut away. Labeled parts: cylinder, upper locating cam, lower locating cam, torque arm, piston, fork and axle. The upper cam sits inside the cylinder just above the lower cam recess."
+ },
+ "13-21": {
+  "description": "Labeled illustration of a nose wheel and fork with a shimmy damper: a small hydraulic cylinder mounted horizontally between the upper strut and the steering collar above the fork."
+ },
+ "13-22": {
+  "description": "Illustration of a tow bar attached to the towing lug on a nose gear between the two wheels. The tow bar head has a lever marked UNLOCK and LOCK."
+ },
+ "13-23": {
+  "description": "Two cutaway illustrations of a shock strut, color-coded blue for air and red for hydraulic fluid. Extension Stroke (left): the strut is extended and arrows show fluid flowing down past the metering pin from the upper chamber into the lower chamber. Compression Stroke (right): the strut is compressed and arrows show fluid forced up through the orifice around the metering pin into the upper chamber."
+ },
+ "13-24": {
+  "description": "Labeled exploded illustration of two strut servicing valves. A. Valve core-type strut fitting AN6287-1, with a photo and a small cutaway of the valve assembly; labeled parts: yellow valve cap, core, 5/8-inch hex nut, 3/4-inch hex body, valve core housing, O-ring, packing, valve seat and air orifice. B. Strut fitting with no core MS 28889-1; labeled parts: 3/4-inch hex body (two), pin, back-up ring, O-ring, stem and air orifice."
+ },
+ "13-25": {
+  "description": "Six illustrated steps, labeled A to F, of a hand working on the servicing valve at the top of a shock strut (drawn horizontal). A: removing the valve cap (step 2 in the text). B: a wrench on the valve's swivel nut (the text refers to 13-25B for depressing the valve core to release trapped air). C: a pointed tool held against the valve core. D: removing the valve core with a valve core removal tool (step 7). E: a wrench unscrewing the whole valve body from the strut. F: the valve body being lifted out, leaving the open port."
+ },
+ "13-26": {
+  "description": "Labeled illustration of bleeding a shock strut: a hydraulic fluid bleed hose (red) runs from the top of the strut down into a bucket of fluid, with the hose end submerged. An exerciser jack (labeled) is placed under the strut to compress and extend it."
+ },
+ "13-27": {
+  "description": "Photograph of a small metal valve tool with a knurled center: one end has external threads, the other a pointed tip, and the cross-piece has a notched end and an internal-thread end."
+ },
+ "13-28": {
+  "description": "Three top-view illustrations of a high-wing airplane with its longitudinal axis (red dashed line) and wheel paths (yellow dashed lines). Left: wheels aligned are parallel to the longitudinal axis of the aircraft. Center: toe-in, wheel paths cross forward of the aircraft. Right: toe-out, wheel paths diverge forward of the aircraft."
+ },
+ "13-29": {
+  "description": "Labeled illustration of checking toe-in and toe-out on spring steel struts. Each main wheel sits on two aluminum plates with grease between them. A straight edge is laid across the front of both tires, and a carpenter's square is placed against the straight edge and touching the tire of one wheel."
+ },
+ "13-30": {
+  "description": "Labeled illustration of a main wheel seen from the front, on a spring steel strut. A dashed line marks the \"Vertical plain\"; dashed arcs show positive camber (wheel top tilted outward) and negative camber (wheel top tilted inward). A bubble protractor is held against the wheel's axle area."
+ },
+ "13-31": {
+  "description": "Labeled illustration of two shim locations. Top: the torque links of a shock strut, between the shock strut cylinder and shock strut piston, labeled \"Shim here to adjust tow-in or tow-out\". Bottom: a spring steel gear leg with the axle assembly at its lower end, also labeled \"Shim here to adjust tow-in or tow-out\"."
+ },
+ "13-32": {
+  "description": "Labeled illustration and photograph. Illustration: an aircraft structural member above, trunnion support brackets below it, and the trunnion with its two bearing ends attached across the top of the upper shock strut cylinder. Photograph: a landing gear strut lying on its side, with the trunnion (labeled) forming a Y-shaped fitting at its upper end."
+ },
+ "13-33": {
+  "description": "Labeled illustration of a main gear with two wheels. Labeled parts: trunnion bearing surface at the top of the strut, a two-piece drag strut (shown in red) with a hinge point, and the retracting mechanism attached to the drag strut."
+ },
+ "13-34": {
+  "description": "Labeled illustration of an electric gear retraction system in a light aircraft wheel well. A landing gear motor drives a gearbox and retracting mechanism; labeled parts also include the manual control torque tube and manual control gearbox, universal joints, drag struts, trunnion support and shock strut."
+ },
+ "13-35": {
+  "description": "Schematic of a hydraulic power pack system with the gear going down, color-coded red for pressure and blue for return. The power pack contains a reservoir, filter, gear-type pump, high-pressure control valve, thermal relief valve, low-pressure control valve, shuttle valve, gear-up check valve and gear-up check valve piston. Pressure lines run to the left and right main-gear actuators and the nose-gear actuator, with arrows showing them moving down. Also shown: a freefall valve with an emergency extend lever, a thermal relief valve, a pressure switch, and restrictors at both ports of the nose-gear actuator."
+ },
+ "13-36": {
+  "description": "The same power pack schematic as Figure 13-35, with the gear going up: the pressure (red) and return (blue) lines are reversed, and arrows show the left and right main-gear actuators and the nose-gear actuator moving up."
+ },
+ "13-37": {
+  "description": "Schematic of a large aircraft hydraulic gear retraction system, with the landing gear selector in the gear-up position (lines to the system pressure manifold and system return manifold). Components: left and right main-gear actuating cylinders, each with an orifice check valve; main-gear sequence valves A and B; left and right gear uplocks and downlocks; two gear-door actuators (arrows marked Close); gear-door sequence valves C and D; and the nose-gear actuator with its nose-gear uplock and downlock. Arrows show the actuators moving up."
+ },
+ "13-38": {
+  "description": "Labeled illustration of a floor compartment opened by lifting the manual extension access door, showing three red T-shaped manual gear extension handles."
+ },
+ "13-39": {
+  "description": "Photograph of a squat switch (labeled) mounted on a landing gear strut near the torque link hinge, with an inset close-up of a squat switch unit."
+ },
+ "13-40": {
+  "description": "Two labeled illustrations. Left, a schematic: a 28V DC bus bar feeds a lock release solenoid through a safety switch to ground; the solenoid's lock-pin passes through the control handle of the landing gear selector valve. Right, a mechanism with FWD arrow: the landing gear control lever with a position switch, a lever-lock and a lever-lock solenoid."
+ },
+ "13-41": {
+  "description": "Labeled illustration and schematic of gear proximity sensors. Top: a lock strut and side strut with a target and primary and secondary downlock sensors on a mounting bracket with sensor leads; a rectangular proximity sensor is shown enlarged, with UP and INBD arrows. Bottom: two sensors (red and blue leads) feed detectors on a proximity card powered from 28V DC. With the target near the output is 0.3V = logic 0; with the target far it is 13V = logic 1; both outputs go to the logic card."
+ },
+ "13-42": {
+  "description": "Photograph of a main landing gear with two ground lock pins installed in the gear linkage, each with a red streamer marked REMOVE BEFORE FLIGHT."
+ },
+ "13-43": {
+  "description": "Labeled illustration of a Boeing 737 landing gear selector panel. Above the panel are indicator lights for NOSE GEAR, LEFT GEAR and RIGHT GEAR: a top row illuminated red and a bottom row illuminated green (related gear down and locked). The landing gear lever moves in a slot marked UP, OFF and DN, with an override trigger at its base. A landing gear limit speed placard reads: LANDING GEAR LIMIT (IAS) OPERATING EXTEND 270—.8M, RETRACT 235K, EXTENDED 320—.82K, FLAPS LIMIT (IAS)."
+ },
+ "13-44": {
+  "description": "Illustrations of two small aircraft panels, each with a wheel-shaped gear lever between GEAR UP and GEAR DOWN, TAXI and LANDING light switches, and a row of round knobs marked 5, 8, 8, 5, 15 and 60. Top panel: one yellow light and one green light beside the lever. Bottom panel: three green lights."
+ },
+ "13-45": {
+  "description": "Labeled cutaway illustration of a nose gear strut showing the strut cylinder, the strut piston inside it, and the upper locating cam seated in the lower locating cam."
+ },
+ "13-46": {
+  "description": "Two photographs of packing a tapered roller bearing by hand. Left: the bearing is pressed into a mound of red grease in the palm of one hand. Right: close-up of the bearing with grease forced through between the rollers."
+ },
+ "13-47": {
+  "description": "Labeled illustration of a main landing gear door latch mechanism, with a FWD arrow. On the structure above the door: up line, down line, latch cylinder, emergency release cable, sector, uplock switch, aft latch mechanism, forward latch mechanism, cylinder latch, a second sector and the latch hook. On the door: the latch roller. A curved arrow shows the latch roller on the door swinging up to engage the latch hook."
+ },
+ "13-48": {
+  "description": "Two labeled illustrations of a door latch. A. Latch Roller Clearance: the latch cylinder moves a latch hook (shown in the latched position) around the latch roller on the door, with a clearance of 1/8 ± 3/32 inch marked between them. B. Latch Roller Support Adjustment: the latched roller support (serrated) is attached through elongated holes to a serrated plate, so the roller position can be adjusted."
+ },
+ "13-49": {
+  "description": "Labeled exploded illustration of an adjustable door hinge: an attach bolt passes through a bushing, the hinge support fitting, serrated washers and the fairing door hinge, and is secured with a nut."
+ },
+ "13-50": {
+  "description": "Labeled illustration of a small aircraft main gear retraction linkage. Top: the landing gear actuator in the center moves push-pull tubes and bellcranks to both gear struts; other labeled parts include door actuators, door arm stops, uplock push-pull tube, uplock, torque tube, side link and side brace lock link. Detail A: a spring scale attached to the side brace lock link, with an adjustable link. Detail B: the side brace joint set .22 ± .03 inches over center."
+ },
+ "13-51": {
+  "description": "Photograph of a light aircraft nose gear with a rod (labeled \"Steering rod from rudder pedal\") connected to a horn on the strut above the fork."
+ },
+ "13-52": {
+  "description": "Labeled illustration of a large aircraft nose wheel steering system. In the flight deck: a steering wheel on a pedestal with a steering drum and a steering emergency release switch. Steering cables run over pulleys to a differential assembly with a differential arm and differential link, which works a metering valve connected to a compensator. Follow-up cables run over pulleys from the differential assembly down to a follow up drum on the nose gear. On the gear: a safety shutoff valve, an orifice rod, centering cams, steering cylinders \"A\" and \"B\", the steering spindle with point X, and the gear yoke above two wheels."
+ },
+ "13-53": {
+  "description": "Labeled hydraulic flow diagram of a nose wheel steering system, color-coded red for pressurized fluid and green for return fluid. Fluid from the hydraulic system pressure manifold passes a safety shutoff valve (with poppet and spring, operated by the orifice rod) to the metering valve. The metering valve's port \"A\" and port \"B\" feed steering cylinders \"A\" and \"B\" on the nose-steering spindle (point \"X\"); an emergency bypass valve connects the two cylinder lines. Return fluid passes a return port and a compensator to the hydraulic system return manifold."
+ },
+ "13-54": {
+  "description": "Labeled diagrams of two units from the nose wheel steering system. Metering valve: a spool valve with a line from the pressure manifold, lines from cylinder \"A\" and from cylinder \"B\", a drilled passage and a return port. Compensator: a housing containing a spring and piston with an air vent at one end and a poppet at the other, connected to the return line and leading to the hydraulic return manifold."
+ },
+ "13-55": {
+  "description": "Photograph and labeled diagram of a piston-type shimmy damper. Photo: a cylindrical damper mounted on a nose strut. Diagram: a cylinder with a filler plug on top and a piston with a bleed hole, moved by a shaft ending in an eye fitting."
+ },
+ "13-56": {
+  "description": "Labeled cutaway illustration of a vane-type shimmy damper, with an end view of the vanes. Labeled parts: indicator rod connected to replenishing piston, replenishing piston, spring, replenishing chamber, abutment and valve assembly, replenishing check valve, rotating vane, fluid port, filler cap, abutment flange, key, hollow dowel pin, dowel pin, packing spring, wing shaft packing, wing shaft, mounting flange, spring retainer, valve orifice and hydraulic seal. The end view shows chambers marked A and B between the vanes."
+ },
+ "13-57": {
+  "description": "Photograph of a white cylindrical non-hydraulic shimmy damper marked LORD, with its shaft extending from one end and a mounting eye at the other."
+ },
+ "13-58": {
+  "description": "Two labeled cross-section illustrations of removable flange wheels. Drop center wheel: labeled parts include removable flange, snap ring, grease retainer, bearing rollers, fairing disc, fairing retaining screw and the drop center. Flat base wheel: shown as separate parts, a lockring, the removable flange and the wheel casting with its flat base."
+ },
+ "13-59": {
+  "description": "Illustration of a two-piece split wheel shown apart: the two wheel halves with an O-ring (yellow) between them."
+ },
+ "13-60": {
+  "description": "Labeled illustrations of an airliner two-piece wheel. A main gear view (A) leads to an exploded view of the wheel with: inboard wheel half, outboard wheel half, wheel half tie bolts, inflation valve, valve extension, brake rotor key, inner wheel bearing, outer wheel bearing, axle, transducer, brake assembly, tire, wheel balance weight, and a hubcap fairing (outboard wheel only) held by camlocks (8 places). A cross-section shows a thermal plug in the inside wheel half with a heat shield, plug and O-ring. Detail B shows the valve extension assembly: valve, O-ring, bracket and extension."
+ },
+ "13-61": {
+  "description": "Photograph looking into the inner half of a wheel with the tire mounted, showing the evenly spaced keys around the inside of the wheel rim that drive the brake rotors."
+ },
+ "13-62": {
+  "description": "Labeled cross-section and photograph of a wheel thermal plug. The cross-section shows a thermal plug threaded into the inside wheel half next to where it joins the outside wheel half, with a heat shield below it. The photo shows a wheel half with the small thermal plug (labeled) in its surface."
+ },
+ "13-63": {
+  "description": "Illustration of a bearing cup raceway with a cluster of small pits along one edge, labeled scalloping."
+ },
+ "13-64": {
+  "description": "Three photographs of bead-breaking equipment, labeled A to C. A: a red mechanical bead breaker with a long lever, holding a small tire. B: a large blue hydraulic bead-breaking press with a large aircraft tire and wheel in it. C: a floor-standing arbor press."
+ },
+ "13-65": {
+  "description": "Close-up photograph of a bearing roller whose surface is torn and smeared lengthwise, showing galling."
+ },
+ "13-66": {
+  "description": "Close-up photograph of tapered roller bearing rollers in their cage, with chipped-out patches in the hardened surfaces of several rollers (spalling)."
+ },
+ "13-67": {
+  "description": "Illustration of three bearing rollers whose ends are discolored a bronze or bluish tint from overheating."
+ },
+ "13-68": {
+  "description": "Four illustrated close-ups of brinelling: indentations across a bearing cup raceway, with one dent circled and enlarged."
+ },
+ "13-69": {
+  "description": "Four illustrated close-ups of false brinelling: marks on the raceway at the spacing of the rollers, with some areas circled and enlarged, and a pitted, scratched raceway surface."
+ },
+ "13-70": {
+  "description": "Illustration of a bearing cup with grayish-black streaks on the raceway, evenly spaced at the spacing of the rollers."
+ },
+ "13-71": {
+  "description": "Illustration of a bearing cup and rollers covered with brownish streaks and discoloration from etching and corrosion."
+ },
+ "13-72": {
+  "description": "Illustration of a bearing cup raceway with a dull surface covered in small marks and pits (bruising)."
+ },
+ "13-73": {
+  "description": "Illustration of the outside of a bearing cup, with scored and worn bands around its outer surface from spinning in the wheel boss."
+ },
+ "13-74": {
+  "description": "Illustration and photograph of a pressure bearing lubricating tool. The illustration shows a grease gun connected by a hose to a cone-shaped fitting pressed onto a bearing. The photo shows a tapered roller bearing held between two white cone-shaped halves on a threaded shaft with a grease fitting on top."
+ },
+ "13-75": {
+  "description": "Photograph of the two halves of a light aircraft wheel lying apart, with arrows pointing to the bead seat area around the rim of each half."
+ },
+ "13-76": {
+  "description": "Illustration of a drive key bolted to the inside of a wheel rim, with fine cracks drawn in the wheel next to the key."
+ },
+ "13-77": {
+  "description": "Illustration of a fusible (thermal) plug threaded into a wheel, with a pointed probe touching the center of the plug's core."
+ },
+ "13-78": {
+  "description": "Labeled cross-section of the joined outboard wheel half and inboard wheel half, with balance weights bolted to the web of each half."
+ },
+ "13-79": {
+  "description": "Photograph of a light aircraft main wheel with a single brake disc attached to the wheel and a brake caliper straddling the disc, with its hydraulic line."
+ },
+ "13-80": {
+  "description": "Labeled exploded illustration of a single-disc brake: brake disc, lining pucks, brake housing, cylinder head, O-ring packing and O-ring gasket, pistons, adjusting pin, adjusting pin nut, pin grip, spring guide, brake return spring, internal retainer ring, bleed valve, bleed screw, bleeder adapter, washers, gaskets, screw and fluid inlet bushing."
+ },
+ "13-81": {
+  "description": "Labeled cross-section of a Goodyear single-disc brake caliper and wheel. Labeled parts: fluid inlet port, piston, return spring, automatic adjusting pin or wear indicator pin, adjusting pin grip, brake housing, the disk keyed to the wheel (key), and the pressure plate lining puck and backing plate lining puck on either side of the disk."
+ },
+ "13-82": {
+  "description": "Photograph and illustration of a Cleveland brake. Photo: the caliper on a red gear leg with the brake lining against the fixed disc. Illustration: the cylinder assembly, pressure plate and torque plate on the wheel."
+ },
+ "13-83": {
+  "description": "Labeled exploded illustration of a dual-piston Cleveland brake: cylinder assembly with two pistons, pressure plate, pressure plate lining, backplate lining, rivets (8), backplate, torque plate, bushings and anchor bolts (2)."
+ },
+ "13-84": {
+  "description": "Labeled exploded illustration of a dual-disc brake: housing assembly, bleeder screw, washer, spring, self-adjusting pin, piston, two brake discs, a center carrier between them, four brake linings, the housing back plate and the wheel axle."
+ },
+ "13-85": {
+  "description": "Labeled exploded illustration of a multiple disc brake, parts in order: automatic adjuster, O-ring, bleeder valve (typical), bearing carrier and sleeve, retractor spring assembly (typical 10 places), felt wiper rings, O-ring, backup ring, annular piston, retractor plate, nut (typical 10 places), flinger ring, bearing retaining nut, snap ring, pressure plate and insulator, alternating rotors and stators (four rotors, three stators), backup plate, backup plate retainer and locking piece."
+ },
+ "13-86": {
+  "description": "Labeled cross-section of a multiple-disc brake on a landing gear strut, color-coded for brake pressure, return, and pressure due to retracting springs. Labeled parts: rotors (typical four places), stators (typical three places), pressure plate, backup plate retainer, retracting plate, retracting springs (ten each), annular piston, packing, retainer, valve stem, automatic adjuster, felt wiper, wheel bearings, bearing retaining nut, and the line to the shuttle valve. Two details of the automatic adjuster, with its compensator piston and check valve, show the flow when the brake is applied and when it is released."
+ },
+ "13-87": {
+  "description": "Labeled exploded illustration of a segmented rotor brake on its axle. Parts in order: carrier assembly with piston, piston cup, piston return spring, adjuster pin, adjuster pin nut, adjuster pin sleeve, adjuster clamp and brake assembly pin; pressure plate; then alternating rotor assemblies and stator plates; and the backing plate. Also labeled: torque tube, stator drive sleeve, drive sleeve bolts and brake lining disk (typical)."
+ },
+ "13-88": {
+  "description": "Photograph of a segmented rotor disc brake whose housing holds a ring of many individual actuating pistons, with hydraulic lines attached."
+ },
+ "13-89": {
+  "description": "Labeled cutaway illustration of a Boeing 737 multiple-disc brake. Labeled parts: carrier, pressure port, bleeder valves, pressure cylinder (6 places), piston (6 places), pressure plate, return spring, rotor (3 places), stator (4 places), lining block (14 places) surface, rivet (typical), torque tube, torque tube backing plate, mounting flange, reverse bleed or drain plug, reline indicator pin (2 places) and automatic adjuster assembly (4 places). Detail A shows the automatic adjuster: retaining ring, recessed washer, adjuster ball, carrier, tube, return spring, housing, adjuster pin, sleeve nut, keywasher, pin retainer and pressure plate. Detail B shows the reline indicator pin through the carrier, with its retaining pin, retainer and rivet, and the exposed pin length marked L."
+ },
+ "13-90": {
+  "description": "Illustration of a Boeing 737 carbon brake: a round housing with six large piston caps around a central bore, and a thick stack of carbon discs behind it."
+ },
+ "13-91": {
+  "description": "Labeled illustration of an assembled expander tube brake: brake blocks around the outside held by torque bars and torque bar bolts in a frame, with a brake frame bolt, an adjuster, and the brake spider in the center."
+ },
+ "13-92": {
+  "description": "Labeled exploded illustration of an expander tube brake: two frames, the expander tube with its nozzle, brake blocks, torque bars, return springs, return spring shields, tube shield, torque flange, torque bar bolts, brake frame bolts, adjuster and adjuster bolt."
+ },
+ "13-93": {
+  "description": "Labeled illustration of four rudder pedals on their mounting tubes, with two brake master cylinders (blue) connected to the pedals."
+ },
+ "13-94": {
+  "description": "Labeled diagram of an independent brake system: two brake pedals each push a master cylinder, both supplied from one reservoir. Lines from the master cylinders pass through parking brake valves (operated by a single control handle) to the left brake assembly and right brake assembly on the main wheels."
+ },
+ "13-95": {
+  "description": "Labeled cross-section of a master cylinder: piston rod with a protective boot, seals, piston with piston head ports, return spring, inlet from reservoir, compensating port, and outlet to brake."
+ },
+ "13-96": {
+  "description": "Two labeled cross-sections of a master cylinder with built-in reservoir. A (brakes off): the compensator port is open between the reservoir (blue) and the cylinder. B (brakes applied, arrow pushing the piston rod down): the piston rod has moved the compensator sleeve and O-ring and washer to close the port, and the fluid below is under pressure (red)."
+ },
+ "13-97": {
+  "description": "Labeled cross-section of a boosted brake master cylinder: a toggle above a spool valve, with lines to the system return manifold and from the system pressure manifold; a poppet, piston, compensator port, the outlet to the brake wheel cylinder, and the piston rod to the brake pedal, with an arrow marked Brakes on."
+ },
+ "13-98": {
+  "description": "Two labeled diagrams of power brake systems, color-coded for accumulator air pressure, return and hydraulic pressure. A: pilot's pedals linked to a normal brake metering valve and an alternate brake metering valve, with autobrake pressure control, shuttle valves, normal anti-skid valves, alternate antiskid valve and fuses in the lines to the main wheels. B: hydraulic system pressure passes a brake check valve to a brake accumulator and the power brake control valves, then antiskid control valves and shuttle valves to the brake assemblies; an emergency brake valve and emergency IR cylinder feed the shuttle valves through an air/oil transfer tube."
+ },
+ "13-99": {
+  "description": "Labeled cross-section of a Boeing 737 brake metering valve. \"A\" system pressure and \"B\" system pressure enter a valve body containing two brake metering valve slides in sleeves, with compensating chambers, springseats and return springs. Ports lead to the inboard brake, the outboard brake and return. A brake input shaft with a crank and crank stop moves the slides through a link assembly; an autobrake piston also acts on the linkage."
+ },
+ "13-100": {
+  "description": "Schematic of the Boeing 737 brake system, color-coded for system return, system pressure and brake pressure. Shown: \"A\" and \"B\" system pressure lines with a ground interconnect valve; system \"A\" and system \"B\" solenoid valves; an accumulator with transmitter and gauge; a charging valve; brake valve feel augmentation actuator; main landing gear \"UP\" line and automatic wheel snubbing; two brake metering valves; parking brake shutoff valve; shuttle valves; four antiskid valves; and the inboard and outboard wheels of the left and right gear, with pressure comparators, swivels and sealing disconnect fittings."
+ },
+ "13-101": {
+  "description": "Labeled cross-section of a valve with a brake metering valve shaft, crank arm, roller and piston at the left, and a piston assembly, bleed port, spring-loaded check valve, slide assembly, pressure regulator and spring at the right. Ports are marked Port No. 1 brake pressure, Port No. 2 to return and Port No. 3 system \"A\" pressure."
+ },
+ "13-102": {
+  "description": "Labeled illustration and photograph of 737 brake accumulators. Illustration: the System A and System B brake accumulators in the main wheel well area, with the brake pressure gauge and accumulator air charging valve, and UP and FWD arrows. Photo: a brake accumulator with its nitrogen charging valve and accumulator pre-charge pressure gauge."
+ },
+ "13-103": {
+  "description": "Photograph of a Boeing 737 center pedestal with the two thrust levers, and the parking brake lever (labeled) to the left of the flap lever, with a red parking brake light beside it."
+ },
+ "13-104": {
+  "description": "Labeled illustration and diagram, color-coded for air pressure, hydraulic pressure, deboost pressure and hydraulic return. Left: a brake debooster mounted on a main landing gear strut. Right: hydraulic system pressure passes a brake check valve and brake accumulator to the power brake control valves, then antiskid control valves, deboosters and shuttle valves to the brake assemblies; an emergency brake valve and emergency IR cylinder connect through an air/oil transfer tube."
+ },
+ "13-105": {
+  "description": "Cross-section of a brake debooster. System pressure (red) of 1,500 psi from the power brake control valve acts on a small piston of 1 square inch area. That piston moves a larger piston of 5 square inch area, which delivers deboost pressure (blue) of 300 psi to the brake cylinders. The chamber between the pistons is vented."
+ },
+ "13-106": {
+  "description": "Illustration of a flight deck anti-skid panel: two ANTI SKID INOP lights; ANTISKID INBD and OUTBD switches, each ON or OFF; an AUTO BRAKE selector with OFF, MIN, MED and MAX positions; and an INOP light."
+ },
+ "13-107": {
+  "description": "Illustrations of three anti-skid components side by side: a wheel sensor (a small cylindrical unit), a control unit (a box with two connectors) and a control valve."
+ },
+ "13-108": {
+  "description": "Labeled exploded illustration of a wheel speed sensor in a main wheel: the transducer with its electrical connector fits in the axle, held by a lockring and transducer adapter with a transducer alignment rivet; a drive coupling connects it to the spider in the hubcap assembly, which is covered by a hubcap fairing. The wheel is also labeled."
+ },
+ "13-109": {
+  "description": "Illustration of a black rack-mounted anti-skid control unit. The front panel has wheel position markings 1 and 2 (L) and 3 and 4 (R), a test selector knob with positions including NORM, 1 to 4, A/B, INBD and OUTBD, ENABLE/VERIFY and VERIFY buttons, PRESS/TEST and RESET buttons, and a BIT switch."
+ },
+ "13-110": {
+  "description": "Block diagram of one wheel card (left inboard) in a Boeing 737 anti-skid control unit. The transducer feeds a converter. The converter feeds the deceleration reference and velocity reference, the velocity comparator, the spoiler control, the locked wheel comparator (linked to the right inboard lock wheel comparator) and the locked wheel circuit. The velocity comparator feeds the lead, transient control and pressure bias modulator circuits, which all feed the summing amplifier. The summing amplifier and the locked wheel circuit feed the valve driver, which drives the valve."
+ },
+ "13-111": {
+  "description": "Labeled cross-section of an anti-skid control valve. In the first stage, a torque motor moves a flapper between two nozzles. Below, the second stage valve spool, with a bias spring at one end, controls ports marked pressure, brake and return; a check valve is in the pressure passage."
+ },
+ "13-112": {
+  "description": "Photograph of two anti-skid control valves mounted on a structure, with hydraulic tubing and electrical connectors attached."
+ },
+ "13-113": {
+  "description": "Schematic of the Boeing 757 normal brake system with auto brake and anti-skid. Brake pedals connect to left and right metering valves; a Park Brake handle works the park brake valve. An AUTO BRAKE selector (Disarm, OFF, 1 to 4, Max Auto) controls the auto brake valve, fed by the right hydraulic system. Also shown: a brake pressure gauge, accumulator, accumulator isolation valve, alternate brake pressure, and anti-skid valves for the four main wheels on each side, with an anti-skid return. An anti-skid controller, with an ON/OFF switch and an anti-skid indicator, takes inputs from the wheels and controls the anti-skid valves."
+ },
+ "13-114": {
+  "description": "Illustration of a hand holding a measuring tool against the automatic adjuster wear pin on a Goodyear brake housing."
+ },
+ "13-115": {
+  "description": "Labeled cross-section of a brake caliper with the brakes applied: the gap between the housing and the disk is marked \"Measure lining wear here\"."
+ },
+ "13-116": {
+  "description": "Labeled illustration of a brake lining on its backing, with a #40 twist drill (0.098 inches in diameter) laid next to it as a visual reference."
+ },
+ "13-117": {
+  "description": "Labeled cross-section of a multiple disc brake with a gauge measuring the distance between the brake housing and the pressure plate."
+ },
+ "13-118": {
+  "description": "Labeled illustration of a brake bleeder pot: a round tank on a stand with a pressure gauge, filler plug and air valve, and a yellow hose ending in either a D-rigid nozzle or a flexible nozzle."
+ },
+ "13-119": {
+  "description": "Labeled illustration of bottom-up pressure bleeding: a pressure pot is connected to the brake on the main wheel. Arrows show fluid flowing up through the brake line, the master cylinder and the brake reservoir, then out through a clear hose into a container of fluid."
+ },
+ "13-120": {
+  "description": "Labeled illustration of top-down (gravity) bleeding: a squeeze bulb on the brake reservoir, fluid flowing down through the master cylinder to the brake on the main wheel, and a clear hose from the brake bleed port into a container of fluid."
+ },
+ "13-121": {
+  "description": "Photograph of a light aircraft main wheel fairing under the wing, with a dark pool of leaked fluid on the ramp below the wheel."
+ },
+ "13-122": {
+  "description": "Labeled cross-section of a piston in a housing, with an O-ring in the piston groove and a backup ring on the side of the O-ring away from the fluid pressure."
+ },
+ "13-123": {
+  "description": "Labeled exploded illustration of a Goodyear brake beside the assembled caliper on its brake disc. Parts in order: anti-rattle clip, backing plate lining puck, disc, pressure plate lining puck, pressure plate, housing, piston, O-rings, cylinder head and retaining ring."
+ },
+ "13-124": {
+  "description": "Labeled exploded illustration of a Cleveland brake: cylinder assembly with cylinder housing to back plate bolts (4 each), pressure plate with pressure plate lining, rivets (8), backplate lining, backplate, torque plate with bushings, and anchor bolts (2)."
+ },
+ "13-125": {
+  "description": "Photograph of a bench-mounted rivet setting tool: a C-shaped cast frame with a screw-driven punch and a red T-handle, with two interchangeable anvil and punch pieces beside it."
+ },
+ "13-126": {
+  "description": "Cross-section of a tire on its rim, with dimension lines for the section width (the tire's width) and the rim diameter."
+ },
+ "13-127": {
+  "description": "Cross-section of a tire on its rim, with dimension lines for the section width and the nominal outside diameter."
+ },
+ "13-128": {
+  "description": "Cross-section of a tire with dimension lines for the section width, nominal outside diameter and rim diameter, above a photo of a tire sidewall marked \"18x4.25—10\" and a load rating of 2300 LBS."
+ },
+ "13-129": {
+  "description": "Cutaway illustration of a bias ply tire, showing the layered plies running diagonally from bead to bead under the tread."
+ },
+ "13-130": {
+  "description": "Cutaway illustration of a radial tire, showing plies running straight across from bead to bead, with belt layers under the tread."
+ },
+ "13-131": {
+  "description": "Labeled cutaway illustration of tire construction. Labeled parts: tread, sidewalls, breakers, buff line cushion, tread reinforcing ply, carcass plies or casing plies (also labeled \"Caroass plies\"), inner liner, chafers, ply turn ups, flippers, apex strip, wire beads, bead heel and bead toe."
+ },
+ "13-132": {
+  "description": "Five tires labeled A to E: A, a rib tread with straight grooves around the tire; B, a diamond tread; C, ribs in the center with a diamond pattern at the edges; D, a smooth tread; E, a ribbed tire with a chine (a raised deflector) on the sidewall."
+ },
+ "13-133": {
+  "description": "Illustration of a tire sidewall marked \"26x10.0-11\", \"S70\" and \"MADE IN U.S.A.\", with a small colored dot marking the sidewall vent."
+ },
+ "13-134": {
+  "description": "Illustrations of two tire pressure gauges: a digital gauge reading 110.8 PSI with ON, ZERO, UNITS and P/V buttons, and a dial-type gauge graduated from 0 to 200 psi."
+ },
+ "13-135": {
+  "description": "Four labeled cross-sections of worn tread. Tread wear on an overinflated bias tire and on an overinflated radial tire: worn in the center of the tread. Tread wear on an underinflated bias tire and on an underinflated radial tire: worn on the shoulders. The bias tire sections label the tread reinforcing plies and casing outer ply; the radial sections label the protector ply, belt plies (printed \"Bolt plies\") and casing outer ply."
+ },
+ "13-136": {
+  "description": "Two labeled cross-sections showing normal tread wear on a bias tire (tread reinforcing plies and casing outer ply labeled) and on a radial tire (protector ply, \"Bolt plies\" and casing outer ply labeled), with the tread worn evenly across."
+ },
+ "13-137": {
+  "description": "Two labeled cross-sections of a bias ply tire (left) and a radial tire (right) with the tread grooves worn away in places, but the tread reinforcing plies and protector ply not exposed."
+ },
+ "13-138": {
+  "description": "Illustration of a screw head embedded in a tire tread, circled in chalk with the letters FOD written beside it."
+ },
+ "13-139": {
+  "description": "Illustration of a hand probing a small cut in a tire tread with a thin pointed tool."
+ },
+ "13-140": {
+  "description": "Labeled cross-sections of a bias ply tire and a radial tire with cuts marked A (a cut deep enough to expose the casing outer ply or belt layer), B (a cut across a tread rib) and C (undercutting at the base of a cut). Below, a tire with a peeled rib, the tread torn away along one rib."
+ },
+ "13-141": {
+  "description": "Photograph of a tire with a worn oval flat spot on the tread, where the fabric of the under tread shows through."
+ },
+ "13-142": {
+  "description": "Illustration of a tire cross-section with tread reinforcing plies and casing outer ply labeled, beside a view of a tire with a bulge in the sidewall and a section where the tread has separated from the casing."
+ },
+ "13-143": {
+  "description": "Illustration of a tire tread covered with many small chevron-shaped cuts across the ribs."
+ },
+ "13-144": {
+  "description": "Labeled cross-section of a radial tire tread with chips and chunks missing from the tread rubber (shown in red); the protector ply, \"Bolt plies\" and casing outer ply are labeled."
+ },
+ "13-145": {
+  "description": "Three illustrations: a tread groove with a crack at its base, a tread groove with the tread undercut from the base of the groove, and a tire whose tread has been thrown off, exposing the casing."
+ },
+ "13-146": {
+  "description": "Photograph of an aircraft wheel and tire wrapped in a reflective silver cover, resting on wooden blocks on the ramp."
+ },
+ "13-147": {
+  "description": "Illustration of a tire sidewall with a patch of fine surface cracks and checking."
+ },
+ "13-148": {
+  "description": "Illustration of a dual-wheel gear seen from the front, with an arrow showing the angle of approach toward the tire shoulder."
+ },
+ "13-149": {
+  "description": "Close-up photograph of a tire valve core."
+ },
+ "13-150": {
+  "description": "Labeled cross-section of a bead breaker: the tire and wheel are held between a fixed adaptor ring and a movable adaptor ring pushed by a ram. Dimensions marked: 4\" (100 mm) travel and 0.4\" (10 mm) radial clearance."
+ },
+ "13-151": {
+  "description": "Two photographs: a blue electrohydraulic bead breaker with a large tire in it and a control box (left), and a yellow manual bead breaker with a long lever over a small tire (right)."
+ },
+ "13-152": {
+  "description": "Illustration of a ribbed tire with an enlarged view of one tread groove showing ozone cracking along its base."
+ },
+ "13-153": {
+  "description": "Three illustrations of tube cross-sections: A. Natural contour (an even curve); B. Taking a Set (flattened with creases, arrows marking them); C. Thinned out at edges (arrows marking the thin areas)."
+ },
+ "13-154": {
+  "description": "Illustration of hands placing a red O-ring into the groove of a wheel half."
+ },
+ "13-155": {
+  "description": "Two photographs of tire inflation cages: a gray cage with orange restraining straps and a lever (left), and a blue enclosed cage marked KUNZ (right)."
+ },
+ "13-156": {
+  "description": "Photograph of a plastic jar of tire talc with a blue lid."
+ },
+ "13-157": {
+  "description": "Illustration of a tube inside a tire: a white stripe on the tube (the heavy balance mark) is next to the valve stem, and a dot on the tire sidewall marks the tire's light balance point. The sidewall is marked MADE IN U.S.A."
+ },
+ "13-158": {
+  "description": "Photograph of a wheel and tube-type tire, with the tube valve stem passing through a hole in the wheel half."
+ },
+ "13-159": {
+  "description": "Photograph of a tire and wheel assembly mounted on a cone on a green A-frame balancing stand."
+ },
+ "13-160": {
+  "description": "Three photographs: a balancing patch inside a tire (left), adhesive weights on a wheel (center), and a weight bolted to a wheel (right)."
+ },
+ "13-161": {
+  "description": "Illustration of a main gear with four tires and their brakes; two of the tires have failed, with torn treads and blown-out sidewalls."
+ },
+ "13-162": {
+  "description": "Illustration of a runway end marked 36 with a section enlarged to show grooves cut across the runway surface, with a scale marked 1, 2, 3."
+ }
+}

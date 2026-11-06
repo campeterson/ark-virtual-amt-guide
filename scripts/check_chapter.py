@@ -33,8 +33,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BODY_MIN, BODY_MAX = 10.0, 11.6   # line height range for body text and captions (pt)
-CAPTION_MAX = 10.6                # captions are set slightly smaller than body text
+# Body text and captions are picked out by line height, measured from each PDF:
+# the same handbook comes out at different heights depending on how the PDF was
+# produced (the FAA original vs. a re-saved copy).
 MIN_CHARS = 25                    # ignore shorter fragments
 
 LINE_RE = re.compile(r'<line xMin="([\d.]+)" yMin="([\d.]+)" xMax="([\d.]+)" yMax="([\d.]+)">'
@@ -47,25 +48,53 @@ def norm(s: str) -> str:
     return re.sub(r"[^a-z0-9]", "", s.lower())
 
 
-def pdf_body_lines(pdf: Path):
-    """Body-text lines in reading order: page by page, left column then right."""
-    xml = subprocess.check_output(["pdftotext", "-bbox-layout", str(pdf), "-"], text=True)
-    out = []
+def _all_lines(pdf: Path):
+    xml = subprocess.check_output(["pdftotext", "-bbox-layout", str(pdf), "-"], text=True,
+                                  stderr=subprocess.DEVNULL)
     for page_no, page in enumerate(xml.split("<page ")[1:], 1):
         width = float(re.search(r'width="([\d.]+)"', page).group(1))
-        lines = []
         for m in LINE_RE.finditer(page):
             x0, y0, x1, y1 = map(float, m.groups()[:4])
             text = " ".join(WORD_RE.findall(m.group(5)))
-            if not BODY_MIN <= y1 - y0 <= BODY_MAX:
-                continue
-            if re.fullmatch(r"\d+-\d+", text.strip()):          # page number
-                continue
-            col = 0 if x0 < width / 2 else 1
-            kind = "caption" if y1 - y0 <= CAPTION_MAX else "body"
-            lines.append((col, y0, x0, text, kind))
-        lines.sort()
-        out += [(page_no, t, k) for _, _, _, t, k in lines]
+            yield page_no, width, x0, y0, round(y1 - y0, 1), text
+
+
+def line_heights(lines):
+    """(body_min, body_max, caption_min, caption_max) for this PDF. Body height is the
+    most common height of full lines; caption height the most common height of lines
+    that start "Figure N-N."."""
+    from collections import Counter
+    body = Counter(h for *_, h, t in lines if len(t.split()) >= 6)
+    cap = Counter(h for *_, h, t in lines if re.match(r"Figure \d+[-\u00ad]\d+\.", t))
+    hb = body.most_common(1)[0][0]
+    hc = cap.most_common(1)[0][0] if cap else hb
+    if hc >= hb - 0.3:          # captions not distinguishable by height
+        return hb - 0.4, hb + 0.6, None, None
+    return hb - 0.4, hb + 0.6, hc - 0.3, hc + 0.3
+
+
+def pdf_body_lines(pdf: Path, captions=True):
+    """Body-text (and caption) lines in reading order: page by page, left column then
+    right. Returns (page, text, kind) with kind "body" or "caption"."""
+    lines = list(_all_lines(pdf))
+    bmin, bmax, cmin, cmax = line_heights(lines)
+    out, cur, buf = [], None, []
+    for page_no, width, x0, y0, h, text in lines + [(None, 1, 0, 0, 0, "")]:
+        if page_no != cur:
+            buf.sort()
+            out += [(cur, t, k) for _, _, _, t, k in buf]
+            cur, buf = page_no, []
+        if page_no is None:
+            break
+        if re.fullmatch(r"\d+-\d+", text.strip()):          # page number
+            continue
+        if bmin <= h <= bmax:
+            kind = "body"
+        elif captions and cmin is not None and cmin <= h <= cmax:
+            kind = "caption"
+        else:
+            continue
+        buf.append((0 if x0 < width / 2 else 1, y0, x0, text, kind))
     return out
 
 

@@ -20,15 +20,15 @@ Note: References to auxiliary landing gear refer to the nose gear, tail gear, or
 
 **Figure 13-1.** Basic landing gear types include those with wheels (a), skids (b), skis (c), and floats or pontoons (d).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Four photographs labeled A to D. A: a large four-engine airliner (marked Airbus A380) landing, with a nose gear and several multi-wheel main gear extended. B: a small helicopter standing on two tubular skids. C: a high-wing light airplane on snow, resting on skis. D: a high-wing floatplane on water, supported by two floats.
 
 **Figure 13-2.** An amphibious aircraft with retractable wheels (left) and an aircraft with retractable skis (right).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs. Left: a high-wing airplane on amphibious floats parked on pavement, with small wheels extended below the floats. Right: a high-wing light airplane on snow with skis fitted to its main and nose gear.
 
 **Figure 13-3.** Tail wheel configuration landing gear on a DC-3 (left) and a STOL Maule MX-7-235 Super Rocket.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs. Left: a twin-engine DC-3 airliner on a runway, resting on two main wheels with its tail supported by a tail wheel. Right: a high-wing single-engine Maule on grass, with two main wheels forward and a small tail wheel at the rear.
 
 [Page 13-2]
 
@@ -50,15 +50,15 @@ Few aircraft are designed with tandem landing gear. As the name implies, this ty
 
 **Figure 13-5.** Tandem landing gear along the longitudinal axis of the aircraft permits the use of flexible wings on sailplanes (left) and select military aircraft like the B-52 (center). The VTOL Harrier (right) has tandem gear with outrigger-type gear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three photographs. Left: a sailplane on the ground, resting on a single main wheel under the fuselage. Center: a B-52 bomber in flight with its gear extended under the fuselage. Right: a Harrier jet hovering over water with gear extended under the fuselage and small outrigger wheels under the wings.
 
 **Figure 13-4.** The steerable tail wheel of a Pitts Special.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs. Left: close-up of a small tail wheel assembly on a red airframe, with coil springs and chains connecting the tail wheel steering arm to the airframe. Right: a red Pitts Special biplane in flight, with its tail wheel visible under the tail.
 
 **Figure 13-6.** Tricycle-type landing gear with dual main wheels on a Learjet (left) and a Cessna 172, also with tricycle gear (right).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs of aircraft in flight with gear extended. Left: a Learjet business jet with a nose gear and two main gear. Right: a high-wing Cessna 172 with a nose wheel and two main wheels.
 
 [Page 13-3]
 
@@ -80,11 +80,11 @@ The main gear on a tricycle-type landing gear arrangement is attached to reinfor
 
 **Figure 13-9.** Triple bogie main landing gear assembly on a Boeing 777.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a Boeing 777 main gear on the ground: a single strut carrying a bogie with six wheels in three pairs (three wheels visible on each side).
 
 **Figure 13-7.** A nose wheel steering tiller located on the flight deck.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a nose wheel steering tiller: a crank-shaped handle with a round knob, mounted on a circular base marked with a scale and the letters L and R (left and right).
 
 The tricycle-type landing gear arrangement consists of many parts and assemblies. These include air/oil shock struts, gear alignment units, support units, retraction and safety devices, steering systems, wheel and brake assemblies, etc. A main landing gear of a transport category aircraft is illustrated in Figure 13-10 with many of the parts identified as an introduction to landing gear nomenclature.
 
@@ -94,11 +94,11 @@ Further classification of aircraft landing gear can be made into two categories:
 
 **Figure 13-8.** Dual main gear of a tricycle-type landing gear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a dual-wheel main gear: two tires side by side on one axle at the bottom of a shock strut, with linkages and lines running to the structure above.
 
 **Figure 13-10.** Nomenclature of a main landing gear bogie truck.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a transport category main landing gear, with FWD and INBD arrows. Labeled parts: beam hanger, walking beam, main gear actuator, ground speed brake cable (right gear only), trunnion link, drag strut, universal side strut fitting, damper hydraulic line, main gear damper, torsion links, axle, gravel deflector, uplock roller, shock strut, side strut, downlock, uplock spring bungee, uplock actuator, reaction link, downlock actuator, downlock spring bungee.
 
 [Page 13-5]
 
@@ -106,11 +106,11 @@ A great deal of the parasite drag caused by light aircraft landing gear can be r
 
 **Figure 13-12.** The retractable gear of a Boeing 737 fair into recesses in the fuselage. Panels attached to the landing gear provide smooth airflow over the struts. The wheel assemblies mate with seals to provide aerodynamic flow without doors.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph looking up at the underside of a Boeing 737 with the main gear retracted: both main wheels sit in recesses in the fuselage, with no doors over the wheels, and panels on the gear legs close over the struts.
 
 **Figure 13-11.** Wheel fairings, or pants, and low profile struts reduce parasite drag on fixed gear aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Close-up photograph of a streamlined wheel fairing (wheel pant) enclosing most of a tire on a light aircraft, with the gear leg entering it from above.
 
 [Page 13-6]
 
@@ -122,7 +122,7 @@ Note: The parasite drag caused by extended landing gear can be used by the pilot
 
 **Figure 13-13.** Non-shock absorbing struts made from steel, aluminum, or composite material transfer the impact forces of landing to the airframe at a non-damaging rate.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a low-wing light airplane taxiing toward the camera, with a nose wheel and two main wheels on thin struts, each wheel partly covered by a fairing.
 
 #### Shock Absorbing & Non-Shock Absorbing Landing Gear
 
@@ -134,11 +134,11 @@ Many aircraft utilize flexible spring steel, aluminum, or composite struts that 
 
 **Figure 13-15.** Piper Cub bungee cord landing gear transfer landing loads to the airframe (left and center). Rubber, donut-type shock transfer is used on some Mooney aircraft (right).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three photographs. Left: the main gear of a yellow Piper Cub, with the gear legs meeting at the fuselage where bungee cords are wrapped. Center: close-up of bungee cords wrapped around the gear attachment under the fuselage. Right: a nose wheel strut with a stack of rubber donut-shaped discs above the wheel.
 
 **Figure 13-14.** Rigid steel landing gear is used on many early aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a red triplane on grass with two spoked main wheels on a rigid strut-and-axle framework under the fuselage.
 
 [Page 13-7]
 
@@ -164,11 +164,11 @@ On some types of shock struts, a metering tube is used. The operational concept 
 
 **Figure 13-16.** A landing gear shock strut with a metering pin to control the flow of hydraulic fluid from the lower chamber to the upper chamber during compression.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a shock strut. The outer cylinder is shown cut open, with the inner cylinder (piston) sliding into it from below. Inside, a tapered metering pin passes through the orifice in an orifice plate. Other labeled parts: servicing valve at the top, torque arms, wheel axle and towing eye at the bottom.
 
 **Figure 13-17.** Some landing gear shock struts use an internal metering tube rather than a metering pin to control the flow of fluid from the bottom cylinder to the top cylinder.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a nose gear shock strut that uses a metering tube. Labeled parts: air valve at the top, centering cam, metering tube (a perforated tube), inner cylinder, piston rod and piston.
 
 [Page 13-9]
 
@@ -178,7 +178,7 @@ Most shock struts are equipped with an axle as part of the lower cylinder to pro
 
 **Figure 13-18.** Axles machined out of the same material as the landing gear lower cylinder.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a large main gear shock strut removed from an aircraft, with braces and hydraulic lines attached. Labels point to the lower cylinder and to the axle, which is part of the lower cylinder.
 
 The upper cylinder of a shock strut typically contains a valve fitting assembly. It is located at or near the top of the cylinder. The valve provides a means of filling the strut with hydraulic fluid and inflating it with air or nitrogen as specified by the manufacturer. A packing gland is employed to seal the sliding joint between the upper and lower telescoping cylinders. It is installed in the open end of the outer cylinder. A packing gland wiper ring is also installed in a groove in the lower bearing or gland nut on most shock struts. It is designed to keep the sliding surface of the piston from carrying dirt, mud, ice, and snow into the packing gland and upper cylinder. Regular cleaning of the exposed portion of the strut piston helps the wiper do its job and decreases the possibility of damage to the packing gland, which could cause the strut to a leak.
 
@@ -188,7 +188,7 @@ Nose gear shock struts are provided with a locating cam assembly to keep the gea
 
 **Figure 13-19.** Torque links align the landing gear and retain the piston in the upper cylinder when the strut is extended.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a light aircraft nose gear: the wheel is held in a fork below the strut, and a pair of hinged torque links (labeled) connects the upper strut to the fork.
 
 [Page 13-10]
 
@@ -198,7 +198,7 @@ Nose and main gear shock struts on many aircraft are also equipped with jacking 
 
 **Figure 13-20.** An upper locating cam mates into a lower cam recess when the nose landing gear shock strut is extended before landing and before the gear is retracted into the wheel well.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a nose gear strut, partly cut away. Labeled parts: cylinder, upper locating cam, lower locating cam, torque arm, piston, fork and axle. The upper cam sits inside the cylinder just above the lower cam recess.
 
 Shock struts contain an instruction plate that gives directions for filling the strut with fluid and for inflating the strut. The instruction plate is usually attached near filler inlet and air valve assembly. It specifies the correct type of hydraulic fluid to use in the strut and the pressure to which the strut should be inflated. It is of utmost importance to become familiar with these instructions prior to filling a shock strut with hydraulic fluid or inflating it with air or nitrogen.
 
@@ -208,15 +208,15 @@ Figure 13-23 illustrates the inner construction of a shock strut. Arrows show th
 
 **Figure 13-21.** A shimmy damper helps control oscillations of the nose gear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a nose wheel and fork with a shimmy damper: a small hydraulic cylinder mounted horizontally between the upper strut and the steering collar above the fork.
 
 **Figure 13-22.** A towing lug on a landing gear is the designed means for attaching a tow bar.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a tow bar attached to the towing lug on a nose gear between the two wheels. The tow bar head has a lever marked UNLOCK and LOCK.
 
 **Figure 13-23.** Fluid flow during shock strut operation is controlled by the taper of the metering pin in the shock strut orifice.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two cutaway illustrations of a shock strut, color-coded blue for air and red for hydraulic fluid. Extension Stroke (left): the strut is extended and arrows show fluid flowing down past the metering pin from the upper chamber into the lower chamber. Compression Stroke (right): the strut is compressed and arrows show fluid forced up through the orifice around the metering pin into the upper chamber.
 
 [Page 13-11]
 
@@ -224,7 +224,7 @@ Insufficient fluid, or air in the strut, cause the compression stroke to not be 
 
 **Figure 13-24.** Valve core-type (A) and core-free valve fittings (B) are used to service landing gear shock struts.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of two strut servicing valves. A. Valve core-type strut fitting AN6287-1, with a photo and a small cutaway of the valve assembly; labeled parts: yellow valve cap, core, 5/8-inch hex nut, 3/4-inch hex body, valve core housing, O-ring, packing, valve seat and air orifice. B. Strut fitting with no core MS 28889-1; labeled parts: 3/4-inch hex body (two), pin, back-up ring, O-ring, stem and air orifice.
 
 [Page 13-12]
 
@@ -249,7 +249,7 @@ The following procedures are typical of those used in deflating a shock strut, s
 
 **Figure 13-25.** Steps in servicing a landing gear shock strut include releasing the air from the strut and removing the service valve from the top of the strut to permit the introduction of hydraulic fluid. Note that the strut is illustrated horizontally. On an actual aircraft installation, the strut is serviced in the vertical position (landing gear down).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Six illustrated steps, labeled A to F, of a hand working on the servicing valve at the top of a shock strut (drawn horizontal). A: removing the valve cap (step 2 in the text). B: a wrench on the valve's swivel nut (the text refers to 13-25B for depressing the valve core to release trapped air). C: a pointed tool held against the valve core. D: removing the valve core with a valve core removal tool (step 7). E: a wrench unscrewing the whole valve body from the strut. F: the valve body being lifted out, leaving the open port.
 
 [Page 13-13]
 
@@ -265,11 +265,11 @@ The following procedures are typical of those used in deflating a shock strut, s
 
 **Figure 13-26.** Air trapped in shock strut hydraulic fluid is bled by exercising the strut through its full range of motion while the end of an air-tight bleed hose is submerged in a container of hydraulic fluid.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of bleeding a shock strut: a hydraulic fluid bleed hose (red) runs from the top of the strut down into a bucket of fluid, with the hose end submerged. An exerciser jack (labeled) is placed under the strut to compress and extend it.
 
 **Figure 13-27.** This valve tool features internal and external thread chasers, a notched valve core removal/installation tool, and a tapered end for depressing a valve core or clearing debris.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a small metal valve tool with a knurled center: one end has external threads, the other a pointed tip, and the cross-piece has a notched end and an internal-thread end.
 
 [Page 13-14]
 
@@ -298,7 +298,7 @@ As previously mentioned, a torque arm or torque links assembly keeps the lower s
 
 **Figure 13-28.** Wheel alignment on an aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three top-view illustrations of a high-wing airplane with its longitudinal axis (red dashed line) and wheel paths (yellow dashed lines). Left: wheels aligned are parallel to the longitudinal axis of the aircraft. Center: toe-in, wheel paths cross forward of the aircraft. Right: toe-out, wheel paths diverge forward of the aircraft.
 
 [Page 13-15]
 
@@ -308,7 +308,7 @@ The manufacturer's maintenance instructions give the procedure for checking and 
 
 **Figure 13-29.** Finding toe-in and toe-out on a light aircraft with spring steel struts.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of checking toe-in and toe-out on spring steel struts. Each main wheel sits on two aluminum plates with grease between them. A straight edge is laid across the front of both tires, and a carpenter's square is placed against the straight edge and touching the tire of one wheel.
 
 A straight edge is held across the front of the main wheel tires just below axle height. A carpenter's square placed against the straight edge creates a perpendicular that is parallel to the longitudinal axis of the aircraft. Slide the square against the wheel assembly to see if the forward and aft sections of the tire touch the square. A gap in front indicates the wheel is toed-in. A gap in the rear indicates the wheel is toed-out.
 
@@ -316,7 +316,7 @@ A straight edge is held across the front of the main wheel tires just below axle
 
 **Figure 13-30.** Camber of a wheel is the amount the wheel is tilted out of the vertical plain. It can be measured with a bubble protractor.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a main wheel seen from the front, on a spring steel strut. A dashed line marks the "Vertical plain"; dashed arcs show positive camber (wheel top tilted outward) and negative camber (wheel top tilted inward). A bubble protractor is held against the wheel's axle area.
 
 [Page 13-16]
 
@@ -326,11 +326,11 @@ Adjustments can be made to correct small amounts of wheel misalignment. On aircr
 
 **Figure 13-31.** Toe-in and toe-out adjustments on small aircraft with spring steel landing gear are made with shims behind the axle assembly. On shock strut aircraft, the shims are placed where the torque links couple.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of two shim locations. Top: the torque links of a shock strut, between the shock strut cylinder and shock strut piston, labeled "Shim here to adjust tow-in or tow-out". Bottom: a spring steel gear leg with the axle assembly at its lower end, also labeled "Shim here to adjust tow-in or tow-out".
 
 **Figure 13-32.** The trunnion is a fixed structural support that is part of or attached to the upper strut cylinder of a landing gear strut. It contains bearing surfaces so the gear can retract.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration and photograph. Illustration: an aircraft structural member above, trunnion support brackets below it, and the trunnion with its two bearing ends attached across the top of the upper shock strut cylinder. Photograph: a landing gear strut lying on its side, with the trunnion (labeled) forming a Y-shaped fitting at its upper end.
 
 #### Support
 
@@ -338,11 +338,11 @@ Aircraft landing gear are attached to the wing spars or other structural members
 
 **Figure 13-34.** A geared electric motor landing gear retraction system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of an electric gear retraction system in a light aircraft wheel well. A landing gear motor drives a gearbox and retracting mechanism; labeled parts also include the manual control torque tube and manual control gearbox, universal joints, drag struts, trunnion support and shock strut.
 
 **Figure 13-33.** A hinged drag strut holds the trunnion and gear firm for landing and ground operation. It folds at the hinge to allow the gear to retract.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a main gear with two wheels. Labeled parts: trunnion bearing surface at the top of the strut, a two-piece drag strut (shown in red) with a hinge point, and the retracting mechanism attached to the drag strut.
 
 [Page 13-17]
 
@@ -362,11 +362,11 @@ When the flight deck gear selection handle is put in the gear-down position, a s
 
 **Figure 13-35.** A popular light aircraft gear retraction system that uses a hydraulic power pack in the gear down condition.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a hydraulic power pack system with the gear going down, color-coded red for pressure and blue for return. The power pack contains a reservoir, filter, gear-type pump, high-pressure control valve, thermal relief valve, low-pressure control valve, shuttle valve, gear-up check valve and gear-up check valve piston. Pressure lines run to the left and right main-gear actuators and the nose-gear actuator, with arrows showing them moving down. Also shown: a freefall valve with an emergency extend lever, a thermal relief valve, a pressure switch, and restrictors at both ports of the nose-gear actuator.
 
 **Figure 13-36.** A hydraulic power pack gear retraction system in the gear up condition.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* The same power pack schematic as Figure 13-35, with the gear going up: the pressure (red) and return (blue) lines are reversed, and arrows show the left and right main-gear actuators and the nose-gear actuator moving up.
 
 [Page 13-19]
 
@@ -384,7 +384,7 @@ In the system illustrated in Figure 13-37, when the flight deck gear selector is
 
 **Figure 13-37.** A simple large aircraft hydraulic gear retraction system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of a large aircraft hydraulic gear retraction system, with the landing gear selector in the gear-up position (lines to the system pressure manifold and system return manifold). Components: left and right main-gear actuating cylinders, each with an orifice check valve; main-gear sequence valves A and B; left and right gear uplocks and downlocks; two gear-door actuators (arrows marked Close); gear-door sequence valves C and D; and the nose-gear actuator with its nose-gear uplock and downlock. Arrows show the actuators moving up.
 
 [Page 13-21]
 
@@ -406,11 +406,11 @@ In some small aircraft, the design configuration makes emergency extension of th
 
 **Figure 13-38.** These emergency gear extension handles in a Boeing 737 are located under a floor panel on the flight deck. Each handle releases the gear uplock via a cable system so the gear can freefall into the extended position.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a floor compartment opened by lifting the manual extension access door, showing three red T-shaped manual gear extension handles.
 
 **Figure 13-40.** A landing gear safety circuit with solenoid that locks the control handle and selector valve from being able to move into the gear up position when the aircraft is on the ground. The safety switch, or squat switch, is located on the aircraft landing gear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled illustrations. Left, a schematic: a 28V DC bus bar feeds a lock release solenoid through a safety switch to ground; the solenoid's lock-pin passes through the control handle of the landing gear selector valve. Right, a mechanism with FWD arrow: the landing gear control lever with a position switch, a lever-lock and a lever-lock solenoid.
 
 [Page 13-22]
 
@@ -424,7 +424,7 @@ A landing gear squat switch, or safety switch, is found on most aircraft. This i
 
 **Figure 13-39.** Typical landing gear squat switches.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a squat switch (labeled) mounted on a landing gear strut near the torque link hinge, with an inset close-up of a squat switch unit.
 
 The use of proximity sensors for gear position safety switches is common in high-performance aircraft. An electromagnetic sensor returns a different voltage to a gear logic unit depending on the proximity of a conductive target to the switch. No physical contact is made. When the gear is in the designed position, the metallic target is close to the inductor in the sensor which reduces the return voltage. This type of sensing is especially useful in the landing gear environment where switches with moving parts can become contaminated with dirt and moisture from runways and taxi ways. The technician is required to ensure that sensor targets are installed the correct distance away from the sensor. Go–no go gauges are often used to set the distance. [Figure 13-41]
 
@@ -434,7 +434,7 @@ Ground locks are commonly used on aircraft landing gear as extra insurance that 
 
 **Figure 13-41.** Proximity sensors are used instead of contact switches on many landing gear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration and schematic of gear proximity sensors. Top: a lock strut and side strut with a target and primary and secondary downlock sensors on a mounting bracket with sensor leads; a rectangular proximity sensor is shown enlarged, with UP and INBD arrows. Bottom: two sensors (red and blue leads) feed detectors on a proximity card powered from 28V DC. With the target near the output is 0.3V = logic 0; with the target far it is 13V = logic 1; both outputs go to the logic card.
 
 [Page 13-23]
 
@@ -454,7 +454,7 @@ Landing gear position indicators are located on the instrument panel adjacent to
 
 **Figure 13-42.** Gear pin ground lock devices.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a main landing gear with two ground lock pins installed in the gear linkage, each with a red streamer marked REMOVE BEFORE FLIGHT.
 
 [Page 13-24]
 
@@ -466,7 +466,7 @@ Since most aircraft have steerable nose wheel gear assemblies for taxiing, a mea
 
 **Figure 13-43.** Landing gear selector panels with position indicator lights. The Boeing 737 panel illuminates red lights above the green lights when the gear is in transit.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a Boeing 737 landing gear selector panel. Above the panel are indicator lights for NOSE GEAR, LEFT GEAR and RIGHT GEAR: a top row illuminated red and a bottom row illuminated green (related gear down and locked). The landing gear lever moves in a slot marked UP, OFF and DN, with an override trigger at its base. A landing gear limit speed placard reads: LANDING GEAR LIMIT (IAS) OPERATING EXTEND 270—.8M, RETRACT 235K, EXTENDED 320—.82K, FLAPS LIMIT (IAS).
 
 ### Landing Gear System Maintenance
 
@@ -476,7 +476,7 @@ Periodically, it is necessary to inspect shock struts, trunnion and brace assemb
 
 **Figure 13-44.** Typical landing gear indicator lights and lever as found on small aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustrations of two small aircraft panels, each with a wheel-shaped gear lever between GEAR UP and GEAR DOWN, TAXI and LANDING light switches, and a row of round knobs marked 5, 8, 8, 5, 15 and 60. Top panel: one yellow light and one green light beside the lever. Bottom panel: three green lights.
 
 [Page 13-25]
 
@@ -484,7 +484,7 @@ Other landing gear inspection items include checking emergency control handles a
 
 **Figure 13-45.** A cutaway view of a nose gear internal centering cam.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a nose gear strut showing the strut cylinder, the strut piston inside it, and the upper locating cam seated in the lower locating cam.
 
 Various types of lubricant are required to lubricate points of friction and wear on landing gear. Specific products to be used are given by the manufacturer in the maintenance manual. Lubrication may be accomplished by hand or with a grease gun. Follow manufacturer's instructions. Before applying grease to a pressure grease fitting, be sure the fitting is wiped clean of dirt and debris, as well as old hardened grease. Dust and sand mixed with grease produce a very destructive abrasive compound. Wipe off all excess grease while greasing the gear. The piston rods of all exposed strut cylinders and actuating cylinders should be clean at all times.
 
@@ -494,7 +494,7 @@ To lubricate a tapered roller bearing, use a bearing lubrication tool or place a
 
 **Figure 13-46.** Packing grease into a clean, dry bearing can be done by hand in the absence of a bearing grease tool. Press the bearing into the grease on the palm of the hand until it passes completely through the gap between the rollers and the inner race all the way around the bearing.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs of packing a tapered roller bearing by hand. Left: the bearing is pressed into a mound of red grease in the palm of one hand. Right: close-up of the bearing with grease forced through between the rollers.
 
 [Page 13-26]
 
@@ -520,7 +520,7 @@ Landing gear doors have specific allowable clearances between the doors and the 
 
 **Figure 13-47.** An example of a main landing gear door latch mechanism.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a main landing gear door latch mechanism, with a FWD arrow. On the structure above the door: up line, down line, latch cylinder, emergency release cable, sector, uplock switch, aft latch mechanism, forward latch mechanism, cylinder latch, a second sector and the latch hook. On the door: the latch roller. A curved arrow shows the latch roller on the door swinging up to engage the latch hook.
 
 [Page 13-27]
 
@@ -536,11 +536,11 @@ To adjust the over-center position of the side brace locking link, the aircraft 
 
 **Figure 13-48.** Main landing gear door latch roller clearance measurement and adjustment.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled illustrations of a door latch. A. Latch Roller Clearance: the latch cylinder moves a latch hook (shown in the latched position) around the latch roller on the door, with a clearance of 1/8 ± 3/32 inch marked between them. B. Latch Roller Support Adjustment: the latched roller support (serrated) is attached through elongated holes to a serrated plate, so the roller position can be adjusted.
 
 **Figure 13-49.** An adjustable door hinge installation for setting door clearance.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of an adjustable door hinge: an attach bolt passes through a bushing, the hinge support fitting, serrated washers and the fairing door hinge, and is secured with a nut.
 
 [Page 13-28]
 
@@ -566,7 +566,7 @@ The following is a list of general inspection items to be performed while swingi
 
 **Figure 13-50.** Over-center adjustments on a small aircraft main gear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a small aircraft main gear retraction linkage. Top: the landing gear actuator in the center moves push-pull tubes and bellcranks to both gear struts; other labeled parts include door actuators, door arm stops, uplock push-pull tube, uplock, torque tube, side link and side brace lock link. Detail A: a spring scale attached to the side brace lock link, with an adjustable link. Detail B: the side brace joint set .22 ± .03 inches over center.
 
 ### Nose Wheel Steering Systems
 
@@ -578,7 +578,7 @@ Most small aircraft have steering capabilities through the use of a simple syste
 
 **Figure 13-51.** Nose wheel steering on a light aircraft often uses a push-pull rod system connected to the rudder pedals.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a light aircraft nose gear with a rod (labeled "Steering rod from rudder pedal") connected to a horn on the strut above the fork.
 
 #### Large Aircraft
 
@@ -608,11 +608,11 @@ As mentioned above, large aircraft with hydraulic steering hold pressure in the 
 
 **Figure 13-52.** Example of a large aircraft hydraulic nose wheel steering system with hydraulic and mechanical units.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a large aircraft nose wheel steering system. In the flight deck: a steering wheel on a pedestal with a steering drum and a steering emergency release switch. Steering cables run over pulleys to a differential assembly with a differential arm and differential link, which works a metering valve connected to a compensator. Follow-up cables run over pulleys from the differential assembly down to a follow up drum on the nose gear. On the gear: a safety shutoff valve, an orifice rod, centering cams, steering cylinders "A" and "B", the steering spindle with point X, and the gear yoke above two wheels.
 
 **Figure 13-53.** Hydraulic system flow diagram of large aircraft nose wheel steering system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled hydraulic flow diagram of a nose wheel steering system, color-coded red for pressurized fluid and green for return fluid. Fluid from the hydraulic system pressure manifold passes a safety shutoff valve (with poppet and spring, operated by the orifice rod) to the metering valve. The metering valve's port "A" and port "B" feed steering cylinders "A" and "B" on the nose-steering spindle (point "X"); an emergency bypass valve connects the two cylinder lines. Return fluid passes a return port and a compensator to the hydraulic system return manifold.
 
 [Page 13-32]
 
@@ -622,7 +622,7 @@ Aircraft not equipped with hydraulic nose wheel steering utilize an additional e
 
 **Figure 13-54.** Hydraulic system flow diagram of large aircraft nose wheel steering system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled diagrams of two units from the nose wheel steering system. Metering valve: a spool valve with a line from the pressure manifold, lines from cylinder "A" and from cylinder "B", a drilled passage and a return port. Compensator: a housing containing a spring and piston with an air vent at one end and a poppet at the other, connected to the return line and leading to the hydraulic return manifold.
 
 A piston-type shimmy damper may contain a fill port to add fluid or it may be a sealed unit. Regardless, the unit should be checked for leaks regularly. To ensure proper operation, a piston-type hydraulic shimmy damper should be filled to capacity.
 
@@ -632,11 +632,11 @@ A vane-type shimmy damper is sometime used.[Figure 13-56] It uses fluid chambers
 
 **Figure 13-55.** A shimmy damper on the nose strut of a small aircraft. The diagram shows the basic internal arrangement of most shimmy dampers. The damper in the photo is essentially the same except the piston shaft extends through both ends of the damper cylinder body.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph and labeled diagram of a piston-type shimmy damper. Photo: a cylindrical damper mounted on a nose strut. Diagram: a cylinder with a filler plug on top and a piston with a bleed hole, moved by a shaft ending in an eye fitting.
 
 **Figure 13-56.** A typical vane-type shimmy damper.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a vane-type shimmy damper, with an end view of the vanes. Labeled parts: indicator rod connected to replenishing piston, replenishing piston, spring, replenishing chamber, abutment and valve assembly, replenishing check valve, rotating vane, fluid port, filler cap, abutment flange, key, hollow dowel pin, dowel pin, packing spring, wing shaft packing, wing shaft, mounting flange, spring retainer, valve orifice and hydraulic seal. The end view shows chambers marked A and B between the vanes.
 
 [Page 13-33]
 
@@ -654,17 +654,17 @@ Aircraft wheels are an important component of a landing gear system. With tires 
 
 **Figure 13-57.** A non-hydraulic shimmy damper uses a rubber piston with lubricant that dampens via motion against the inner diameter of the unit housing.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a white cylindrical non-hydraulic shimmy damper marked LORD, with its shaft extending from one end and a mounting eye at the other.
 
 [Figures 13-59 and 13-60]
 
 **Figure 13-58.** Removable flange wheels found on older aircraft are either drop center or flat base types.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled cross-section illustrations of removable flange wheels. Drop center wheel: labeled parts include removable flange, snap ring, grease retainer, bearing rollers, fairing disc, fairing retaining screw and the drop center. Flat base wheel: shown as separate parts, a lockring, the removable flange and the wheel casting with its flat base.
 
 **Figure 13-59.** Two-piece split-wheel aircraft wheels found on modern light aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a two-piece split wheel shown apart: the two wheel halves with an O-ring (yellow) between them.
 
 [Page 13-34]
 
@@ -684,7 +684,7 @@ An overinflation safety plug may also be installed in the inner wheel half. This
 
 **Figure 13-60.** Features of a two piece aircraft wheel found on a modern airliner.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustrations of an airliner two-piece wheel. A main gear view (A) leads to an exploded view of the wheel with: inboard wheel half, outboard wheel half, wheel half tie bolts, inflation valve, valve extension, brake rotor key, inner wheel bearing, outer wheel bearing, axle, transducer, brake assembly, tire, wheel balance weight, and a hubcap fairing (outboard wheel only) held by camlocks (8 places). A cross-section shows a thermal plug in the inside wheel half with a heat shield, plug and O-ring. Detail B shows the valve extension assembly: valve, O-ring, bracket and extension.
 
 [Page 13-35]
 
@@ -694,11 +694,11 @@ The outboard wheel half bolts to the inboard wheel half to make up the wheel ass
 
 **Figure 13-61.** Keys on the inner wheel half of an aircraft wheel used to engage and rotate the rotors of a disc brake.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph looking into the inner half of a wheel with the tire mounted, showing the evenly spaced keys around the inside of the wheel rim that drive the brake rotors.
 
 **Figure 13-62.** Heavy use of the aircraft brakes can cause tire air temperature and pressure to rise to a level resulting in explosion of the wheel assembly. To alleviate this, thermal plug(s) mounted in the inner wheel half of a high performance aircraft wheels are made with a fusible core that melts and releases the air from the tire before explosion.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section and photograph of a wheel thermal plug. The cross-section shows a thermal plug threaded into the inside wheel half next to where it joins the outside wheel half, with a heat shield below it. The photo shows a wheel half with the small thermal plug (labeled) in its surface.
 
 [Page 13-36]
 
@@ -724,11 +724,11 @@ Axle nut torque is of extreme importance on an aircraft wheel installation. If t
 
 **Figure 13-64.** Tire beads must be broken from the wheel to remove the tire. A mechanical removal tool designed for breaking the bead is shown in (A); a hydraulic press designed with the capacity for large aircraft wheels is shown in (B); and an arbor press is shown in (C). All are tools available to the technician for this purpose.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three photographs of bead-breaking equipment, labeled A to C. A: a red mechanical bead breaker with a long lever, holding a small tire. B: a large blue hydraulic bead-breaking press with a large aircraft tire and wheel in it. C: a floor-standing arbor press.
 
 **Figure 13-63.** Improper loose torque on the axle nut can cause excessive end play leading to bearing race damage known as scalloping. Eventually, this leads to bearing failure.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a bearing cup raceway with a cluster of small pits along one edge, labeled scalloping.
 
 [Page 13-37]
 
@@ -758,7 +758,7 @@ Clean the wheel halves with the solvent recommended by the wheel manufacturer. U
 
 **Figure 13-65.** Galling is caused by rubbing of mating surfaces. The metal gets so hot it welds, and the surface metal is destroyed as the motion continues and pulls the metal apart in the direction of motion.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Close-up photograph of a bearing roller whose surface is torn and smeared lengthwise, showing galling.
 
 The bearings should be removed from the wheel to be cleaned with the recommended solvent, such as varsol, naptha, or Stoddard® solvent. Soaking the bearings in solvent is acceptable to loosen any dried-on grease. Bearings are brushed clean with a soft bristle brush and dried with compressed air. Never rotate the bearing while drying with compressed air. The high-speed metal to metal contact of the bearing rollers with the race causes heat that damages the metal surfaces. The bearing parts could also cause injury should the bearing come apart. Always avoid steam cleaning of bearings. The surface finish of the metals will be compromised leading to early failure.
 
@@ -768,7 +768,7 @@ Once cleaned, the wheel bearing is inspected. There are many unacceptable condit
 
 **Figure 13-66.** Spalling is a chipped away portion of the hardened surface of a bearing roller or race.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Close-up photograph of tapered roller bearing rollers in their cage, with chipped-out patches in the hardened surfaces of several rollers (spalling).
 
 Common conditions of a bearing that are cause for rejection are as follows:
 
@@ -780,7 +780,7 @@ Overheating—caused by lack of sufficient lubrication results in a bluish tint 
 
 **Figure 13-67.** Overheating caused by lack of sufficient lubrication results in a bluish tint to the metal surface. The ends of the rollers shown were overheated causing the metal to flow and deform, as well as discolor. The bearing cup raceway is usually discolored as well.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of three bearing rollers whose ends are discolored a bronze or bluish tint from overheating.
 
 Brinelling—caused by excessive impact. It appears as indentations in the bearing cup raceways. Any static overload or severe impact can cause true brinelling that leads to vibration and premature bearing failure. [Figure 13-68]
 
@@ -792,7 +792,7 @@ Staining and surface marks—located on the bearing cup as grayish black streaks
 
 **Figure 13-69.** False brinelling is caused by vibration of the bearing while in a static state. Even with a static overload, it can force the lubricant from between the rollers and the raceway. Submicroscopic particles removed at the points of metal-to-metal contact oxidize. They work to remove more particles spreading the damage. This is also known as frictional corrosion. It can be identified by a rusty coloring of the lubricant.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Four illustrated close-ups of false brinelling: marks on the raceway at the spacing of the rollers, with some areas circled and enlarged, and a pitted, scratched raceway surface.
 
 Etching and corrosion—caused when water and the damage caused by water penetrates the surface treatment of the bearing element. It appears as a reddish/brown discoloration.
 
@@ -804,23 +804,23 @@ The bearing cup does not require removal for inspection; however, it must be fir
 
 **Figure 13-70.** Staining and surface marks on the bearing cup that are grayish black streaks with the same spacing as the rollers are caused by water that has gotten into the bearing. It is the first stage of deeper corrosion that will follow.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a bearing cup with grayish-black streaks on the raceway, evenly spaced at the spacing of the rollers.
 
 **Figure 13-68.** Brinelling is caused by excessive impact. It appears as indentations in the bearing cup raceways. Any static overload or severe impact can cause true brinelling, which leads to vibration and premature bearing failure.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Four illustrated close-ups of brinelling: indentations across a bearing cup raceway, with one dent circled and enlarged.
 
 **Figure 13-71.** Etching and corrosion is caused when water, and the damage caused by water, penetrates the surface treatment of the bearing element. It appears as a reddish/brown discoloration.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a bearing cup and rollers covered with brownish streaks and discoloration from etching and corrosion.
 
 **Figure 13-72.** Bruising is caused by fine particle contamination possibly from a bad seal or improper maintenance of bearing cleanliness. It leaves a less than smooth surface on the bearing cup.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a bearing cup raceway with a dull surface covered in small marks and pits (bruising).
 
 **Figure 13-73.** Bearing cups should be tight in the wheel boss and should never rotate. The outside of a bearing cup that was spinning while installed in the wheel is shown.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of the outside of a bearing cup, with scored and worn bands around its outer surface from spinning in the wheel boss.
 
 [Page 13-40]
 
@@ -836,13 +836,13 @@ A thorough visual inspection of each wheel half should be conducted for discrepa
 
 **Figure 13-74.** A pressure bearing lubricating tool.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration and photograph of a pressure bearing lubricating tool. The illustration shows a grease gun connected by a hose to a cone-shaped fitting pressed onto a bearing. The photo shows a tapered roller bearing held between two white cone-shaped halves on a threaded shaft with a grease fitting on top.
 
 In addition to corrosion, cracks in certain areas of the wheel are particularly prevalent. One such area is the bead seat area. [Figure 13-75] The high stress of landing is transferred to the wheel by the tire in this contact area. Hard landings produce distortion or cracks that are very difficult to detect. This is a concern on all wheels and is most problematic in high-pressure, forged wheels. Dye penetrant inspection is generally ineffective when checking for cracks in the bead area. There is a tendency for cracks to close up tightly once the tire is dismounted, and the stress is removed from the metal. Eddy current inspection of the bead seat area is required. Follow the wheel manufacturer's instruction when performing the eddy current check.
 
 **Figure 13-75.** The bead seat areas of a light aircraft wheel set. Eddy current testing for cracks in the bead seat area is common.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of the two halves of a light aircraft wheel lying apart, with arrows pointing to the bead seat area around the rim of each half.
 
 [Page 13-41]
 
@@ -856,7 +856,7 @@ Wheel half tie bolts are under great stress while in service and require inspect
 
 **Figure 13-76.** Inspection for cracks in the wheel disc drive key area is performed with dye penetrant on many wheels.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a drive key bolted to the inside of a wheel rim, with fine cracks drawn in the wheel next to the key.
 
 ###### Key & Key Screw Inspection
 
@@ -872,11 +872,11 @@ The balance of an aircraft wheel assembly is important. When manufactured, each 
 
 **Figure 13-77.** Visually inspect the core of a thermal or fusible plug for deformation associated with heat exposure. Replace all of the plugs if any appear to have begun to deform.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a fusible (thermal) plug threaded into a wheel, with a pointed probe touching the center of the plug's core.
 
 **Figure 13-78.** Two piece aircraft wheels are statically balanced when manufactured and may include weights attached to each wheel half that must stay with the wheel during its entire serviceable life.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of the joined outboard wheel half and inboard wheel half, with balance weights bolted to the web of each half.
 
 [Page 13-42]
 
@@ -900,21 +900,21 @@ A floating disc brake is illustrated in Figure 13-79. A more detailed, exploded 
 
 **Figure 13-80.** An exploded view of a single-disc brake assembly found on a light aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a single-disc brake: brake disc, lining pucks, brake housing, cylinder head, O-ring packing and O-ring gasket, pistons, adjusting pin, adjusting pin nut, pin grip, spring guide, brake return spring, internal retainer ring, bleed valve, bleed screw, bleeder adapter, washers, gaskets, screw and fluid inlet bushing.
 
 The brake disc is keyed to the wheel. It is free to move laterally in the key slots. This is known as a floating disc. When the brakes are applied, the pistons move out from the outboard cylinders and their pucks contact the disc. The disc slides slightly in the key slots until the inboard stationary pucks also contact the disc. The result is a fairly even amount of friction applied to each side of the disc and thus, the rotating motion is slowed.
 
 **Figure 13-79.** A single disc brake is a floating-disc, fixed caliper brake.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a light aircraft main wheel with a single brake disc attached to the wheel and a brake caliper straddling the disc, with its hydraulic line.
 
 **Figure 13-81.** A cross-sectional view of a Goodyear single-disc brake caliper illustrates the adjusting pin assembly that doubles as a wear indicator.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a Goodyear single-disc brake caliper and wheel. Labeled parts: fluid inlet port, piston, return spring, automatic adjusting pin or wear indicator pin, adjusting pin grip, brake housing, the disk keyed to the wheel (key), and the pressure plate lining puck and backing plate lining puck on either side of the disk.
 
 **Figure 13-82.** A Cleveland brake on a light aircraft is a fixed-disc brake. It allows the brake caliper to move laterally on anchor bolts to deliver even pressure to each side of the brake disc.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph and illustration of a Cleveland brake. Photo: the caliper on a red gear leg with the brake lining against the fixed disc. Illustration: the cylinder assembly, pressure plate and torque plate on the wheel.
 
 [Page 13-44]
 
@@ -936,11 +936,11 @@ Maintenance requirements on all single disc brake systems are similar to those o
 
 **Figure 13-83.** An exploded view of a dual-piston Cleveland brake assembly.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a dual-piston Cleveland brake: cylinder assembly with two pistons, pressure plate, pressure plate lining, backplate lining, rivets (8), backplate, torque plate, bushings and anchor bolts (2).
 
 **Figure 13-84.** A dual-disc brake is similar to a single-disc brake. It uses a center carrier to hold brake linings against each of the discs.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a dual-disc brake: housing assembly, bleeder screw, washer, spring, self-adjusting pin, piston, two brake discs, a center carrier between them, four brake linings, the housing back plate and the wheel axle.
 
 [Page 13-46]
 
@@ -960,13 +960,13 @@ The large amount of heat generated while slowing the rotation of the wheels on l
 
 **Figure 13-85.** A multiple disc brake with bearing carrier upon which the parts of the brake are assembled including an annular cylinder and piston assembly that apply pressure evenly to a stack of rotors and stators.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a multiple disc brake, parts in order: automatic adjuster, O-ring, bleeder valve (typical), bearing carrier and sleeve, retractor spring assembly (typical 10 places), felt wiper rings, O-ring, backup ring, annular piston, retractor plate, nut (typical 10 places), flinger ring, bearing retaining nut, snap ring, pressure plate and insulator, alternating rotors and stators (four rotors, three stators), backup plate, backup plate retainer and locking piece.
 
 The description of a segmented rotor brake is very similar to the multiple-disc type brake previously described. The brake assembly consists of a carrier, a piston and piston cup seal, a pressure plate, an auxiliary stator plate, rotor segments, stator plates, automatic adjusters, and a backing plate.
 
 **Figure 13-86.** A multiple-disc brake with details of the automatic adjuster.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a multiple-disc brake on a landing gear strut, color-coded for brake pressure, return, and pressure due to retracting springs. Labeled parts: rotors (typical four places), stators (typical three places), pressure plate, backup plate retainer, retracting plate, retracting springs (ten each), annular piston, packing, retainer, valve stem, automatic adjuster, felt wiper, wheel bearings, bearing retaining nut, and the line to the shuttle valve. Two details of the automatic adjuster, with its compensator piston and check valve, show the flow when the brake is applied and when it is released.
 
 [Page 13-47]
 
@@ -980,11 +980,11 @@ Any number of alternating rotors and stators are sandwiched under hydraulic pres
 
 **Figure 13-87.** Exploded and detail views of segmented rotor brakes.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a segmented rotor brake on its axle. Parts in order: carrier assembly with piston, piston cup, piston return spring, adjuster pin, adjuster pin nut, adjuster pin sleeve, adjuster clamp and brake assembly pin; pressure plate; then alternating rotor assemblies and stator plates; and the backing plate. Also labeled: torque tube, stator drive sleeve, drive sleeve bolts and brake lining disk (typical).
 
 **Figure 13-88.** Many modern segmented rotor disc brakes use a housing machined to fit numerous individual actuating pistons.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a segmented rotor disc brake whose housing holds a ring of many individual actuating pistons, with hydraulic lines attached.
 
 Stators are flat plates notched on the internal circumference to be held stationary by the torque tube spines. They have wearable brake lining material riveted or adhered to each side to make contact with adjacent rotors. The liner is typically constructed of numerous isolated blocks. [Figure 13-87] The space between the liner blocks aids in the dissipation of heat. The composition of the lining materials vary. Steel is often used.
 
@@ -1016,7 +1016,7 @@ Expander tube brakes work well but have some drawbacks.
 
 **Figure 13-89.** The multiple-disc brake assembly and details from a Boeing 737.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of a Boeing 737 multiple-disc brake. Labeled parts: carrier, pressure port, bleeder valves, pressure cylinder (6 places), piston (6 places), pressure plate, return spring, rotor (3 places), stator (4 places), lining block (14 places) surface, rivet (typical), torque tube, torque tube backing plate, mounting flange, reverse bleed or drain plug, reline indicator pin (2 places) and automatic adjuster assembly (4 places). Detail A shows the automatic adjuster: retaining ring, recessed washer, adjuster ball, carrier, tube, return spring, housing, adjuster pin, sleeve nut, keywasher, pin retainer and pressure plate. Detail B shows the reline indicator pin through the carrier, with its retaining pin, retainer and rivet, and the exposed pin length marked L.
 
 [Page 13-50]
 
@@ -1028,11 +1028,11 @@ The various brake assemblies, described in the previous section, all use hydraul
 
 **Figure 13-90.** A carbon brake for a Boeing 737.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a Boeing 737 carbon brake: a round housing with six large piston caps around a central bore, and a thick stack of carbon discs behind it.
 
 **Figure 13-91.** An expander tube brake assembly.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of an assembled expander tube brake: brake blocks around the outside held by torque bars and torque bar bolts in a frame, with a brake frame bolt, an adjuster, and the brake spider in the center.
 
 [Page 13-51]
 
@@ -1058,19 +1058,19 @@ The forward side of the piston head contains a seal that closes off the compensa
 
 **Figure 13-92.** An exploded view of an expander tube brake.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of an expander tube brake: two frames, the expander tube with its nozzle, brake blocks, torque bars, return springs, return spring shields, tube shield, torque flange, torque bar bolts, brake frame bolts, adjuster and adjuster bolt.
 
 **Figure 13-93.** Master cylinders on an independent brake system are directly connected to the rudder pedals or are connected through mechanical linkage.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of four rudder pedals on their mounting tubes, with two brake master cylinders (blue) connected to the pedals.
 
 **Figure 13-95.** A Goodyear brake master cylinder from an independent braking system with a remote reservoir.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a master cylinder: piston rod with a protective boot, seals, piston with piston head ports, return spring, inlet from reservoir, compensating port, and outlet to brake.
 
 **Figure 13-94.** A remote reservoir services both master cylinders on some independent braking systems.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled diagram of an independent brake system: two brake pedals each push a master cylinder, both supplied from one reservoir. Lines from the master cylinders pass through parking brake valves (operated by a single control handle) to the left brake assembly and right brake assembly on the main wheels.
 
 [Page 13-53]
 
@@ -1084,7 +1084,7 @@ The parking brake mechanism is a ratcheting type that operates as described. A s
 
 **Figure 13-96.** A common master cylinder with built-in reservoir is shown. Illustration A depicts the master cylinder when the brakes are off. The compensating port is open to allow fluid to expand into the reservoir should temperature increase. In B, the brakes are applied. The piston rod-end seal covers the compensating port as it contacts the piston head.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled cross-sections of a master cylinder with built-in reservoir. A (brakes off): the compensator port is open between the reservoir (blue) and the cylinder. B (brakes applied, arrow pushing the piston rod down): the piston rod has moved the compensator sleeve and O-ring and washer to close the port, and the fluid below is under pressure (red).
 
 [Page 13-54]
 
@@ -1096,7 +1096,7 @@ A boosted brake master cylinder for each brake is mechanically attached to the r
 
 **Figure 13-97.** A master cylinder for a boosted brake system augments foot pedal pressure with aircraft system hydraulic pressure during heavy braking.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a boosted brake master cylinder: a toggle above a spool valve, with lines to the system return manifold and from the system pressure manifold; a poppet, piston, compensator port, the outlet to the brake wheel cylinder, and the piston rod to the brake pedal, with an arrow marked Brakes on.
 
 When the brakes are applied, the pressure from the pilot's foot through the mechanical linkage moves the master cylinder piston in the direction to force fluid to the brakes. The initial movement closes the compensator poppet used to provide thermal expansion relief when the brakes are not applied. As the pilot pushes harder on the pedal, a spring-loaded toggle moves a spool valve in the cylinder. Aircraft hydraulic system pressure flows through the valve to the back side of the piston. Pressure is increased, as is the force developed to apply the brakes.
 
@@ -1104,7 +1104,7 @@ When the pedal is released, the piston rod travels in the opposite direction, an
 
 **Figure 13-98.** The orientation of components in a basic power brake system is shown in A. The general layout of an airliner power brake system is shown in B.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled diagrams of power brake systems, color-coded for accumulator air pressure, return and hydraulic pressure. A: pilot's pedals linked to a normal brake metering valve and an alternate brake metering valve, with autobrake pressure control, shuttle valves, normal anti-skid valves, alternate antiskid valve and fuses in the lines to the main wheels. B: hydraulic system pressure passes a brake check valve to a brake accumulator and the power brake control valves, then antiskid control valves and shuttle valves to the brake assemblies; an emergency brake valve and emergency IR cylinder feed the shuttle valves through an air/oil transfer tube.
 
 [Page 13-55]
 
@@ -1114,7 +1114,7 @@ Large and high-performance aircraft are equipped with power brakes to slow, stop
 
 **Figure 13-99.** A brake metering valve from a Boeing 737. A machined slide or spool moves laterally to admit the correct amount of hydraulic system fluid to the brakes. The pressure developed is in proportion to the amount the rudder/brake pedal is depressed and the amount the slide is displaced. The slide/spool also simultaneously controls the return of fluid to the hydraulic system return manifold when brake pressure is released.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a Boeing 737 brake metering valve. "A" system pressure and "B" system pressure enter a valve body containing two brake metering valve slides in sleeves, with compensating chambers, springseats and return springs. Ports lead to the inboard brake, the outboard brake and return. A brake input shaft with a crank and crank stop moves the slides through a link assembly; an autobrake piston also acts on the linkage.
 
 [Page 13-56]
 
@@ -1130,7 +1130,7 @@ A brake metering valve from a Boeing 737 is illustrated in Figure 13-99. The sys
 
 **Figure 13-100.** The power brake system on a Boeing 737.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of the Boeing 737 brake system, color-coded for system return, system pressure and brake pressure. Shown: "A" and "B" system pressure lines with a ground interconnect valve; system "A" and system "B" solenoid valves; an accumulator with transmitter and gauge; a charging valve; brake valve feel augmentation actuator; main landing gear "UP" line and automatic wheel snubbing; two brake metering valves; parking brake shutoff valve; shuttle valves; four antiskid valves; and the inboard and outboard wheels of the left and right gear, with pressure comparators, swivels and sealing disconnect fittings.
 
 [Page 13-57]
 
@@ -1152,7 +1152,7 @@ Note: In the segmented rotor brake section above, a brake assembly was described
 
 **Figure 13-101.** The power brake system on a Boeing 737.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a valve with a brake metering valve shaft, crank arm, roller and piston at the left, and a piston assembly, bleed port, spring-loaded check valve, slide assembly, pressure regulator and spring at the right. Ports are marked Port No. 1 brake pressure, Port No. 2 to return and Port No. 3 system "A" pressure.
 
 In addition to supply system redundancy, the brake accumulator is also an emergency source of power for the brakes in many power brake systems. The accumulator is pre-charged with air or nitrogen on one side of its internal diaphragm. Enough hydraulic fluid is contained on the other side of the diaphragm to operate the brakes in case of an emergency. It is forced out of the accumulator into the brakes through the system lines under enough stored pressure to slow the aircraft. Typically, the accumulator is located upstream of the brake control/metering valve to capitalize on the control given by the valve. [Figure 13-102]
 
@@ -1164,7 +1164,7 @@ The parking brake system function is a combined operation. The brakes are applie
 
 **Figure 13-102.** Emergency brake hydraulic fluid accumulators are precharged with nitrogen to deliver brake fluid to the brakes in the event normal and alternate hydraulic sources fail.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration and photograph of 737 brake accumulators. Illustration: the System A and System B brake accumulators in the main wheel well area, with the brake pressure gauge and accumulator air charging valve, and UP and FWD arrows. Photo: a brake accumulator with its nitrogen charging valve and accumulator pre-charge pressure gauge.
 
 [Page 13-59]
 
@@ -1178,7 +1178,7 @@ Pressure = Force/Area
 
 **Figure 13-103.** The parking brake lever on a Boeing 737 center pedestal throttle quadrant.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a Boeing 737 center pedestal with the two thrust levers, and the parking brake lever (labeled) to the left of the flap lever, with a red parking brake light beside it.
 
 High-pressure hydraulic system input pressure acts on the small end of a piston. This develops a force proportional to the area of the piston head. The other end of the piston is larger and housed in a separate cylinder. The force from the smaller piston head is transferred to the larger area of the other end of the piston. The amount of pressure conveyed by the larger end of the piston is reduced due to the greater area over which the force is spread. The volume of output fluid increases since a larger piston and cylinder are used. The reduced pressure is delivered to the brake assembly.
 
@@ -1188,7 +1188,7 @@ A lock-out debooster functions as a debooster and a hydraulic fuse. If fluid is 
 
 **Figure 13-104.** The location of a brake debooster cylinder on a landing gear strut and the debooster's position in relation to other components of a power brake system.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration and diagram, color-coded for air pressure, hydraulic pressure, deboost pressure and hydraulic return. Left: a brake debooster mounted on a main landing gear strut. Right: hydraulic system pressure passes a brake check valve and brake accumulator to the power brake control valves, then antiskid control valves, deboosters and shuttle valves to the brake assemblies; an emergency brake valve and emergency IR cylinder connect through an air/oil transfer tube.
 
 [Page 13-60]
 
@@ -1206,7 +1206,7 @@ There are various designs of anti-skid systems. Most contain three main types of
 
 **Figure 13-105.** Brake deboosters.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of a brake debooster. System pressure (red) of 1,500 psi from the power brake control valve acts on a small piston of 1 square inch area. That piston moves a larger piston of 5 square inch area, which delivers deboost pressure (blue) of 300 psi to the brake cylinders. The chamber between the pistons is vented.
 
 [Page 13-61]
 
@@ -1216,7 +1216,7 @@ Wheel speed sensors are transducers. They may be alternating current (AC) or dir
 
 **Figure 13-106.** Anti-skid switches in the flight deck.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a flight deck anti-skid panel: two ANTI SKID INOP lights; ANTISKID INBD and OUTBD switches, each ON or OFF; an AUTO BRAKE selector with OFF, MIN, MED and MAX positions; and an INOP light.
 
 ##### Control Units
 
@@ -1226,15 +1226,15 @@ The Boeing anti-skid control valve block diagram in Figure 13-110 gives further 
 
 **Figure 13-107.** A wheel sensor (left), a control unit (center), and a control valve (right) are components of an anti-skid system. A sensor is located on each wheel equipped with a brake assembly. An anti-skid control valve for each brake assembly is controlled from a single central control unit.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustrations of three anti-skid components side by side: a wheel sensor (a small cylindrical unit), a control unit (a box with two connectors) and a control valve.
 
 **Figure 13-108.** The stator of an anti-skid wheel sensor is mounted in the axle, and the rotor is coupled to the wheel hub spider that rotates with the wheel.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a wheel speed sensor in a main wheel: the transducer with its electrical connector fits in the axle, held by a lockring and transducer adapter with a transducer alignment rivet; a drive coupling connects it to the spider in the hubcap assembly, which is covered by a hubcap fairing. The wheel is also labeled.
 
 **Figure 13-109.** A rack mounted anti-skid control unit from an airliner.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a black rack-mounted anti-skid control unit. The front panel has wheel position markings 1 and 2 (L) and 3 and 4 (R), a test selector knob with positions including NORM, 1 to 4, A/B, INBD and OUTBD, ENABLE/VERIFY and VERIFY buttons, PRESS/TEST and RESET buttons, and a BIT switch.
 
 [Page 13-62]
 
@@ -1244,7 +1244,7 @@ The error output voltage from the comparator feeds the pressure bias modulator c
 
 **Figure 13-110.** A Boeing 737 anti-skid control unit internal block diagram.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Block diagram of one wheel card (left inboard) in a Boeing 737 anti-skid control unit. The transducer feeds a converter. The converter feeds the deceleration reference and velocity reference, the velocity comparator, the spoiler control, the locked wheel comparator (linked to the right inboard lock wheel comparator) and the locked wheel circuit. The velocity comparator feeds the lead, transient control and pressure bias modulator circuits, which all feed the summing amplifier. The summing amplifier and the locked wheel circuit feed the valve driver, which drives the valve.
 
 [Page 13-63]
 
@@ -1256,7 +1256,7 @@ As pressure is adjusted to the brakes, deceleration slows to within the range th
 
 **Figure 13-111.** An anti-skid control valve uses a torque motor controlled flapper in the first stage of the valve to adjust pressure on a spool in the second stage of the valve to build or relieve pressure to the brake.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of an anti-skid control valve. In the first stage, a torque motor moves a flapper between two nozzles. Below, the second stage valve spool, with a bias spring at one end, controls ports marked pressure, brake and return; a check valve is in the pressure passage.
 
 [Page 13-64]
 
@@ -1266,7 +1266,7 @@ It is essential that the brakes are not applied when the aircraft contacts the r
 
 **Figure 13-112.** Two anti-skid control valves with associated plumbing and wiring.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of two anti-skid control valves mounted on a structure, with hydraulic tubing and electrical connectors attached.
 
 Locked wheel protection recognizes if a wheel is not rotating. When this occurs, the anti-skid control valve is signaled to fully open. Some aircraft anti-skid control logic, such as the Boeing 737 shown in Figure 13-111, expands the locked wheel function. Comparator circuitry is used to relieve pressure when one wheel of a paired group of wheels rotates 25 percent slower than the other. Inboard and outboard pairs are used because if one of the pair is rotating at a certain speed, so should the other. If it is not, a skid is beginning or has occurred.
 
@@ -1278,7 +1278,7 @@ Aircraft equipped with auto brakes typically bypass the brake control valves or 
 
 **Figure 13-113.** The Boeing 757 normal brake system with auto brake and anti-skid.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Schematic of the Boeing 757 normal brake system with auto brake and anti-skid. Brake pedals connect to left and right metering valves; a Park Brake handle works the park brake valve. An AUTO BRAKE selector (Disarm, OFF, 1 to 4, Max Auto) controls the auto brake valve, fed by the right hydraulic system. Also shown: a brake pressure gauge, accumulator, accumulator isolation valve, alternate brake pressure, and anti-skid valves for the four main wheels on each side, with an anti-skid return. An anti-skid controller, with an ON/OFF switch and an anti-skid indicator, takes inputs from the wheels and controls the anti-skid valves.
 
 [Page 13-65]
 
@@ -1332,7 +1332,7 @@ On many other brake assemblies, lining wear is not measured via a wear pin. The 
 
 **Figure 13-114.** Brake lining wear on a Goodyear brake is ascertained by measuring the wear pin of the automatic adjuster.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a hand holding a measuring tool against the automatic adjuster wear pin on a Goodyear brake housing.
 
 [Page 13-67]
 
@@ -1342,15 +1342,15 @@ Multiple disc brakes typically are checked for lining wear by applying the brake
 
 **Figure 13-115.** The distance between the brake disc and the brake housing measured with the brakes applied is a means for determining brake lining wear on some brakes.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a brake caliper with the brakes applied: the gap between the housing and the disk is marked "Measure lining wear here".
 
 **Figure 13-116.** A #40 twist drill laid next to the brake lining indicates when the lining needs to be changed on a Cleveland brake.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a brake lining on its backing, with a #40 twist drill (0.098 inches in diameter) laid next to it as a visual reference.
 
 **Figure 13-117.** The distance between the brake housing and the pressure plate indicates lining wear on some multiple disc brakes.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a multiple disc brake with a gauge measuring the distance between the brake housing and the pressure plate.
 
 ##### Air in the Brake System
 
@@ -1366,17 +1366,17 @@ The typical pressure bleed is accomplished as illustrated in Figure 13-119. The 
 
 **Figure 13-119.** Arrangement for bottom-up pressure bleeding of aircraft brakes. Fluid is pushed through the system until no air bubbles are visible in the hose at the top.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of bottom-up pressure bleeding: a pressure pot is connected to the brake on the main wheel. Arrows show fluid flowing up through the brake line, the master cylinder and the brake reservoir, then out through a clear hose into a container of fluid.
 
 Brakes with master cylinders may also be gravity bled from the top down. This is a process similar to that used on automobiles. [Figure 13-120] Additional fluid is supplied to the aircraft brake reservoir so that the quantity does not exhaust while bleeding, which would cause the reintroduction of more air into the system. A clear hose is connected to the bleed port on the brake assembly. The other end is submersed in clean fluid in a container large enough to capture fluid expelled during the bleeding process. Depress the brake pedal and open the brake assembly bleed port. The piston in the master cylinder travels all the way to the end of the cylinder forcing air fluid mixture out of the bleed hose and into the container. With the pedal still depressed, close the bleed port. Pump the brake pedal to introduce more fluid from the reservoir ahead of the piston in the master cylinder. Hold the pedal down and open the bleed port on the brake assembly. More fluid and air is expelled through the hose into the container. Repeat this process until the fluid exiting the brake through the hose no longer contains any air. Tighten the bleed port fitting and ensure the reservoir is filled to the proper level.
 
 **Figure 13-118.** A typical brake bleeder pot or tank contains pure brake fluid under pressure. It pushes the fluid through the brake system to displace any air that may be present.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of a brake bleeder pot: a round tank on a stand with a pressure gauge, filler plug and air valve, and a yellow hose ending in either a D-rigid nozzle or a flexible nozzle.
 
 **Figure 13-120.** Arrangement for top down or gravity bleeding of aircraft brakes.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled illustration of top-down (gravity) bleeding: a squeeze bulb on the brake reservoir, fluid flowing down through the master cylinder to the brake on the main wheel, and a clear hose from the brake bleed port into a container of fluid.
 
 [Page 13-69]
 
@@ -1418,7 +1418,7 @@ All bolts and threaded connections are inspected. They should be in good conditi
 
 **Figure 13-121.** The cause of all aircraft brake leaks must be investigated, repaired, and tested before releasing the aircraft for flight.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a light aircraft main wheel fairing under the wing, with a dark pool of leaked fluid on the ramp below the wheel.
 
 ###### Discs
 
@@ -1468,11 +1468,11 @@ The popular Cleveland brake uniquely features the ability to change the brake li
 
 **Figure 13-122.** Back-up rings are used to keep O-rings from extruding into the space between the piston and the cylinder. They are positioned on the side of the O-ring away from the fluid pressure.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a piston in a housing, with an O-ring in the piston groove and a backup ring on the side of the O-ring away from the fluid pressure.
 
 **Figure 13-123.** Goodyear brake lining replacement requires that the wheel be removed from the axle to access the brake assembly. The lining pucks slip into recesses in the brake housing.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a Goodyear brake beside the assembled caliper on its brake disc. Parts in order: anti-rattle clip, backing plate lining puck, disc, pressure plate lining puck, pressure plate, housing, piston, O-rings, cylinder head and retaining ring.
 
 [Page 13-72]
 
@@ -1496,11 +1496,11 @@ A brake may drag when the return mechanism is not functioning properly. This cou
 
 **Figure 13-124.** A Cleveland brake disassembles once the four bolts holding the cylinder to the backplate are removed while the aircraft wheel remains in place. The pressure plate slides off the anchor bolts and linings can be replaced by riveting on the pressure plate and back plate.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled exploded illustration of a Cleveland brake: cylinder assembly with cylinder housing to back plate bolts (4 each), pressure plate with pressure plate lining, rivets (8), backplate lining, backplate, torque plate with bushings, and anchor bolts (2).
 
 **Figure 13-125.** Rivet setting tool is used to install brake linings on Cleveland brake pressure plates and back plates.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a bench-mounted rivet setting tool: a C-shaped cast frame with a screw-driven punch and a red T-handle, with two interchangeable anvil and punch pieces beside it.
 
 [Page 13-73]
 
@@ -1534,15 +1534,15 @@ Type VIII aircraft tires are also known as three-part nomenclature tires. [Figur
 
 **Figure 13-126.** Type III aircraft tires are identified via a two-number system with a (-) separating the numbers. The first number is the tire section width in inches. The second number is the rim diameter in inches. For example: 6.00 – 6 is a Cessna 172 tire that is 6.00 inches wide and fits on a rim that has a diameter of 6 inches.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of a tire on its rim, with dimension lines for the section width (the tire's width) and the rim diameter.
 
 **Figure 13-127.** A Type VII aircraft tire is identified by its two-number designation. The first number represents the tire's overall diameter in inches and the second number represents the section width in inches. Type VII designators separate the first and second number an "X." For example: 26 X 6.6 identifies a tire that is 26 inches in diameter with a 6.6-inch nominal width.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of a tire on its rim, with dimension lines for the section width and the nominal outside diameter.
 
 **Figure 13-128.** A Type VIII or three-part nomenclature tire is identified by 3 parameters: overall diameter, section width, and rim diameter. They are arranged in that order with the first two separated by an "X" and the second two separated by a "–." For example: 18 X 4.25—10 designates a tire that is 18 inches in diameter with a 4.25-inch section width to be mounted on a 10-inch wheel rim.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cross-section of a tire with dimension lines for the section width, nominal outside diameter and rim diameter, above a photo of a tire sidewall marked "18x4.25—10" and a load rating of 2300 LBS.
 
 [Page 13-75]
 
@@ -1566,7 +1566,7 @@ Some modern aircraft tires are radial tires. The plies in radial tires are laid 
 
 **Figure 13-129.** A bias ply tire has the fabric bias oriented with and across the direction of rotation and the sidewall. Since fabric can stretch on the bias, the tire is flexible, and can absorb loads. Strength is obtained by adding plies.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cutaway illustration of a bias ply tire, showing the layered plies running diagonally from bead to bead under the tread.
 
 [Page 13-76]
 
@@ -1582,7 +1582,7 @@ The tire bead is an important part of an aircraft tire. It anchors the tire carc
 
 **Figure 13-130.** A radial tire has the fiber strands of the ply fabric oriented with and at 90° to the direction of rotation and the tire sidewall. This restricts flexibility directionally and the flexibility of the sidewall while it strengthens the tire to carry heavy loads.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Cutaway illustration of a radial tire, showing plies running straight across from bead to bead, with belt layers under the tread.
 
 They are typically made from high-strength carbon steel wire bundles encased in rubber. One, two, or three bead bundles may be found on each side of the tire depending on its size and the load it is designed to handle. Radial tires have a single bead bundle on each side of the tire. The bead transfers the impact loads and deflection forces to the wheel rim. The bead toe is closest to the tire centerline and the bead heel fit against the flange of the wheel rim.
 
@@ -1600,11 +1600,11 @@ The tread is the crown area of the tire designed to come in contact with the gro
 
 **Figure 13-132.** Aircraft tire treads are designed for different uses. A is a rib tread designed for use on paved surfaces. It is the most common aircraft tire tread design. B is a diamond tread designed for unpaved runways. C is an all weather tread that combines a ribbed center tread with a diamond tread pattern of the edges. D is a smooth tread tire found on older, slow aircraft without brakes designed for stopping. E is a chine tire used on the nose gear of aircraft with fuselage mounted jet engines to deflect runway water away from the engine intake(s).
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Five tires labeled A to E: A, a rib tread with straight grooves around the tire; B, a diamond tread; C, ribs in the center with a diamond pattern at the edges; D, a smooth tread; E, a ribbed tire with a chine (a raised deflector) on the sidewall.
 
 **Figure 13-131.** Construction nomenclature of an aircraft tire.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cutaway illustration of tire construction. Labeled parts: tread, sidewalls, breakers, buff line cushion, tread reinforcing ply, carcass plies or casing plies (also labeled "Caroass plies"), inner liner, chafers, ply turn ups, flippers, apex strip, wire beads, bead heel and bead toe.
 
 [Page 13-77]
 
@@ -1614,7 +1614,7 @@ The tread is designed to stabilize the aircraft on the operating surface and wea
 
 **Figure 13-133.** A sidewall vent marked by a colored dot must be kept free from obstruction to allow trapped air or nitrogen to escape from the carcass plies of the tire.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a tire sidewall marked "26x10.0-11", "S70" and "MADE IN U.S.A.", with a small colored dot marking the sidewall vent.
 
 [Page 13-78]
 
@@ -1646,7 +1646,7 @@ Tire pressure should be measured at ambient temperature. Fluctuations of ambient
 
 **Figure 13-134.** A calibrated bourdon tube dial-type pressure gauge or a digital pressure gauge is recommended for checking tire pressure.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustrations of two tire pressure gauges: a digital gauge reading 110.8 PSI with ON, ZERO, UNITS and P/V buttons, and a dial-type gauge graduated from 0 to 200 psi.
 
 [Page 13-79]
 
@@ -1668,15 +1668,15 @@ Asymmetrical tread wear may be caused by the wheels being out of alignment. Foll
 
 **Figure 13-135.** Tires that are overinflated lack adherence to the runway and develop excess tread wear in the center of the tread. Tires that are underinflated develop excess tread wear on the tire shoulders. Overheating resulting in internal carcass damage and potential failure are possible from flexing the tire beyond design limits.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Four labeled cross-sections of worn tread. Tread wear on an overinflated bias tire and on an overinflated radial tire: worn in the center of the tread. Tread wear on an underinflated bias tire and on an underinflated radial tire: worn on the shoulders. The bias tire sections label the tread reinforcing plies and casing outer ply; the radial sections label the protector ply, belt plies (printed "Bolt plies") and casing outer ply.
 
 **Figure 13-136.** Normal tire wear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled cross-sections showing normal tread wear on a bias tire (tread reinforcing plies and casing outer ply labeled) and on a radial tire (protector ply, "Bolt plies" and casing outer ply labeled), with the tread worn evenly across.
 
 **Figure 13-137.** Tread wear on a bias ply tire (left) and a radial tire (right) show wear beyond limits of serviceability but still eligible to be retreaded.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two labeled cross-sections of a bias ply tire (left) and a radial tire (right) with the tread grooves worn away in places, but the tread reinforcing plies and protector ply not exposed.
 
 [Page 13-81]
 
@@ -1684,7 +1684,7 @@ Removal of a tire before it is worn beyond limits to be eligible for retreading 
 
 **Figure 13-138.** Marking of damaged area to enable closer inspection.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a screw head embedded in a tire tread, circled in chalk with the letters FOD written beside it.
 
 ###### Tread Damage
 
@@ -1692,15 +1692,15 @@ In addition to tread wear, an aircraft tire should be inspected for damage. Cuts
 
 **Figure 13-139.** Deflate a tire before removing or probing any area where a foreign object is lodged.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a hand probing a small cut in a tire tread with a thin pointed tool.
 
 **Figure 13-140.** Remove an aircraft tire from service when the depth of a cut exposes the casing outer plies of a bias ply tire or the outer belt layer of a radial tire (A); a tread rib has been severed across the entire width (B); or, when undercutting occurs at the base of any cut (C). These conditions may lead to a peeled rib.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-sections of a bias ply tire and a radial tire with cuts marked A (a cut deep enough to expose the casing outer ply or belt layer), B (a cut across a tread rib) and C (undercutting at the base of a cut). Below, a tire with a peeled rib, the tread torn away along one rib.
 
 **Figure 13-142.** Bulges and tread separation are cause for removal of a tire from service.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a tire cross-section with tread reinforcing plies and casing outer ply labeled, beside a view of a tire with a bulge in the sidewall and a section where the tread has separated from the casing.
 
 [Page 13-82]
 
@@ -1714,7 +1714,7 @@ Abulge or separation of the tread from the tire carcass is cause for immediate r
 
 **Figure 13-141.** Landing with the brake on causes a tire flat spot that exposes the under tread and requires replacement of the tire.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a tire with a worn oval flat spot on the tread, where the fabric of the under tread shows through.
 
 Operation on a grooved runway can cause an aircraft tire tread to develop shallow chevron shaped cuts. These cuts are allowed for continued service, unless chunks or cuts into the fabric of the tire result. Deep chevrons that cause a chunk of the tread to be removed should not expose more than 1 square inch of the reinforcing or protector ply. Consult the applicable inspection parameters to determine the allowable extent of chevron cutting. [Figure 13-143]
 
@@ -1726,11 +1726,11 @@ Cracking in a tread groove of an aircraft tire is generally not acceptable if mo
 
 **Figure 13-145.** A thrown tread can result from a groove crack or tread undercutting and must be removed from service.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three illustrations: a tread groove with a crack at its base, a tread groove with the tread undercut from the base of the groove, and a tire whose tread has been thrown off, exposing the casing.
 
 **Figure 13-143.** Chevron cuts in a tire are caused by operation on grooved runway surfaces. Shallow chevron cuts are permitted on aircraft tires.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a tire tread covered with many small chevron-shaped cuts across the ribs.
 
 [Page 13-83]
 
@@ -1740,7 +1740,7 @@ Tires are also subject to degradation from ozone and weather. Tires on aircraft 
 
 **Figure 13-144.** Tread chipping and chunking of a tire requires that the tire be removed from service if more than 1 square inch of the reinforcing ply or protector ply is exposed.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a radial tire tread with chips and chunks missing from the tread rubber (shown in red); the protector ply, "Bolt plies" and casing outer ply are labeled.
 
 ##### Sidewall Condition
 
@@ -1754,11 +1754,11 @@ Removal of any tire and wheel assembly should be accomplished following all airc
 
 **Figure 13-146.** Cover tires to protect from harmful chemicals and from the elements when parked outside for long periods of time.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of an aircraft wheel and tire wrapped in a reflective silver cover, resting on wooden blocks on the ramp.
 
 **Figure 13-147.** Cracking and checking in the sidewall of a tire is acceptable for service as long as it does not extend to or expose the sidewall carcass plies.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a tire sidewall with a patch of fine surface cracks and checking.
 
 [Page 13-84]
 
@@ -1768,7 +1768,7 @@ Deflate all unserviceable and damaged tires before removal from the aircraft. Us
 
 **Figure 13-148.** To avoid potential injury, approach a tire/wheel assembly that has damage or has been overheated at an angle toward the tire shoulder only after it has cooled to ambient temperature.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a dual-wheel gear seen from the front, with an arrow showing the angle of approach toward the tire shoulder.
 
 For tracking purposes, ensure damaged areas of a tire are marked before deflation. Record all known information about an unserviceable tire and attach it to the tire for use by the retread repair station.
 
@@ -1778,11 +1778,11 @@ The bead area of the tire sits firmly against the rim shoulder and must be broke
 
 **Figure 13-149.** The tire valve core should be removed after the tire is completely deflated and before the tire and wheel assembly is removed from the aircraft.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Close-up photograph of a tire valve core.
 
 **Figure 13-151.** An electrohydraulic tire bead breaker (left) used on large tires and a manual tire bead breaker (right) used on small tires.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs: a blue electrohydraulic bead breaker with a large tire in it and a control box (left), and a yellow manual bead breaker with a long lever over a small tire (right).
 
 [Page 13-85]
 
@@ -1792,7 +1792,7 @@ Radial tires have only one bead bundle on each side of the tire. The sidewall is
 
 **Figure 13-150.** A ring adapter applies pressure around the entire circumference of the lower sidewall of the tire to break the bead free from the wheel rim. The diameter of the adapter must be correct for the tire and the travel limited so as to not injure the tire.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Labeled cross-section of a bead breaker: the tire and wheel are held between a fixed adaptor ring and a movable adaptor ring pushed by a ram. Dimensions marked: 4" (100 mm) travel and 0.4" (10 mm) radial clearance.
 
 #### Tire Inspection Off of the Aircraft
 
@@ -1824,7 +1824,7 @@ An aircraft tire contains natural rubber compounds that are prone to degradation
 
 **Figure 13-152.** Ozone cracking in a tire tread groove is facilitated by horizontal stacking.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a ribbed tire with an enlarged view of one tread groove showing ozone cracking along its base.
 
 [Page 13-87]
 
@@ -1870,7 +1870,7 @@ Aircraft tire and wheel assemblies are subject to enormous stress while in servi
 
 **Figure 13-153.** During inspection, an aircraft tire tube should retain its natural contour. Tubes with thinned areas or that have taken a set should be discarded and replaced.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three illustrations of tube cross-sections: A. Natural contour (an even curve); B. Taking a Set (flattened with creases, arrows marking them); C. Thinned out at edges (arrows marking the thin areas).
 
 [Page 13-88]
 
@@ -1880,7 +1880,7 @@ A final inspection of the tire to be mounted should be made. Most important is t
 
 **Figure 13-154.** The wheel half O-ring for a tubeless tire wheel assembly must be in good condition and lubricated to seal for the entire life of the tire. The mating surfaces of the wheel halves must also be in good condition.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of hands placing a red O-ring into the groove of a wheel half.
 
 Tire beads are sometimes lubricated when mounted on aluminum wheels. Follow the manufacturer's instructions and use only the non-hydrocarbon lubricant specified. Never lubricate any tire bead with grease. Do not use lubricants with magnesium alloy wheels. Most radial tires are mounted without lubricant. The airframe manufacturer may specify lubrication for a radial tire in a few cases.
 
@@ -1892,7 +1892,7 @@ For the initial inflation of an aircraft tire and wheel assembly, the tire must 
 
 **Figure 13-155.** Modern tire inflation cages have been tested to withstand catastrophic failure of a tire and wheel assembly during inflation. All newly mounted tires should be inflated in such a cage.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Two photographs of tire inflation cages: a gray cage with orange restraining straps and a lever (left), and a blue enclosed cage marked KUNZ (right).
 
 [Page 13-89]
 
@@ -1904,17 +1904,17 @@ Wheel and tire inspection should precede the mounting of any tire, including tub
 
 **Figure 13-156.** Tire talc is used on the inside of tube-type tires and the outside of aircraft tubes. This prevents binding and allows the tube to expand without stress into place within the tire.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a plastic jar of tire talc with a blue lid.
 
 Once wheel balance is marked and the tube balance mark and the tire balance mark are all positioned correctly, install the outboard wheel half so the valve stem of the tube passes through the valve stem opening. [Figure 13-158] Mate the inboard wheel half to it, being careful not to pinch the tube between the wheel rims. Install the tie bolts, tighten, and torque as specified. Inflate the assembly in a tire inflation cage.
 
 **Figure 13-157.** When assembling a tube into a tire, the heavy balance mark on the tube is aligned with the light balance mark on the tire.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a tube inside a tire: a white stripe on the tube (the heavy balance mark) is next to the valve stem, and a dot on the tire sidewall marks the tire's light balance point. The sidewall is marked MADE IN U.S.A.
 
 **Figure 13-158.** Mounting a tube type tire with the tube valve stem positioned to pass through the outboard wheel half.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a wheel and tube-type tire, with the tube valve stem passing through a hole in the wheel half.
 
 [Page 13-90]
 
@@ -1934,11 +1934,11 @@ Aircraft tires experience longer life if operated in a manner to conserve wear a
 
 **Figure 13-159.** A typical aircraft tire and wheel balancing stand.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Photograph of a tire and wheel assembly mounted on a cone on a green A-frame balancing stand.
 
 **Figure 13-160.** A tire balancing patch (left), adhesive wheel weights (center), and a bolted wheel weight (right) are all used to balance aircraft tire and wheel assemblies per the manufacturer's instructions.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Three photographs: a balancing patch inside a tire (left), adhesive weights on a wheel (center), and a weight bolted to a wheel (right).
 
 [Page 13-91]
 
@@ -1974,7 +1974,7 @@ Skidding on a wet, icy, or dry runway is accompanied by the threat of tire failu
 
 **Figure 13-161.** Heavy braking during an aborted takeoff caused these tires to fail.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a main gear with four tires and their brakes; two of the tires have failed, with torn treads and blown-out sidewalls.
 
 Viscous hydroplaning occurs on runways with a thin film of water that mixes with contaminants to cause an extremely slick condition. This can also happen on a very smooth runway surface. A tire with a locked brake during viscous hydroplaning can form an area of reverted rubber or skid burn in the tread. While the tire may continue in service if the damage is not too severe, it can be cause for removal if the reinforcing tread or protector ply is penetrated. The same damage can occur while skidding on ice.
 
@@ -1982,4 +1982,4 @@ Modern runways are designed to drain water rapidly and provide good traction for
 
 **Figure 13-162.** Crosscut runway surfaces drain water rapidly but increase tire wear.
 
-*Figure description:* (Description not yet written.)
+*Figure description:* Illustration of a runway end marked 36 with a section enlarged to show grooves cut across the runway surface, with a scale marked 1, 2, 3.
